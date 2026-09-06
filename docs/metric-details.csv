@@ -12400,3 +12400,34 @@ date,repo,type,event,number,title,url
 2026-09-04,fullsend,issue,closed,1129,"Follow-up from PR #1113: strings.Contains(org, ""--"") check rejects valid GitHub org names with consecutive hyp...",https://github.com/fullsend-ai/fullsend/issues/1129
 2026-09-04,agents,pr,opened,1181,"fix(#1116): use deployment-agnostic model aliases in review sub-agents",https://github.com/fullsend-ai/agents/pull/1181
 2026-09-04,agents,pr,opened,1178,"fix(#1177): raise review timeout to 45m and reduce context for large PRs",https://github.com/fullsend-ai/agents/pull/1178
+2026-09-05,fullsend,pr,opened,7049,"fix(#7042): no retry after a timeout, terminate the agent, export the budget to the sandbox",https://github.com/fullsend-ai/fullsend/pull/7049
+2026-09-05,fullsend,pr,opened,7047,"chore(deps): update dependency @earendil-works/pi-coding-agent to v0.85.1",https://github.com/fullsend-ai/fullsend/pull/7047
+2026-09-05,fullsend,pr,opened,7046,"ci(#7045): add security-hook pytest suite to script-test target",https://github.com/fullsend-ai/fullsend/pull/7046
+2026-09-05,fullsend,pr,opened,7044,"fix(#7043): keep analysis_incomplete blocking and fail closed on malformed tirith output",https://github.com/fullsend-ai/fullsend/pull/7044
+2026-09-05,fullsend,pr,opened,7041,"chore(deps): update dependency @anthropic-ai/claude-code to v2.1.263",https://github.com/fullsend-ai/fullsend/pull/7041
+2026-09-05,fullsend,pr,opened,7040,"docs(#7039): correct Vertex alias resolution in pinned-binaries table",https://github.com/fullsend-ai/fullsend/pull/7040
+2026-09-05,fullsend,pr,opened,7038,"feat(runtime): per-persona model configuration for pi sub-agents (#7031)",https://github.com/fullsend-ai/fullsend/pull/7038
+2026-09-05,fullsend,pr,opened,7036,"docs(#7035): document provider-qualification invariant for model alias values",https://github.com/fullsend-ai/fullsend/pull/7036
+2026-09-05,fullsend,pr,merged,7049,"fix(#7042): no retry after a timeout, terminate the agent, export the budget to the sandbox",https://github.com/fullsend-ai/fullsend/pull/7049
+2026-09-05,fullsend,pr,merged,7044,"fix(#7043): keep analysis_incomplete blocking and fail closed on malformed tirith output",https://github.com/fullsend-ai/fullsend/pull/7044
+2026-09-05,fullsend,pr,merged,7038,"feat(runtime): per-persona model configuration for pi sub-agents (#7031)",https://github.com/fullsend-ai/fullsend/pull/7038
+2026-09-05,fullsend,pr,merged,7028,"fix(#7020): point fable at claude-fable-5-1 and thread config aliases into sub-agent dispatch",https://github.com/fullsend-ai/fullsend/pull/7028
+2026-09-05,fullsend,issue,opened,7051,"Review agent should verify loop-exit paths preserve post-loop invariants",https://github.com/fullsend-ai/fullsend/issues/7051
+2026-09-05,fullsend,issue,opened,7050,"Suppress status comments for review runs superseded by a newer push",https://github.com/fullsend-ai/fullsend/issues/7050
+2026-09-05,fullsend,issue,opened,7048,"release: open the agents harness image-digest repin PR from the tag build instead of by hand (and tag agents after it lands)",https://github.com/fullsend-ai/fullsend/issues/7048
+2026-09-05,fullsend,issue,opened,7045,"ci: the security-hook Python tests (internal/security/hooks/*_test.py) are not run by any CI job",https://github.com/fullsend-ai/fullsend/issues/7045
+2026-09-05,fullsend,issue,opened,7043,"sandbox hooks: tirith 0.4.0 blocks POSIX `[ … ]` tests and `$( )` inside `$(( ))` as analysis_incomplete (HIGH), breaking documented agent snippets",https://github.com/fullsend-ai/fullsend/issues/7043
+2026-09-05,fullsend,issue,opened,7042,"run: a timed-out validation-loop iteration must not retry from scratch; export the budget and send a wrap-up signal",https://github.com/fullsend-ai/fullsend/issues/7042
+2026-09-05,fullsend,issue,opened,7039,"docs: runtime-implementation.md says ANTHROPIC_DEFAULT_*_MODEL does not steer aliases on Vertex — it does (verified A/B on 2.1.258)",https://github.com/fullsend-ai/fullsend/issues/7039
+2026-09-05,fullsend,issue,opened,7037,"Filter fullsend/onboard branch from shim workflow dispatch",https://github.com/fullsend-ai/fullsend/issues/7037
+2026-09-05,fullsend,issue,opened,7035,"Document provider-qualification patterns for model alias resolution in runtime docs",https://github.com/fullsend-ai/fullsend/issues/7035
+2026-09-05,fullsend,issue,opened,7034,"mint-cf-worker-test is red on main: npm install fails with ""Cannot read properties of null (reading 'edgesOut')""",https://github.com/fullsend-ai/fullsend/issues/7034
+2026-09-05,fullsend,issue,closed,7048,"release: open the agents harness image-digest repin PR from the tag build instead of by hand (and tag agents after it lands)",https://github.com/fullsend-ai/fullsend/issues/7048
+2026-09-05,fullsend,issue,closed,7043,"sandbox hooks: tirith 0.4.0 blocks POSIX `[ … ]` tests and `$( )` inside `$(( ))` as analysis_incomplete (HIGH), breaking documented agent snippets",https://github.com/fullsend-ai/fullsend/issues/7043
+2026-09-05,fullsend,issue,closed,7031,"sub-agents: per-persona model configuration (`agents[].subagents`), resolved by the runner, dispatched by `subagent_type`",https://github.com/fullsend-ai/fullsend/issues/7031
+2026-09-05,fullsend,issue,closed,7020,"pi: the default model alias table still points at the previous Claude generations (sonnet 4-6, opus 4-6)",https://github.com/fullsend-ai/fullsend/issues/7020
+2026-09-05,agents,pr,opened,{,"",
+2026-09-05,agents,pr,opened,"message": "API rate limit exceeded for installation. If you reach out to GitHub Support for help, please include the request ID 8C0E:21857A:387180:B85FC0:6A9D3829 and timestamp 2026-09-06 09:53:45 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https:\/\/docs.github.com\/en\/site-policy\/github-terms\/github-terms-of-service)",,"",
+2026-09-05,agents,pr,opened,"documentation_url": "https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",,"",
+2026-09-05,agents,pr,opened,"status": "403","",
+2026-09-05,agents,pr,opened,},"",
