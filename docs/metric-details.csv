@@ -14393,3 +14393,45 @@ date,repo,type,event,number,title,url
 2026-09-25,agents,pr,opened,"documentation_url": "https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",,"",
 2026-09-25,agents,pr,opened,"status": "403","",
 2026-09-25,agents,pr,opened,},"",
+2026-09-26,fullsend,pr,opened,7762,"feat(#7761): split GitLab runner tags by job class",https://github.com/fullsend-ai/fullsend/pull/7762
+2026-09-26,fullsend,pr,opened,7760,"test(#7633): cover managed config through repos CLI",https://github.com/fullsend-ai/fullsend/pull/7760
+2026-09-26,fullsend,pr,opened,7759,"docs(#7758): record hybrid GitLab webhook+poller dispatch",https://github.com/fullsend-ai/fullsend/pull/7759
+2026-09-26,fullsend,pr,opened,7757,"docs(#7756): document AgentEntries last-writer-wins convention",https://github.com/fullsend-ai/fullsend/pull/7757
+2026-09-26,fullsend,pr,opened,7755,"feat(#7749)!: add managed-config pre-write safety gate",https://github.com/fullsend-ai/fullsend/pull/7755
+2026-09-26,fullsend,pr,opened,7754,"chore(deps): update dependency fullsend-ai/pi-anthropic-vertex to v0.1.1 - autoclosed",https://github.com/fullsend-ai/fullsend/pull/7754
+2026-09-26,fullsend,pr,opened,7753,"fix(#7750): bump pi-anthropic-vertex to v0.1.1 for Vertex org policy",https://github.com/fullsend-ai/fullsend/pull/7753
+2026-09-26,fullsend,pr,opened,7747,"chore(deps): update dependency @openai/codex to v0.157.1",https://github.com/fullsend-ai/fullsend/pull/7747
+2026-09-26,fullsend,pr,opened,7744,"docs(#7743): document GitLab runner hub assignment",https://github.com/fullsend-ai/fullsend/pull/7744
+2026-09-26,fullsend,pr,merged,7760,"test(#7633): cover managed config through repos CLI",https://github.com/fullsend-ai/fullsend/pull/7760
+2026-09-26,fullsend,pr,merged,7755,"feat(#7749)!: add managed-config pre-write safety gate",https://github.com/fullsend-ai/fullsend/pull/7755
+2026-09-26,fullsend,pr,merged,7753,"fix(#7750): bump pi-anthropic-vertex to v0.1.1 for Vertex org policy",https://github.com/fullsend-ai/fullsend/pull/7753
+2026-09-26,fullsend,pr,merged,7744,"docs(#7743): document GitLab runner hub assignment",https://github.com/fullsend-ai/fullsend/pull/7744
+2026-09-26,fullsend,pr,merged,7742,"fix(#7741): local run --forge docs; pin codex project trust and read AGENTS.md",https://github.com/fullsend-ai/fullsend/pull/7742
+2026-09-26,fullsend,pr,merged,7699,"chore(deps): update renovatebot/github-action action to v46.3.4",https://github.com/fullsend-ai/fullsend/pull/7699
+2026-09-26,fullsend,pr,merged,7638,"feat(#7632)!: integrate managed repository configuration with install and drift",https://github.com/fullsend-ai/fullsend/pull/7638
+2026-09-26,fullsend,pr,merged,7636,"feat(#7631): add repos.yaml managed repository configuration and layered resolution",https://github.com/fullsend-ai/fullsend/pull/7636
+2026-09-26,fullsend,issue,opened,7761,"Split GitLab runner_tags into agent_runner_tags + control_runner_tags for per-job-class routing",https://github.com/fullsend-ai/fullsend/issues/7761
+2026-09-26,fullsend,issue,opened,7758,"Update ADR 0067: adopt hybrid GitLab dispatch (webhook fast-path + poller backstop)",https://github.com/fullsend-ai/fullsend/issues/7758
+2026-09-26,fullsend,issue,opened,7756,"Document the last-writer-wins AgentEntries convention in docs/contributing/go-code.md",https://github.com/fullsend-ai/fullsend/issues/7756
+2026-09-26,fullsend,issue,opened,7752,"Investigate Grok SSE keepalive fix regression or deployment gap",https://github.com/fullsend-ai/fullsend/issues/7752
+2026-09-26,fullsend,issue,opened,7751,"Move to OpenShell 0.1.1",https://github.com/fullsend-ai/fullsend/issues/7751
+2026-09-26,fullsend,issue,opened,7750,"pi 0.87.1: Claude on Vertex fails with a structured_outputs 400 where an org policy restricts partner-model features; bump pi-anthropic-vertex",https://github.com/fullsend-ai/fullsend/issues/7750
+2026-09-26,fullsend,issue,opened,7749,"Implement ADR-0122 pre-write safety gate and complete managed-configuration rename",https://github.com/fullsend-ai/fullsend/issues/7749
+2026-09-26,fullsend,issue,opened,7748,"OpenAI credential refresh timer stops during host sleep, key expires",https://github.com/fullsend-ai/fullsend/issues/7748
+2026-09-26,fullsend,issue,opened,7746,"Add a CI check for compile-time optional-interface assertions and runtime-interface-contract docs sync in internal/runtime",https://github.com/fullsend-ai/fullsend/issues/7746
+2026-09-26,fullsend,issue,opened,7745,"Auto-file or require a tracking issue when a merge comment defers outstanding bot CHANGES_REQUESTED findings to a follow-up",https://github.com/fullsend-ai/fullsend/issues/7745
+2026-09-26,fullsend,issue,opened,7743,"docs: document GitLab runner hub assignment",https://github.com/fullsend-ai/fullsend/issues/7743
+2026-09-26,fullsend,issue,closed,7750,"pi 0.87.1: Claude on Vertex fails with a structured_outputs 400 where an org policy restricts partner-model features; bump pi-anthropic-vertex",https://github.com/fullsend-ai/fullsend/issues/7750
+2026-09-26,fullsend,issue,closed,7749,"Implement ADR-0122 pre-write safety gate and complete managed-configuration rename",https://github.com/fullsend-ai/fullsend/issues/7749
+2026-09-26,fullsend,issue,closed,7745,"Auto-file or require a tracking issue when a merge comment defers outstanding bot CHANGES_REQUESTED findings to a follow-up",https://github.com/fullsend-ai/fullsend/issues/7745
+2026-09-26,fullsend,issue,closed,7743,"docs: document GitLab runner hub assignment",https://github.com/fullsend-ai/fullsend/issues/7743
+2026-09-26,fullsend,issue,closed,7741,"Local run docs need --forge github; codex runtime should pin project trust and read AGENTS.md",https://github.com/fullsend-ai/fullsend/issues/7741
+2026-09-26,fullsend,issue,closed,7633,"Add ADR-0122 integration coverage and repository configuration documentation",https://github.com/fullsend-ai/fullsend/issues/7633
+2026-09-26,fullsend,issue,closed,7632,"Integrate managed repository configuration with install, convergence, and drift",https://github.com/fullsend-ai/fullsend/issues/7632
+2026-09-26,fullsend,issue,closed,7631,"Add repos.yaml managed repository configuration and layered resolution",https://github.com/fullsend-ai/fullsend/issues/7631
+2026-09-26,fullsend,issue,closed,7630,"Epic: Implement ADR-0122 managed repository configuration",https://github.com/fullsend-ai/fullsend/issues/7630
+2026-09-26,agents,pr,opened,{,"",
+2026-09-26,agents,pr,opened,"message": "API rate limit exceeded for installation. If you reach out to GitHub Support for help, please include the request ID 2806:34FDAE:15416BE:46BE24A:6AB8F76F and timestamp 2026-09-27 11:01:03 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https:\/\/docs.github.com\/en\/site-policy\/github-terms\/github-terms-of-service)",,"",
+2026-09-26,agents,pr,opened,"documentation_url": "https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",,"",
+2026-09-26,agents,pr,opened,"status": "403","",
+2026-09-26,agents,pr,opened,},"",
