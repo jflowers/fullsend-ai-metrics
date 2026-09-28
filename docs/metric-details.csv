@@ -14435,3 +14435,34 @@ date,repo,type,event,number,title,url
 2026-09-26,agents,pr,opened,"documentation_url": "https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",,"",
 2026-09-26,agents,pr,opened,"status": "403","",
 2026-09-26,agents,pr,opened,},"",
+2026-09-27,fullsend,pr,opened,7780,"feat(#7767): add GitLab trigger-token and webhook CRUD",https://github.com/fullsend-ai/fullsend/pull/7780
+2026-09-27,fullsend,pr,opened,7779,"fix(deps): update module github.com/google/cel-go to v0.30.0",https://github.com/fullsend-ai/fullsend/pull/7779
+2026-09-27,fullsend,pr,opened,7778,"ci(#7777): use org-level roles for behaviour-test actors",https://github.com/fullsend-ai/fullsend/pull/7778
+2026-09-27,fullsend,pr,opened,7765,"docs(authorization)!: define bot identity resolution contract",https://github.com/fullsend-ai/fullsend/pull/7765
+2026-09-27,fullsend,pr,opened,7763,"chore(deps): update dependency nvidia/openshell to v0.1.1",https://github.com/fullsend-ai/fullsend/pull/7763
+2026-09-27,fullsend,pr,merged,7778,"ci(#7777): use org-level roles for behaviour-test actors",https://github.com/fullsend-ai/fullsend/pull/7778
+2026-09-27,fullsend,pr,merged,7762,"feat(#7761): split GitLab runner tags by job class",https://github.com/fullsend-ai/fullsend/pull/7762
+2026-09-27,fullsend,pr,merged,7398,"test(#6120): delete leased pool repos after each scenario",https://github.com/fullsend-ai/fullsend/pull/7398
+2026-09-27,fullsend,pr,merged,7074,"feat(cli)!: authenticate mint status against /v1/status with GitHub credentials",https://github.com/fullsend-ai/fullsend/pull/7074
+2026-09-27,fullsend,pr,merged,6823,"fix(#6821): add Go-side context deadline and JS-side recovery for WASM mint timeout",https://github.com/fullsend-ai/fullsend/pull/6823
+2026-09-27,fullsend,pr,closed,7754,"chore(deps): update dependency fullsend-ai/pi-anthropic-vertex to v0.1.1 - autoclosed",https://github.com/fullsend-ai/fullsend/pull/7754
+2026-09-27,fullsend,issue,opened,7782,"Remove GitLab identity migration machinery and retain only the three built-in roles",https://github.com/fullsend-ai/fullsend/issues/7782
+2026-09-27,fullsend,issue,opened,7781,"run: per-iteration agent budgets are bounded by the one-hour App installation token; a steered run is clipped to 50 minutes",https://github.com/fullsend-ai/fullsend/issues/7781
+2026-09-27,fullsend,issue,opened,7777,"Use organization-level roles for behaviour-test actors in ephemeral pool orgs",https://github.com/fullsend-ai/fullsend/issues/7777
+2026-09-27,fullsend,issue,opened,7776,"ADR 0125: end-to-end validation + docs currency for hybrid GitLab dispatch",https://github.com/fullsend-ai/fullsend/issues/7776
+2026-09-27,fullsend,issue,opened,7775,"ADR 0125: uninstall — webhook/trigger teardown + scaffold/var cleanup",https://github.com/fullsend-ai/fullsend/issues/7775
+2026-09-27,fullsend,issue,opened,7774,"ADR 0125: convergence + drift + status surface for the webhook fast-path",https://github.com/fullsend-ai/fullsend/issues/7774
+2026-09-27,fullsend,issue,opened,7773,"ADR 0125: gitlab-webhook CLI driver wiring → dispatch spine → CreatePipeline",https://github.com/fullsend-ai/fullsend/issues/7773
+2026-09-27,fullsend,issue,opened,7772,"ADR 0125: install-time webhook + trigger-token provisioning (always-managed)",https://github.com/fullsend-ai/fullsend/issues/7772
+2026-09-27,fullsend,issue,opened,7771,"ADR 0125: dispatcher CI scaffold — include, job, run-dispatcher-job.sh, trigger admit rule",https://github.com/fullsend-ai/fullsend/issues/7771
+2026-09-27,fullsend,issue,opened,7770,"ADR 0125: gitlab-webhook event builder + two-dispatch-stacks resolution",https://github.com/fullsend-ai/fullsend/issues/7770
+2026-09-27,fullsend,issue,opened,7769,"ADR 0125: in-job security gate hardening (agent + poll scripts)",https://github.com/fullsend-ai/fullsend/issues/7769
+2026-09-27,fullsend,issue,opened,7768,"ADR 0125: conflict-detecting (CAS) poll-state persist for concurrent writers",https://github.com/fullsend-ai/fullsend/issues/7768
+2026-09-27,fullsend,issue,opened,7767,"ADR 0125: GitLab forge primitives — pipeline trigger-token + project-webhook CRUD",https://github.com/fullsend-ai/fullsend/issues/7767
+2026-09-27,fullsend,issue,opened,7766,"Epic: ADR 0125 — hybrid GitLab dispatch (webhook fast-path + poller backstop)",https://github.com/fullsend-ai/fullsend/issues/7766
+2026-09-27,fullsend,issue,opened,7764,"Define a forge-portable bot identity and authorization contract",https://github.com/fullsend-ai/fullsend/issues/7764
+2026-09-27,fullsend,issue,closed,7777,"Use organization-level roles for behaviour-test actors in ephemeral pool orgs",https://github.com/fullsend-ai/fullsend/issues/7777
+2026-09-27,fullsend,issue,closed,7761,"Split GitLab runner_tags into agent_runner_tags + control_runner_tags for per-job-class routing",https://github.com/fullsend-ai/fullsend/issues/7761
+2026-09-27,fullsend,issue,closed,6821,"Mint WASM isolate poisons permanently after GitHub API timeout, causing cascading 503s",https://github.com/fullsend-ai/fullsend/issues/6821
+2026-09-27,fullsend,issue,closed,6120,"test(behaviour): delete leased pool repos after scenarios and recreate on acquire",https://github.com/fullsend-ai/fullsend/issues/6120
+2026-09-27,fullsend,issue,closed,5884,"cli: mint status GitHub auth against /v1/status",https://github.com/fullsend-ai/fullsend/issues/5884
