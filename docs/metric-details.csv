@@ -15509,3 +15509,45 @@ date,repo,type,event,number,title,url
 2026-10-11,agents,pr,opened,"documentation_url": "https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",,"",
 2026-10-11,agents,pr,opened,"status": "403","",
 2026-10-11,agents,pr,opened,},"",
+2026-10-12,fullsend,pr,opened,8380,"docs(spikes): add AISDLC-95 routing research",https://github.com/fullsend-ai/fullsend/pull/8380
+2026-10-12,fullsend,pr,opened,8377,"test(#2983): run every FakeClient method concurrently and fix aliasing races",https://github.com/fullsend-ai/fullsend/pull/8377
+2026-10-12,fullsend,pr,opened,8376,"test(#1135): cover UploadDir in-tree symlink preservation",https://github.com/fullsend-ai/fullsend/pull/8376
+2026-10-12,fullsend,pr,opened,8375,"docs(#8219): document the github setup to repos install migration",https://github.com/fullsend-ai/fullsend/pull/8375
+2026-10-12,fullsend,pr,opened,8374,"chore(deps): update dependency fullsend-ai/pi-inference-gateway to v0.1.3",https://github.com/fullsend-ai/fullsend/pull/8374
+2026-10-12,fullsend,pr,opened,8373,"test(prior-review): cover HTML-comment-wrapped Head SHA extraction",https://github.com/fullsend-ai/fullsend/pull/8373
+2026-10-12,fullsend,pr,opened,8368,"fix(#8367): sign GitHub scaffold commits with createCommitOnBranch",https://github.com/fullsend-ai/fullsend/pull/8368
+2026-10-12,fullsend,pr,opened,8365,"docs(#1788): document fix-agent control labels in bugfix guide",https://github.com/fullsend-ai/fullsend/pull/8365
+2026-10-12,fullsend,pr,opened,8362,"chore(e2e): align pool provisioning with test apps",https://github.com/fullsend-ai/fullsend/pull/8362
+2026-10-12,fullsend,pr,opened,8361,"fix(#7903): add missing workflow_dispatch input descriptions to prioritize scaffold",https://github.com/fullsend-ai/fullsend/pull/8361
+2026-10-12,fullsend,pr,opened,8360,"refactor(tracker): Interface scaffolding for future Move functionality",https://github.com/fullsend-ai/fullsend/pull/8360
+2026-10-12,fullsend,pr,opened,8358,"test(#5613)!: cover unauthorized-actor fork PR denial on harness-dispatch",https://github.com/fullsend-ai/fullsend/pull/8358
+2026-10-12,fullsend,pr,opened,8355,"chore(deps): update ubi10 base images",https://github.com/fullsend-ai/fullsend/pull/8355
+2026-10-12,fullsend,pr,opened,8354,"fix(#8353): paginate review-body pre-fetch and wire it into the fix job",https://github.com/fullsend-ai/fullsend/pull/8354
+2026-10-12,fullsend,pr,merged,8358,"test(#5613)!: cover unauthorized-actor fork PR denial on harness-dispatch",https://github.com/fullsend-ai/fullsend/pull/8358
+2026-10-12,fullsend,pr,merged,8354,"fix(#8353): paginate review-body pre-fetch and wire it into the fix job",https://github.com/fullsend-ai/fullsend/pull/8354
+2026-10-12,fullsend,pr,merged,8348,"chore(#8035): remove this repo's eval/triage functional-test suite",https://github.com/fullsend-ai/fullsend/pull/8348
+2026-10-12,fullsend,pr,merged,8324,"chore(tooling): add optional Atlassian CLI to mise",https://github.com/fullsend-ai/fullsend/pull/8324
+2026-10-12,fullsend,pr,merged,7852,"fix(#7849)!: fail before sandbox create when harness has no policy",https://github.com/fullsend-ai/fullsend/pull/7852
+2026-10-12,fullsend,issue,opened,8383,"Route trivial bot dependency-bump PRs to lighter review configuration",https://github.com/fullsend-ai/fullsend/issues/8383
+2026-10-12,fullsend,issue,opened,8382,"Fix dispatch eligibility check should skip cleanly for ineligible bot PRs",https://github.com/fullsend-ai/fullsend/issues/8382
+2026-10-12,fullsend,issue,opened,8381,"Resolve child skill identities before the base merge",https://github.com/fullsend-ai/fullsend/issues/8381
+2026-10-12,fullsend,issue,opened,8379,"forge: 17 FakeClient read methods return internal storage instead of copies",https://github.com/fullsend-ai/fullsend/issues/8379
+2026-10-12,fullsend,issue,opened,8378,"forge: TestFakeClient_ErrorInjection covers 53 of 130 FakeClient methods",https://github.com/fullsend-ai/fullsend/issues/8378
+2026-10-12,fullsend,issue,opened,8372,"Draft ADR for spec-driven development tooling integration",https://github.com/fullsend-ai/fullsend/issues/8372
+2026-10-12,fullsend,issue,opened,8371,"check-e2e-authorization.sh policy duplicated between fullsend and agents with no drift guard",https://github.com/fullsend-ai/fullsend/issues/8371
+2026-10-12,fullsend,issue,opened,8370,"gateway route: Messages-dialect models fail against a gateway that authenticates /v1/messages by x-api-key",https://github.com/fullsend-ai/fullsend/issues/8370
+2026-10-12,fullsend,issue,opened,8369,"agent new: default sandbox image is stale, so a generated pi agent on a gateway/ model fails with ""Model not found""",https://github.com/fullsend-ai/fullsend/issues/8369
+2026-10-12,fullsend,issue,opened,8367,"repos install: GitHub scaffold commits are unsigned with user tokens and rejected by rulesets requiring verified signatures",https://github.com/fullsend-ai/fullsend/issues/8367
+2026-10-12,fullsend,issue,opened,8366,"v0.33.0 release notes contain an unexpanded `$(cat /tmp/release-body-existing.txt)` placeholder and lost the changelog, including the #5552 breaking scaffold removal",https://github.com/fullsend-ai/fullsend/issues/8366
+2026-10-12,fullsend,issue,opened,8359,"Surface review dispatch failures visibly on PRs instead of only in workflow logs",https://github.com/fullsend-ai/fullsend/issues/8359
+2026-10-12,fullsend,issue,opened,8357,"Review agent's own PR comment re-triggers issue_comment dispatch (self-loop)",https://github.com/fullsend-ai/fullsend/issues/8357
+2026-10-12,fullsend,issue,opened,8356,"Dispatch workflow fans out to 5 parallel pull_request_target runs on PR open",https://github.com/fullsend-ai/fullsend/issues/8356
+2026-10-12,fullsend,issue,opened,8353,"Automatic fix dispatch misses change requests after 30 PR reviews",https://github.com/fullsend-ai/fullsend/issues/8353
+2026-10-12,fullsend,issue,closed,8353,"Automatic fix dispatch misses change requests after 30 PR reviews",https://github.com/fullsend-ai/fullsend/issues/8353
+2026-10-12,fullsend,issue,closed,8230,"dispatch: role enablement ignores config.base.yaml and mismatches Go roles semantics",https://github.com/fullsend-ai/fullsend/issues/8230
+2026-10-12,fullsend,issue,closed,8035,"Retire this repo's eval/triage functional tests, or run them on the release-tier rules",https://github.com/fullsend-ai/fullsend/issues/8035
+2026-10-12,fullsend,issue,closed,7849,"run: fail early when a sandbox harness names no policy (OpenShell 0.1)",https://github.com/fullsend-ai/fullsend/issues/7849
+2026-10-12,fullsend,issue,closed,6977,"run: profile precedence between harness-resolved and profiles/ directory copies depends on two independent import caches",https://github.com/fullsend-ai/fullsend/issues/6977
+2026-10-12,fullsend,issue,closed,5613,"test(behaviour): harness-dispatch fork PR unauthorized-actor (ADR 54)",https://github.com/fullsend-ai/fullsend/issues/5613
+2026-10-12,metrics,pr,opened,16,"feat(quality): add 30-day escaped-fix rate",https://github.com/fullsend-ai/metrics/pull/16
+2026-10-12,metrics,pr,opened,15,"fix(dashboard): wrap chart legends and show values on hover",https://github.com/fullsend-ai/metrics/pull/15
