@@ -2058,3 +2058,8 @@ date,repo,type,event,number,actor,title,url
 2026-10-15,auto-merge,pr,opened_core,30,ascerra,"test: exercise the live Gemara-controlled merge path",https://github.com/fullsend-ai/auto-merge/pull/30
 2026-10-15,auto-merge,pr,opened_core,29,ascerra,"Trial: observe a hold when required CI fails",https://github.com/fullsend-ai/auto-merge/pull/29
 2026-10-15,auto-merge,pr,opened_core,28,ascerra,"Trial: documentation-only Gemara shadow observation",https://github.com/fullsend-ai/auto-merge/pull/28
+2026-10-17,fullsend,issue,closed_via_pr_external,8370,jwm4,"gateway route: Messages-dialect models fail against a gateway that authenticates /v1/messages by x-api-key",https://github.com/fullsend-ai/fullsend/issues/8370
+2026-10-17,fullsend,issue,closed_via_pr_external,8367,gwenneg,"repos install: GitHub scaffold commits are unsigned with user tokens and rejected by rulesets requiring verified signatures",https://github.com/fullsend-ai/fullsend/issues/8367
+2026-10-17,fullsend,issue,closed_via_pr_external,7823,yvonnedevlinrh,"feat(runtime/opencode): auto-append @default suffix for Vertex model aliases",https://github.com/fullsend-ai/fullsend/issues/7823
+2026-10-17,fullsend,pr,opened_core,8536,waynesun09,"fix(shim): keep the live per-repo shim identical to its template",https://github.com/fullsend-ai/fullsend/pull/8536
+2026-10-17,auto-merge,pr,opened_core,48,ascerra,"fix(review): supply readonly GitHub gateway credential",https://github.com/fullsend-ai/auto-merge/pull/48
