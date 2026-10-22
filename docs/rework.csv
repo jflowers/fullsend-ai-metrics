@@ -1306,3 +1306,11 @@ date,bot,items_touched,items_reworked,rework_rate
 2026-10-20,qodo-code-review[bot],12,12,1.000
 2026-10-20,renovate-fullsend[bot],8,8,1.000
 2026-10-20,__aggregate__,299,232,0.776
+2026-10-21,fullsend-ai-coder[bot],30,27,0.900
+2026-10-21,fullsend-ai-review[bot],35,32,0.914
+2026-10-21,fullsend-ai-triage[bot],13,10,0.769
+2026-10-21,gemara-auto-merge-pilot-lab[bot],1,1,1.000
+2026-10-21,github-actions[bot],5,0,0.000
+2026-10-21,github-merge-queue[bot],6,1,0.167
+2026-10-21,qodo-code-review[bot],14,13,0.929
+2026-10-21,__aggregate__,104,84,0.808
