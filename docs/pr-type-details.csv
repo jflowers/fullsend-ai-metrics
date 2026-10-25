@@ -2216,3 +2216,19 @@ date,repo,number,title,pr_type,fix_source,issue_number,issue_author,url
 2026-10-22,agents,1696,chore(#1591)!: require release coverage for evaluated agents,chore,,,,https://github.com/fullsend-ai/agents/pull/1696
 2026-10-22,agents,1688,feat(#1680): add fullsend-fix-budget/N label to lower the automatic fix cap,feat,,,,https://github.com/fullsend-ai/agents/pull/1688
 2026-10-22,agents,1364,fix(#1361): retry PR creation and failure comments on 5xx,fix,bot,1361,fullsend-ai-retro[bot],https://github.com/fullsend-ai/agents/pull/1364
+2026-10-24,fullsend,8793,test(#8792): add step asserting a stage was skipped by its pre-script,test,,,,https://github.com/fullsend-ai/fullsend/pull/8793
+2026-10-24,fullsend,8791,chore: update fullsend per-repo installation,chore,,,,https://github.com/fullsend-ai/fullsend/pull/8791
+2026-10-24,fullsend,8788,test(#8787): stop git background maintenance in checkout_branch,test,,,,https://github.com/fullsend-ai/fullsend/pull/8788
+2026-10-24,fullsend,8786,fix(#8785): ignore source-manifest line in managed config drift,fix,core,8785,ggallen,https://github.com/fullsend-ai/fullsend/pull/8786
+2026-10-24,fullsend,8784,refactor(#8246)!: remove legacy unversioned rotation-state support,other,,,,https://github.com/fullsend-ai/fullsend/pull/8784
+2026-10-24,fullsend,8783,docs(#8782): update normalized-event GitLab webhook validation status,docs,,,,https://github.com/fullsend-ai/fullsend/pull/8783
+2026-10-24,fullsend,8781,fix(#8780): silence SC2016 for stop-fix jq program in shim template,fix,core,8780,ggallen,https://github.com/fullsend-ai/fullsend/pull/8781
+2026-10-24,fullsend,8779,fix(#8777): poll inference status after provisioning a fresh slot,fix,core,8777,waynesun09,https://github.com/fullsend-ai/fullsend/pull/8779
+2026-10-24,fullsend,8778,docs(#8768): show how to check agents[].trigger with fullsend lint,docs,,,,https://github.com/fullsend-ai/fullsend/pull/8778
+2026-10-24,agents,1785,test(#1784): assert the closed-PR review skip stops the stage,test,,,,https://github.com/fullsend-ai/agents/pull/1785
+2026-10-24,agents,1783,fix(#1782): skip review stage on closed PR or skipped author,fix,core,1782,waynesun09,https://github.com/fullsend-ai/agents/pull/1783
+2026-10-24,agents,1781,test(#1778): add offline tests for pre-fix and pre-retro,test,,,,https://github.com/fullsend-ai/agents/pull/1781
+2026-10-24,agents,1780,test(#1779): cover the pre-review skip on a closed pull request,test,,,,https://github.com/fullsend-ai/agents/pull/1780
+2026-10-24,agents,1777,test(#1776): bump fullsend to main 6d925afef for status retry,test,,,,https://github.com/fullsend-ai/agents/pull/1777
+2026-10-24,agents,1775,chore: update fullsend per-repo installation,chore,,,,https://github.com/fullsend-ai/agents/pull/1775
+2026-10-24,agents,1774,test(#1765): add triage and review post-script outcome scenarios,test,,,,https://github.com/fullsend-ai/agents/pull/1774
