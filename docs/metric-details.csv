@@ -16207,3 +16207,32 @@ date,repo,type,event,number,title,url
 2026-10-24,.fullsend,pr,opened,"documentation_url": "https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",,"",
 2026-10-24,.fullsend,pr,opened,"status": "403","",
 2026-10-24,.fullsend,pr,opened,},"",
+2026-10-25,fullsend,pr,opened,8809,"fix(#6702): surface rate-limit state in harness-wait timeouts",https://github.com/fullsend-ai/fullsend/pull/8809
+2026-10-25,fullsend,pr,opened,8808,"fix(#8807): retain Analyst changes-requested notes in GitLab polling",https://github.com/fullsend-ai/fullsend/pull/8808
+2026-10-25,fullsend,pr,opened,8806,"fix(#8804): ignore GitLab note-edit webhooks in the dispatcher",https://github.com/fullsend-ai/fullsend/pull/8806
+2026-10-25,fullsend,pr,opened,8803,"fix(#8802): report pending GitLab webhook repair blocked by Poller retirement",https://github.com/fullsend-ai/fullsend/pull/8803
+2026-10-25,fullsend,pr,opened,8801,"ci(#8036): classify behaviour-suite infra failures and retry once",https://github.com/fullsend-ai/fullsend/pull/8801
+2026-10-25,fullsend,pr,opened,8800,"docs(#8799): align GitLab dispatch docs with shipped fast-path",https://github.com/fullsend-ai/fullsend/pull/8800
+2026-10-25,fullsend,pr,opened,8797,"docs(#8796): note uninstall keeps pipeline-variable restriction",https://github.com/fullsend-ai/fullsend/pull/8797
+2026-10-25,fullsend,pr,merged,8808,"fix(#8807): retain Analyst changes-requested notes in GitLab polling",https://github.com/fullsend-ai/fullsend/pull/8808
+2026-10-25,fullsend,pr,merged,8806,"fix(#8804): ignore GitLab note-edit webhooks in the dispatcher",https://github.com/fullsend-ai/fullsend/pull/8806
+2026-10-25,fullsend,pr,merged,8803,"fix(#8802): report pending GitLab webhook repair blocked by Poller retirement",https://github.com/fullsend-ai/fullsend/pull/8803
+2026-10-25,fullsend,pr,merged,8800,"docs(#8799): align GitLab dispatch docs with shipped fast-path",https://github.com/fullsend-ai/fullsend/pull/8800
+2026-10-25,fullsend,pr,merged,8797,"docs(#8796): note uninstall keeps pipeline-variable restriction",https://github.com/fullsend-ai/fullsend/pull/8797
+2026-10-25,fullsend,pr,merged,8795,"feat(#7774): report GitLab webhook fast-path readiness in repos status",https://github.com/fullsend-ai/fullsend/pull/8795
+2026-10-25,fullsend,pr,merged,8794,"test(#7775): cover GitLab uninstall fast-path teardown end to end",https://github.com/fullsend-ai/fullsend/pull/8794
+2026-10-25,fullsend,pr,merged,8399,"chore(deps): update dependency vue to v3.5.44",https://github.com/fullsend-ai/fullsend/pull/8399
+2026-10-25,fullsend,issue,opened,8807,"fix(gitlab): retain Analyst changes-requested notes in distinct-role installs",https://github.com/fullsend-ai/fullsend/issues/8807
+2026-10-25,fullsend,issue,opened,8805,"Post-review stale-head check should use harness-provided SHA, not LLM output",https://github.com/fullsend-ai/fullsend/issues/8805
+2026-10-25,fullsend,issue,opened,8804,"fix(gitlab): ignore note-edit webhooks in the dispatcher",https://github.com/fullsend-ai/fullsend/issues/8804
+2026-10-25,fullsend,issue,opened,8802,"fix(gitlab): report and reconcile dispatcher webhook drift",https://github.com/fullsend-ai/fullsend/issues/8802
+2026-10-25,fullsend,issue,opened,8799,"ADR 0125: docs currency for shipped hybrid GitLab dispatch (fast-path + poller backstop)",https://github.com/fullsend-ai/fullsend/issues/8799
+2026-10-25,fullsend,issue,opened,8798,"ADR 0125: live end-to-end validation of hybrid GitLab dispatch on a real install",https://github.com/fullsend-ai/fullsend/issues/8798
+2026-10-25,fullsend,issue,opened,8796,"GitLab webhook: reconcile probe and uninstall acceptance",https://github.com/fullsend-ai/fullsend/issues/8796
+2026-10-25,fullsend,issue,closed,8807,"fix(gitlab): retain Analyst changes-requested notes in distinct-role installs",https://github.com/fullsend-ai/fullsend/issues/8807
+2026-10-25,fullsend,issue,closed,8804,"fix(gitlab): ignore note-edit webhooks in the dispatcher",https://github.com/fullsend-ai/fullsend/issues/8804
+2026-10-25,fullsend,issue,closed,8799,"ADR 0125: docs currency for shipped hybrid GitLab dispatch (fast-path + poller backstop)",https://github.com/fullsend-ai/fullsend/issues/8799
+2026-10-25,fullsend,issue,closed,8796,"GitLab webhook: reconcile probe and uninstall acceptance",https://github.com/fullsend-ai/fullsend/issues/8796
+2026-10-25,fullsend,issue,closed,7776,"ADR 0125: end-to-end validation + docs currency for hybrid GitLab dispatch",https://github.com/fullsend-ai/fullsend/issues/7776
+2026-10-25,fullsend,issue,closed,7775,"ADR 0125: uninstall — webhook/trigger teardown + scaffold/var cleanup",https://github.com/fullsend-ai/fullsend/issues/7775
+2026-10-25,fullsend,issue,closed,7774,"ADR 0125: convergence + drift + status surface for the webhook fast-path",https://github.com/fullsend-ai/fullsend/issues/7774

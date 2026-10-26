@@ -2232,3 +2232,11 @@ date,repo,number,title,pr_type,fix_source,issue_number,issue_author,url
 2026-10-24,agents,1777,test(#1776): bump fullsend to main 6d925afef for status retry,test,,,,https://github.com/fullsend-ai/agents/pull/1777
 2026-10-24,agents,1775,chore: update fullsend per-repo installation,chore,,,,https://github.com/fullsend-ai/agents/pull/1775
 2026-10-24,agents,1774,test(#1765): add triage and review post-script outcome scenarios,test,,,,https://github.com/fullsend-ai/agents/pull/1774
+2026-10-25,fullsend,8808,fix(#8807): retain Analyst changes-requested notes in GitLab polling,fix,core,8807,ggallen,https://github.com/fullsend-ai/fullsend/pull/8808
+2026-10-25,fullsend,8806,fix(#8804): ignore GitLab note-edit webhooks in the dispatcher,fix,core,8804,ggallen,https://github.com/fullsend-ai/fullsend/pull/8806
+2026-10-25,fullsend,8803,fix(#8802): report pending GitLab webhook repair blocked by Poller retirement,fix,core,8802,ggallen,https://github.com/fullsend-ai/fullsend/pull/8803
+2026-10-25,fullsend,8800,docs(#8799): align GitLab dispatch docs with shipped fast-path,docs,,,,https://github.com/fullsend-ai/fullsend/pull/8800
+2026-10-25,fullsend,8797,docs(#8796): note uninstall keeps pipeline-variable restriction,docs,,,,https://github.com/fullsend-ai/fullsend/pull/8797
+2026-10-25,fullsend,8795,feat(#7774): report GitLab webhook fast-path readiness in repos status,feat,,,,https://github.com/fullsend-ai/fullsend/pull/8795
+2026-10-25,fullsend,8794,test(#7775): cover GitLab uninstall fast-path teardown end to end,test,,,,https://github.com/fullsend-ai/fullsend/pull/8794
+2026-10-25,fullsend,8399,chore(deps): update dependency vue to v3.5.44,chore,,,,https://github.com/fullsend-ai/fullsend/pull/8399

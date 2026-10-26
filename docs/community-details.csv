@@ -2345,3 +2345,11 @@ date,repo,type,event,number,actor,title,url
 2026-10-24,test-creator,pr,reviewed_external,86,fege,"fix(#85): accept plural owners in TBD resolution paths",https://github.com/fullsend-ai/test-creator/pull/86
 2026-10-24,agents,pr,reviewed_external,1661,shairevivo,"feat(#1654): scope review to own commits on stacked/cherry-picked PRs",https://github.com/fullsend-ai/agents/pull/1661
 2026-10-24,agents,pr,reviewed_external,1661,shairevivo,"feat(#1654): scope review to own commits on stacked/cherry-picked PRs",https://github.com/fullsend-ai/agents/pull/1661
+2026-10-25,test-creator,issue,opened_external,87,fege,"test-plan-review: decide revision in a script, not by the agent",https://github.com/fullsend-ai/test-creator/issues/87
+2026-10-25,test-creator,issue,closed_via_pr_external,87,fege,"test-plan-review: decide revision in a script, not by the agent",https://github.com/fullsend-ai/test-creator/issues/87
+2026-10-25,test-creator,pr,reviewed_external,88,fege,"fix(#87): decide review revision in the citation gate script",https://github.com/fullsend-ai/test-creator/pull/88
+2026-10-25,metrics,issue,opened_external,19,guyoron1,"feat(quality): track a 30-day escaped-fix rate",https://github.com/fullsend-ai/metrics/issues/19
+2026-10-25,agents,pr,reviewed_external,1703,Benkapner,"fix(#1702): record PR discovery failures in issue fixture capture",https://github.com/fullsend-ai/agents/pull/1703
+2026-10-25,agents,pr,reviewed_external,1661,shairevivo,"feat(#1654): scope review to own commits on stacked/cherry-picked PRs",https://github.com/fullsend-ai/agents/pull/1661
+2026-10-25,agents,pr,reviewed_external,1661,shairevivo,"feat(#1654): scope review to own commits on stacked/cherry-picked PRs",https://github.com/fullsend-ai/agents/pull/1661
+2026-10-25,agents,pr,reviewed_external,1661,shairevivo,"feat(#1654): scope review to own commits on stacked/cherry-picked PRs",https://github.com/fullsend-ai/agents/pull/1661
