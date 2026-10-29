@@ -16236,3 +16236,62 @@ date,repo,type,event,number,title,url
 2026-10-25,fullsend,issue,closed,7776,"ADR 0125: end-to-end validation + docs currency for hybrid GitLab dispatch",https://github.com/fullsend-ai/fullsend/issues/7776
 2026-10-25,fullsend,issue,closed,7775,"ADR 0125: uninstall — webhook/trigger teardown + scaffold/var cleanup",https://github.com/fullsend-ai/fullsend/issues/7775
 2026-10-25,fullsend,issue,closed,7774,"ADR 0125: convergence + drift + status surface for the webhook fast-path",https://github.com/fullsend-ai/fullsend/issues/7774
+2026-10-28,fullsend,pr,opened,8892,"feat(#8401)!: authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-28,fullsend,pr,opened,8891,"docs(adr): correlate work-item and BT scenario traces",https://github.com/fullsend-ai/fullsend/pull/8891
+2026-10-28,fullsend,pr,opened,8889,"test(config): drop repo overlay test pinning operational state",https://github.com/fullsend-ai/fullsend/pull/8889
+2026-10-28,fullsend,pr,opened,8888,"chore(deps): update experiments digest to b10796e",https://github.com/fullsend-ai/fullsend/pull/8888
+2026-10-28,fullsend,pr,opened,8882,"docs(jira): say which built-in agents handle Jira work items",https://github.com/fullsend-ai/fullsend/pull/8882
+2026-10-28,fullsend,pr,opened,8881,"ci(release): link the agents release notes from every release",https://github.com/fullsend-ai/fullsend/pull/8881
+2026-10-28,fullsend,pr,opened,8879,"chore(deps): update renovatebot/github-action action to v46.3.10",https://github.com/fullsend-ai/fullsend/pull/8879
+2026-10-28,fullsend,pr,opened,8878,"fix(#8865)!: pin GitLab runner image to fullsend_ref instead of :dev",https://github.com/fullsend-ai/fullsend/pull/8878
+2026-10-28,fullsend,pr,merged,8889,"test(config): drop repo overlay test pinning operational state",https://github.com/fullsend-ai/fullsend/pull/8889
+2026-10-28,fullsend,pr,merged,8881,"ci(release): link the agents release notes from every release",https://github.com/fullsend-ai/fullsend/pull/8881
+2026-10-28,fullsend,pr,merged,8879,"chore(deps): update renovatebot/github-action action to v46.3.10",https://github.com/fullsend-ai/fullsend/pull/8879
+2026-10-28,fullsend,pr,merged,8878,"fix(#8865)!: pin GitLab runner image to fullsend_ref instead of :dev",https://github.com/fullsend-ai/fullsend/pull/8878
+2026-10-28,fullsend,pr,merged,8872,"fix(lint)!: fail on path-shaped preflight_check values per ADR 0128",https://github.com/fullsend-ai/fullsend/pull/8872
+2026-10-28,fullsend,pr,merged,8867,"docs(#8866): drop forge-specific rationale from top-level fields",https://github.com/fullsend-ai/fullsend/pull/8867
+2026-10-28,fullsend,pr,merged,8850,"docs(#8842): fold building-custom-agents into Bring Your Own Agent",https://github.com/fullsend-ai/fullsend/pull/8850
+2026-10-28,fullsend,pr,merged,8828,"chore(deps): update experiments digest to 6a349bb",https://github.com/fullsend-ai/fullsend/pull/8828
+2026-10-28,fullsend,pr,merged,8826,"docs(ladder): request triage/write roles via issues in fullsend-ai/org",https://github.com/fullsend-ai/fullsend/pull/8826
+2026-10-28,fullsend,pr,merged,8698,"docs(adr): coalesce entity-source discovery queries",https://github.com/fullsend-ai/fullsend/pull/8698
+2026-10-28,fullsend,pr,merged,8694,"docs(adr): define selective CEL acquisition and harness admission",https://github.com/fullsend-ai/fullsend/pull/8694
+2026-10-28,fullsend,pr,closed,8062,"chore(deps): update dependency golang to v1.27.3",https://github.com/fullsend-ai/fullsend/pull/8062
+2026-10-28,fullsend,issue,opened,8894,"Remove blanket bot-author filter from dispatch shim issue comments",https://github.com/fullsend-ai/fullsend/issues/8894
+2026-10-28,fullsend,issue,opened,8893,"Scribe: manage the disabled default agent, workflow, and App lifecycle",https://github.com/fullsend-ai/fullsend/issues/8893
+2026-10-28,fullsend,issue,opened,8890,"dispatch: agent-check ignores enabled: false on source-only agents[] entries",https://github.com/fullsend-ai/fullsend/issues/8890
+2026-10-28,fullsend,issue,opened,8887,"sandbox: terminal-phase creation failure skips supervisor/gateway/container log collection, then CreateWithRetry deletes the sandbox",https://github.com/fullsend-ai/fullsend/issues/8887
+2026-10-28,fullsend,issue,opened,8886,"Manage e2e test organizations with infrastructure-as-code",https://github.com/fullsend-ai/fullsend/issues/8886
+2026-10-28,fullsend,issue,opened,8885,"preflight command timeout does not bound the child process group",https://github.com/fullsend-ai/fullsend/issues/8885
+2026-10-28,fullsend,issue,opened,8884,"CODEOWNERS: change @fullsend-ai/core to @fullsend-ai/maintainers",https://github.com/fullsend-ai/fullsend/issues/8884
+2026-10-28,fullsend,issue,opened,8883,"test(behaviour): expand the e2e pool for more scenarios and concurrency",https://github.com/fullsend-ai/fullsend/issues/8883
+2026-10-28,fullsend,issue,closed,8866,"harness-fields.md: remove the ""not a forge-specific field"" rationale text",https://github.com/fullsend-ai/fullsend/issues/8866
+2026-10-28,fullsend,issue,closed,8865,"GitLab: pin the runner image to fullsend_ref instead of tracking main (:dev)",https://github.com/fullsend-ai/fullsend/issues/8865
+2026-10-28,fullsend,issue,closed,8863,"Maintainer nomination: jwm4",https://github.com/fullsend-ai/fullsend/issues/8863
+2026-10-28,fullsend,issue,closed,8842,"docs: fold building-custom-agents.md into Bring Your Own Agent",https://github.com/fullsend-ai/fullsend/issues/8842
+2026-10-28,fullsend,issue,closed,8838,"gitlab: dispatch operations on merge-requests from forks",https://github.com/fullsend-ai/fullsend/issues/8838
+2026-10-28,fullsend,issue,closed,8598,"behaviour pool: revisit per-pass create budget and backoff for empty passes in slot allocator",https://github.com/fullsend-ai/fullsend/issues/8598
+2026-10-28,fullsend,issue,closed,8578,"test(behaviour): lease repo slots across pool orgs in the shared install driver",https://github.com/fullsend-ai/fullsend/issues/8578
+2026-10-28,fullsend,issue,closed,8551,"Maintainer nomination: dhshah13",https://github.com/fullsend-ai/fullsend/issues/8551
+2026-10-28,rfe-creator,pr,opened,274,"feat(initiative): bind the Initiative type to the RHAISTRAT project (AISDLC-461)",https://github.com/fullsend-ai/rfe-creator/pull/274
+2026-10-28,rfe-creator,pr,opened,273,"fix(fullsend): let the eval harness keep the validation loop's second iteration",https://github.com/fullsend-ai/rfe-creator/pull/273
+2026-10-28,rfe-creator,pr,opened,272,"fix(validate-types): leave the eval gate out of --verify",https://github.com/fullsend-ai/rfe-creator/pull/272
+2026-10-28,rfe-creator,pr,opened,271,"fix(fullsend): give the eval harness a prompt that carries its own name",https://github.com/fullsend-ai/rfe-creator/pull/271
+2026-10-28,rfe-creator,pr,opened,270,"fix(eval): pass --forge github to fullsend from the fullsend profile",https://github.com/fullsend-ai/rfe-creator/pull/270
+2026-10-28,rfe-creator,pr,opened,269,"feat(#268): derive the wait-for-wave block length from the Bash budget",https://github.com/fullsend-ai/rfe-creator/pull/269
+2026-10-28,rfe-creator,pr,merged,272,"fix(validate-types): leave the eval gate out of --verify",https://github.com/fullsend-ai/rfe-creator/pull/272
+2026-10-28,rfe-creator,pr,merged,271,"fix(fullsend): give the eval harness a prompt that carries its own name",https://github.com/fullsend-ai/rfe-creator/pull/271
+2026-10-28,rfe-creator,pr,merged,270,"fix(eval): pass --forge github to fullsend from the fullsend profile",https://github.com/fullsend-ai/rfe-creator/pull/270
+2026-10-28,rfe-creator,pr,merged,269,"feat(#268): derive the wait-for-wave block length from the Bash budget",https://github.com/fullsend-ai/rfe-creator/pull/269
+2026-10-28,rfe-creator,pr,merged,267,"docs: barrier contract and compaction evidence in the correctness reference (AISDLC-454)",https://github.com/fullsend-ai/rfe-creator/pull/267
+2026-10-28,rfe-creator,issue,closed,268,"Barrier discipline: wait-for-wave blocks for the Bash budget the job grants, not a fixed 90 seconds",https://github.com/fullsend-ai/rfe-creator/issues/268
+2026-10-28,.fullsend,pr,opened,204,"chore(repos): register mlflow-assessments",https://github.com/fullsend-ai/.fullsend/pull/204
+2026-10-28,.fullsend,pr,opened,203,"chore(repos): register rfe-creator's eval agent rfe-creator-eval",https://github.com/fullsend-ai/.fullsend/pull/203
+2026-10-28,.fullsend,pr,opened,202,"chore(repos): register strat-creator agents",https://github.com/fullsend-ai/.fullsend/pull/202
+2026-10-28,.fullsend,pr,opened,201,"ci(sync): accept empty repository selector",https://github.com/fullsend-ai/.fullsend/pull/201
+2026-10-28,.fullsend,pr,opened,200,"feat(repos): enable retro on human /fs-retro for fullsend and agents",https://github.com/fullsend-ai/.fullsend/pull/200
+2026-10-28,org,pr,opened,16,"feat(teams): grant core admin everywhere, add maintainers team",https://github.com/fullsend-ai/org/pull/16
+2026-10-28,org,pr,opened,15,"fix(#14): add guyoron1 to triagers team",https://github.com/fullsend-ai/org/pull/15
+2026-10-28,org,pr,merged,15,"fix(#14): add guyoron1 to triagers team",https://github.com/fullsend-ai/org/pull/15
+2026-10-28,org,issue,opened,17,"Track team permission restructure: core admin everywhere + maintainers team",https://github.com/fullsend-ai/org/issues/17
+2026-10-28,org,issue,opened,14,"Add Guy to triagers",https://github.com/fullsend-ai/org/issues/14
+2026-10-28,org,issue,closed,14,"Add Guy to triagers",https://github.com/fullsend-ai/org/issues/14

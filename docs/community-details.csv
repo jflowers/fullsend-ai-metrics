@@ -2353,3 +2353,60 @@ date,repo,type,event,number,actor,title,url
 2026-10-25,agents,pr,reviewed_external,1661,shairevivo,"feat(#1654): scope review to own commits on stacked/cherry-picked PRs",https://github.com/fullsend-ai/agents/pull/1661
 2026-10-25,agents,pr,reviewed_external,1661,shairevivo,"feat(#1654): scope review to own commits on stacked/cherry-picked PRs",https://github.com/fullsend-ai/agents/pull/1661
 2026-10-25,agents,pr,reviewed_external,1661,shairevivo,"feat(#1654): scope review to own commits on stacked/cherry-picked PRs",https://github.com/fullsend-ai/agents/pull/1661
+2026-10-28,fullsend,issue,opened_external,8887,astefanutti,"sandbox: terminal-phase creation failure skips supervisor/gateway/container log collection, then CreateWithRetry deletes the sandbox",https://github.com/fullsend-ai/fullsend/issues/8887
+2026-10-28,fullsend,issue,opened_external,8885,jflowers,"preflight command timeout does not bound the child process group",https://github.com/fullsend-ai/fullsend/issues/8885
+2026-10-28,fullsend,issue,closed_via_pr_external,8866,jflowers,"harness-fields.md: remove the ""not a forge-specific field"" rationale text",https://github.com/fullsend-ai/fullsend/issues/8866
+2026-10-28,fullsend,issue,closed_other_external,8863,jwm4,"Maintainer nomination: jwm4",https://github.com/fullsend-ai/fullsend/issues/8863
+2026-10-28,fullsend,issue,closed_other_external,8838,ianw,"gitlab: dispatch operations on merge-requests from forks",https://github.com/fullsend-ai/fullsend/issues/8838
+2026-10-28,fullsend,issue,closed_other_external,8551,dhshah13,"Maintainer nomination: dhshah13",https://github.com/fullsend-ai/fullsend/issues/8551
+2026-10-28,fullsend,pr,opened_core,8891,ifireball,"docs(adr): correlate work-item and BT scenario traces",https://github.com/fullsend-ai/fullsend/pull/8891
+2026-10-28,fullsend,pr,opened_core,8889,waynesun09,"test(config): drop repo overlay test pinning operational state",https://github.com/fullsend-ai/fullsend/pull/8889
+2026-10-28,fullsend,pr,opened_core,8881,waynesun09,"ci(release): link the agents release notes from every release",https://github.com/fullsend-ai/fullsend/pull/8881
+2026-10-28,fullsend,pr,reviewed_external,8889,dhshah13,"test(config): drop repo overlay test pinning operational state",https://github.com/fullsend-ai/fullsend/pull/8889
+2026-10-28,fullsend,pr,reviewed_external,8877,jwm4,"feat(#235)!: implement harness schema_version (ADR 0127 Decision 1)",https://github.com/fullsend-ai/fullsend/pull/8877
+2026-10-28,fullsend,pr,reviewed_external,8869,jflowers,"fix(#8771): reject non-plain ${...} preflight forms, keep bare $VAR",https://github.com/fullsend-ai/fullsend/pull/8869
+2026-10-28,fullsend,pr,reviewed_external,8869,jflowers,"fix(#8771): reject non-plain ${...} preflight forms, keep bare $VAR",https://github.com/fullsend-ai/fullsend/pull/8869
+2026-10-28,fullsend,pr,reviewed_external,8869,jflowers,"fix(#8771): reject non-plain ${...} preflight forms, keep bare $VAR",https://github.com/fullsend-ai/fullsend/pull/8869
+2026-10-28,fullsend,pr,reviewed_external,8869,jflowers,"fix(#8771): reject non-plain ${...} preflight forms, keep bare $VAR",https://github.com/fullsend-ai/fullsend/pull/8869
+2026-10-28,fullsend,pr,reviewed_external,8869,jflowers,"fix(#8771): reject non-plain ${...} preflight forms, keep bare $VAR",https://github.com/fullsend-ai/fullsend/pull/8869
+2026-10-28,fullsend,pr,reviewed_external,8693,csoceanu,"fix(#8174)!: normalize review-thread position fields across forges",https://github.com/fullsend-ai/fullsend/pull/8693
+2026-10-28,rfe-creator,issue,closed_via_pr_external,268,astefanutti,"Barrier discipline: wait-for-wave blocks for the Bash budget the job grants, not a fixed 90 seconds",https://github.com/fullsend-ai/rfe-creator/issues/268
+2026-10-28,rfe-creator,pr,reviewed_external,269,astefanutti,"feat(#268): derive the wait-for-wave block length from the Bash budget",https://github.com/fullsend-ai/rfe-creator/pull/269
+2026-10-28,rfe-creator,pr,reviewed_external,269,astefanutti,"feat(#268): derive the wait-for-wave block length from the Bash budget",https://github.com/fullsend-ai/rfe-creator/pull/269
+2026-10-28,rfe-creator,pr,reviewed_external,269,astefanutti,"feat(#268): derive the wait-for-wave block length from the Bash budget",https://github.com/fullsend-ai/rfe-creator/pull/269
+2026-10-28,rfe-creator,pr,reviewed_external,269,astefanutti,"feat(#268): derive the wait-for-wave block length from the Bash budget",https://github.com/fullsend-ai/rfe-creator/pull/269
+2026-10-28,rfe-creator,pr,reviewed_external,269,astefanutti,"feat(#268): derive the wait-for-wave block length from the Bash budget",https://github.com/fullsend-ai/rfe-creator/pull/269
+2026-10-28,.fullsend,pr,opened_core,204,ggallen,"chore(repos): register mlflow-assessments",https://github.com/fullsend-ai/.fullsend/pull/204
+2026-10-28,.fullsend,pr,opened_core,202,ggallen,"chore(repos): register strat-creator agents",https://github.com/fullsend-ai/.fullsend/pull/202
+2026-10-28,.fullsend,pr,opened_core,201,ggallen,"ci(sync): accept empty repository selector",https://github.com/fullsend-ai/.fullsend/pull/201
+2026-10-28,.fullsend,pr,opened_core,200,waynesun09,"feat(repos): enable retro on human /fs-retro for fullsend and agents",https://github.com/fullsend-ai/.fullsend/pull/200
+2026-10-28,.fullsend,pr,reviewed_external,203,dhshah13,"chore(repos): register rfe-creator's eval agent rfe-creator-eval",https://github.com/fullsend-ai/.fullsend/pull/203
+2026-10-28,.fullsend,pr,reviewed_external,203,dhshah13,"chore(repos): register rfe-creator's eval agent rfe-creator-eval",https://github.com/fullsend-ai/.fullsend/pull/203
+2026-10-28,agent-eval-harness,issue,opened_external,287,astefanutti,"Hook timeout: kill the process tree, and make the grace configurable (kill_grace_s)",https://github.com/fullsend-ai/agent-eval-harness/issues/287
+2026-10-28,agent-eval-harness,issue,opened_external,285,astefanutti,"The incomplete-evidence gate only examines judges that have a thresholds entry",https://github.com/fullsend-ai/agent-eval-harness/issues/285
+2026-10-28,agent-eval-harness,issue,opened_external,283,astefanutti,"fullsend provenance: harness-file image fallback should follow a child harness's base: chain",https://github.com/fullsend-ai/agent-eval-harness/issues/283
+2026-10-28,agent-eval-harness,issue,closed_via_pr_external,281,astefanutti,"min_win_rate can never pass: nothing writes win_rate",https://github.com/fullsend-ai/agent-eval-harness/issues/281
+2026-10-28,agent-eval-harness,issue,closed_via_pr_external,262,astefanutti,"fullsend runner: record fullsend, OpenShell, image and harness provenance with each run",https://github.com/fullsend-ai/agent-eval-harness/issues/262
+2026-10-28,agent-eval-harness,issue,closed_other_external,259,jwm4,"after_each hook failures never reach run_result.json or the judges, so evals re-implement ""the case did not run cleanly"" by hand",https://github.com/fullsend-ai/agent-eval-harness/issues/259
+2026-10-28,agent-eval-harness,issue,closed_other_external,69,bdattoma,"Check for all the requirements and stop execution if anything is missing before starting the eval harness",https://github.com/fullsend-ai/agent-eval-harness/issues/69
+2026-10-28,agent-eval-harness,issue,closed_other_external,4,astefanutti,"Support sandboxed execution environments (containers, VMs)",https://github.com/fullsend-ai/agent-eval-harness/issues/4
+2026-10-28,agent-eval-harness,pr,reviewed_external,282,astefanutti,"fix(score): compute min_win_rate from the pairwise section",https://github.com/fullsend-ai/agent-eval-harness/pull/282
+2026-10-28,agent-eval-harness,pr,reviewed_external,282,astefanutti,"fix(score): compute min_win_rate from the pairwise section",https://github.com/fullsend-ai/agent-eval-harness/pull/282
+2026-10-28,agent-eval-harness,pr,reviewed_external,282,astefanutti,"fix(score): compute min_win_rate from the pairwise section",https://github.com/fullsend-ai/agent-eval-harness/pull/282
+2026-10-28,agent-eval-harness,pr,reviewed_external,282,astefanutti,"fix(score): compute min_win_rate from the pairwise section",https://github.com/fullsend-ai/agent-eval-harness/pull/282
+2026-10-28,agent-eval-harness,pr,reviewed_external,275,astefanutti,"feat(runner): record fullsend provenance with each run",https://github.com/fullsend-ai/agent-eval-harness/pull/275
+2026-10-28,agent-eval-harness,pr,reviewed_external,255,OsherElhadad,"[WIP]feat(agent-eval-optimize): cap-evolve integration",https://github.com/fullsend-ai/agent-eval-harness/pull/255
+2026-10-28,agent-eval-harness,pr,reviewed_external,255,OsherElhadad,"[WIP]feat(agent-eval-optimize): cap-evolve integration",https://github.com/fullsend-ai/agent-eval-harness/pull/255
+2026-10-28,strat-creator,pr,opened_core,94,ggallen,"fix: adopt managed Fullsend config",https://github.com/fullsend-ai/strat-creator/pull/94
+2026-10-28,agents,issue,opened_external,1824,Benkapner,"eval: finding_expectations can score historical reviews and unrelated comments instead of the evaluated run",https://github.com/fullsend-ai/agents/issues/1824
+2026-10-28,agents,issue,opened_external,1821,yvonnedevlinrh,"Reconcile scribe input commands with its declared tools",https://github.com/fullsend-ai/agents/issues/1821
+2026-10-28,agents,issue,opened_external,1820,yvonnedevlinrh,"Update fleet image pins for the OpenCode hook SDK",https://github.com/fullsend-ai/agents/issues/1820
+2026-10-28,agents,issue,opened_external,1818,csoceanu,"review: preserve finding IDs across shifted lines and never reuse them for different findings",https://github.com/fullsend-ai/agents/issues/1818
+2026-10-28,agents,pr,opened_core,1823,waynesun09,"ci(release): generate release notes from the previous final release",https://github.com/fullsend-ai/agents/pull/1823
+2026-10-28,agents,pr,reviewed_external,1661,shairevivo,"feat(#1654): scope review to own commits on stacked/cherry-picked PRs",https://github.com/fullsend-ai/agents/pull/1661
+2026-10-28,agents,pr,reviewed_external,1661,shairevivo,"feat(#1654): scope review to own commits on stacked/cherry-picked PRs",https://github.com/fullsend-ai/agents/pull/1661
+2026-10-28,agents,pr,reviewed_external,1661,shairevivo,"feat(#1654): scope review to own commits on stacked/cherry-picked PRs",https://github.com/fullsend-ai/agents/pull/1661
+2026-10-28,agents,pr,reviewed_external,1661,shairevivo,"feat(#1654): scope review to own commits on stacked/cherry-picked PRs",https://github.com/fullsend-ai/agents/pull/1661
+2026-10-28,agents,pr,reviewed_external,1661,shairevivo,"feat(#1654): scope review to own commits on stacked/cherry-picked PRs",https://github.com/fullsend-ai/agents/pull/1661
+2026-10-28,agents,pr,reviewed_external,1661,shairevivo,"feat(#1654): scope review to own commits on stacked/cherry-picked PRs",https://github.com/fullsend-ai/agents/pull/1661
+2026-10-28,org,pr,opened_core,16,rh-hemartin,"feat(teams): grant core admin everywhere, add maintainers team",https://github.com/fullsend-ai/org/pull/16

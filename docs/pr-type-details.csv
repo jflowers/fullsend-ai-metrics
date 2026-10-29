@@ -2240,3 +2240,17 @@ date,repo,number,title,pr_type,fix_source,issue_number,issue_author,url
 2026-10-25,fullsend,8795,feat(#7774): report GitLab webhook fast-path readiness in repos status,feat,,,,https://github.com/fullsend-ai/fullsend/pull/8795
 2026-10-25,fullsend,8794,test(#7775): cover GitLab uninstall fast-path teardown end to end,test,,,,https://github.com/fullsend-ai/fullsend/pull/8794
 2026-10-25,fullsend,8399,chore(deps): update dependency vue to v3.5.44,chore,,,,https://github.com/fullsend-ai/fullsend/pull/8399
+2026-10-28,fullsend,8889,test(config): drop repo overlay test pinning operational state,test,,,,https://github.com/fullsend-ai/fullsend/pull/8889
+2026-10-28,fullsend,8881,ci(release): link the agents release notes from every release,ci,,,,https://github.com/fullsend-ai/fullsend/pull/8881
+2026-10-28,fullsend,8879,chore(deps): update renovatebot/github-action action to v46.3.10,chore,,,,https://github.com/fullsend-ai/fullsend/pull/8879
+2026-10-28,fullsend,8878,fix(#8865)!: pin GitLab runner image to fullsend_ref instead of :dev,fix,core,8865,waynesun09,https://github.com/fullsend-ai/fullsend/pull/8878
+2026-10-28,fullsend,8872,fix(lint)!: fail on path-shaped preflight_check values per ADR 0128,fix,unlinked,,,https://github.com/fullsend-ai/fullsend/pull/8872
+2026-10-28,fullsend,8867,docs(#8866): drop forge-specific rationale from top-level fields,docs,,,,https://github.com/fullsend-ai/fullsend/pull/8867
+2026-10-28,fullsend,8850,docs(#8842): fold building-custom-agents into Bring Your Own Agent,docs,,,,https://github.com/fullsend-ai/fullsend/pull/8850
+2026-10-28,fullsend,8828,chore(deps): update experiments digest to 6a349bb,chore,,,,https://github.com/fullsend-ai/fullsend/pull/8828
+2026-10-28,fullsend,8826,docs(ladder): request triage/write roles via issues in fullsend-ai/org,docs,,,,https://github.com/fullsend-ai/fullsend/pull/8826
+2026-10-28,fullsend,8698,docs(adr): coalesce entity-source discovery queries,docs,,,,https://github.com/fullsend-ai/fullsend/pull/8698
+2026-10-28,fullsend,8694,docs(adr): define selective CEL acquisition and harness admission,docs,,,,https://github.com/fullsend-ai/fullsend/pull/8694
+2026-10-28,agents,1831,chore(harness): pin fleet images to the v0.52.0-rc.1 release builds,chore,,,,https://github.com/fullsend-ai/agents/pull/1831
+2026-10-28,agents,1823,ci(release): generate release notes from the previous final release,ci,,,,https://github.com/fullsend-ai/agents/pull/1823
+2026-10-28,agents,1822,chore(review): align GitLab dismissal fixtures with normalized positions,chore,,,,https://github.com/fullsend-ai/agents/pull/1822
