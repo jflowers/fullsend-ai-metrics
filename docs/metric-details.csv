@@ -16295,3 +16295,92 @@ date,repo,type,event,number,title,url
 2026-10-28,org,issue,opened,17,"Track team permission restructure: core admin everywhere + maintainers team",https://github.com/fullsend-ai/org/issues/17
 2026-10-28,org,issue,opened,14,"Add Guy to triagers",https://github.com/fullsend-ai/org/issues/14
 2026-10-28,org,issue,closed,14,"Add Guy to triagers",https://github.com/fullsend-ai/org/issues/14
+2026-10-30,fullsend,pr,opened,8964,"chore(#8963): apply daily Fedora updates on GitLab runner VMs",https://github.com/fullsend-ai/fullsend/pull/8964
+2026-10-30,fullsend,pr,opened,8962,"docs(#6672): document built-in Jira triggers in the Jira guide",https://github.com/fullsend-ai/fullsend/pull/8962
+2026-10-30,fullsend,pr,opened,8960,"fix(#8954)!: carry GitLab /fs-fix comment body at canonical path",https://github.com/fullsend-ai/fullsend/pull/8960
+2026-10-30,fullsend,pr,opened,8957,"test(#8921): verify Jira work items through the PR/MR lifecycle",https://github.com/fullsend-ai/fullsend/pull/8957
+2026-10-30,fullsend,pr,opened,8956,"feat(#7681): re-review GitLab MRs when new commits are pushed",https://github.com/fullsend-ai/fullsend/pull/8956
+2026-10-30,fullsend,pr,opened,8955,"fix(#8952)!: mint replaces gh enterprise token variables too",https://github.com/fullsend-ai/fullsend/pull/8955
+2026-10-30,fullsend,pr,opened,8953,"docs(inference): recommend an inference gateway for OpenAI API key users on GitHub",https://github.com/fullsend-ai/fullsend/pull/8953
+2026-10-30,fullsend,pr,opened,8951,"chore(#8948): move the durable E2E inference gateway to agentgateway v1.7.0",https://github.com/fullsend-ai/fullsend/pull/8951
+2026-10-30,fullsend,pr,opened,8950,"fix(#8915): remove the public document graph",https://github.com/fullsend-ai/fullsend/pull/8950
+2026-10-30,fullsend,pr,opened,8949,"chore(deps): update experiments digest to 767ccbc",https://github.com/fullsend-ai/fullsend/pull/8949
+2026-10-30,fullsend,pr,opened,8945,"docs(gateway): move gateway guides to agentgateway v1.7.0, link org reference",https://github.com/fullsend-ai/fullsend/pull/8945
+2026-10-30,fullsend,pr,opened,8944,"docs(problems): examine private context in public agent workflows",https://github.com/fullsend-ai/fullsend/pull/8944
+2026-10-30,fullsend,pr,opened,8943,"docs(#8920): describe Jira triage and code results in Jira guide",https://github.com/fullsend-ai/fullsend/pull/8943
+2026-10-30,fullsend,pr,opened,8942,"docs(#8940): add plain-language style section to documentation.md",https://github.com/fullsend-ai/fullsend/pull/8942
+2026-10-30,fullsend,pr,opened,8941,"fix(#6678): keep existing config.yaml on admin install rerun",https://github.com/fullsend-ai/fullsend/pull/8941
+2026-10-30,fullsend,pr,opened,8939,"fix(#8873): choose a complete agents revision offline",https://github.com/fullsend-ai/fullsend/pull/8939
+2026-10-30,fullsend,pr,opened,8938,"fix(#8875): kill preflight check process group on timeout",https://github.com/fullsend-ai/fullsend/pull/8938
+2026-10-30,fullsend,pr,opened,8937,"fix(#8604): env-data loader backtick resync and NUL export state",https://github.com/fullsend-ai/fullsend/pull/8937
+2026-10-30,fullsend,pr,opened,8936,"fix(#8488): close low-severity runner secrets follow-ups",https://github.com/fullsend-ai/fullsend/pull/8936
+2026-10-30,fullsend,pr,opened,8935,"fix(#8165): redact script output before trimming and merge overlaps",https://github.com/fullsend-ai/fullsend/pull/8935
+2026-10-30,fullsend,pr,opened,8934,"fix(#8747): flag path-shaped preflight_check after ${VAR} expansion",https://github.com/fullsend-ai/fullsend/pull/8934
+2026-10-30,fullsend,pr,opened,8933,"fix(#8742): lint GITHUB_ISSUE_URL in consumed overlays and forge",https://github.com/fullsend-ai/fullsend/pull/8933
+2026-10-30,fullsend,pr,opened,8932,"fix(#8744): report reserved env.sandbox keys in fullsend lint",https://github.com/fullsend-ai/fullsend/pull/8932
+2026-10-30,fullsend,pr,opened,8931,"docs(#8631): document tirith trusted-PATH need; fix codex adapter test PATH",https://github.com/fullsend-ai/fullsend/pull/8931
+2026-10-30,fullsend,pr,opened,8929,"fix(#8887): keep terminal-phase sandbox creation diagnostics",https://github.com/fullsend-ai/fullsend/pull/8929
+2026-10-30,fullsend,pr,opened,8928,"fix(#8841): fall back to fork default branch for unsynced GitLab forks",https://github.com/fullsend-ai/fullsend/pull/8928
+2026-10-30,fullsend,pr,opened,8927,"chore(#8884): point CODEOWNERS wildcard to maintainers team",https://github.com/fullsend-ai/fullsend/pull/8927
+2026-10-30,fullsend,pr,opened,8925,"chore(deps): update actions/create-github-app-token action to v3.3.0",https://github.com/fullsend-ai/fullsend/pull/8925
+2026-10-30,fullsend,pr,opened,8924,"feat(#8919): dispatch Jira work items to GitLab agent pipelines",https://github.com/fullsend-ai/fullsend/pull/8924
+2026-10-30,fullsend,pr,merged,8960,"fix(#8954)!: carry GitLab /fs-fix comment body at canonical path",https://github.com/fullsend-ai/fullsend/pull/8960
+2026-10-30,fullsend,pr,merged,8957,"test(#8921): verify Jira work items through the PR/MR lifecycle",https://github.com/fullsend-ai/fullsend/pull/8957
+2026-10-30,fullsend,pr,merged,8956,"feat(#7681): re-review GitLab MRs when new commits are pushed",https://github.com/fullsend-ai/fullsend/pull/8956
+2026-10-30,fullsend,pr,merged,8953,"docs(inference): recommend an inference gateway for OpenAI API key users on GitHub",https://github.com/fullsend-ai/fullsend/pull/8953
+2026-10-30,fullsend,pr,merged,8951,"chore(#8948): move the durable E2E inference gateway to agentgateway v1.7.0",https://github.com/fullsend-ai/fullsend/pull/8951
+2026-10-30,fullsend,pr,merged,8950,"fix(#8915): remove the public document graph",https://github.com/fullsend-ai/fullsend/pull/8950
+2026-10-30,fullsend,pr,merged,8945,"docs(gateway): move gateway guides to agentgateway v1.7.0, link org reference",https://github.com/fullsend-ai/fullsend/pull/8945
+2026-10-30,fullsend,pr,merged,8943,"docs(#8920): describe Jira triage and code results in Jira guide",https://github.com/fullsend-ai/fullsend/pull/8943
+2026-10-30,fullsend,pr,merged,8929,"fix(#8887): keep terminal-phase sandbox creation diagnostics",https://github.com/fullsend-ai/fullsend/pull/8929
+2026-10-30,fullsend,pr,merged,8927,"chore(#8884): point CODEOWNERS wildcard to maintainers team",https://github.com/fullsend-ai/fullsend/pull/8927
+2026-10-30,fullsend,pr,merged,8925,"chore(deps): update actions/create-github-app-token action to v3.3.0",https://github.com/fullsend-ai/fullsend/pull/8925
+2026-10-30,fullsend,pr,merged,8924,"feat(#8919): dispatch Jira work items to GitLab agent pipelines",https://github.com/fullsend-ai/fullsend/pull/8924
+2026-10-30,fullsend,pr,merged,8922,"feat(#2264): derive Jira work-item identity in fullsend run",https://github.com/fullsend-ai/fullsend/pull/8922
+2026-10-30,fullsend,pr,merged,8905,"chore(deps): update docker.io/library/ubuntu:24.04 docker digest to fe81560",https://github.com/fullsend-ai/fullsend/pull/8905
+2026-10-30,fullsend,pr,merged,8904,"docs(#8902): drop inline ADR citations from user-facing guides",https://github.com/fullsend-ai/fullsend/pull/8904
+2026-10-30,fullsend,pr,merged,8892,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,merged,8864,"chore(deps): update dependency vitest to v4.1.12",https://github.com/fullsend-ai/fullsend/pull/8864
+2026-10-30,fullsend,pr,merged,8572,"fix(#8173): verify review-thread roles only when authoritative",https://github.com/fullsend-ai/fullsend/pull/8572
+2026-10-30,fullsend,pr,merged,8385,"chore(deps): update actions/create-github-app-token digest to 64ab729",https://github.com/fullsend-ai/fullsend/pull/8385
+2026-10-30,fullsend,issue,opened,8963,"GitLab runner VMs: apply daily Fedora updates without interrupting jobs",https://github.com/fullsend-ai/fullsend/issues/8963
+2026-10-30,fullsend,issue,opened,8961,"reusable-dispatch: two dispatch records for the same agent in one matrix upload conflicting `fullsend-<agent>` artifacts",https://github.com/fullsend-ai/fullsend/issues/8961
+2026-10-30,fullsend,issue,opened,8959,"Evaluate pi inference gateway route production readiness (exit criteria for dropping 'experimental')",https://github.com/fullsend-ai/fullsend/issues/8959
+2026-10-30,fullsend,issue,opened,8958,"docs(pi): drop the experimental label from the inference gateway route after a release of production data",https://github.com/fullsend-ai/fullsend/issues/8958
+2026-10-30,fullsend,issue,opened,8954,"GitLab fix scaffold must use the canonical comment body for /fs-fix instructions",https://github.com/fullsend-ai/fullsend/issues/8954
+2026-10-30,fullsend,issue,opened,8952,"run: minted agent token is not used by gh on hosts other than github.com",https://github.com/fullsend-ai/fullsend/issues/8952
+2026-10-30,fullsend,issue,opened,8948,"chore(e2e): move the durable E2E inference gateway to agentgateway v1.7.0",https://github.com/fullsend-ai/fullsend/issues/8948
+2026-10-30,fullsend,issue,opened,8946,"Fix dispatch should prevent concurrent duplicate runs from same /fs-fix trigger",https://github.com/fullsend-ai/fullsend/issues/8946
+2026-10-30,fullsend,issue,opened,8940,"docs/contributing: add plain-language style section to documentation.md",https://github.com/fullsend-ai/fullsend/issues/8940
+2026-10-30,fullsend,issue,opened,8930,"Decide how the preflight_check path-shape lint rule should treat valid host paths (amend ADR 0128 Decision 2?)",https://github.com/fullsend-ai/fullsend/issues/8930
+2026-10-30,fullsend,issue,opened,8926,"Retro's duplicate-check doesn't recognize maintainer-rejected closures, causing repeat re-proposals",https://github.com/fullsend-ai/fullsend/issues/8926
+2026-10-30,fullsend,issue,opened,8923,"Add HSTS header to hosted token mint",https://github.com/fullsend-ai/fullsend/issues/8923
+2026-10-30,fullsend,issue,closed,8954,"GitLab fix scaffold must use the canonical comment body for /fs-fix instructions",https://github.com/fullsend-ai/fullsend/issues/8954
+2026-10-30,fullsend,issue,closed,8948,"chore(e2e): move the durable E2E inference gateway to agentgateway v1.7.0",https://github.com/fullsend-ai/fullsend/issues/8948
+2026-10-30,fullsend,issue,closed,8926,"Retro's duplicate-check doesn't recognize maintainer-rejected closures, causing repeat re-proposals",https://github.com/fullsend-ai/fullsend/issues/8926
+2026-10-30,fullsend,issue,closed,8921,"Verify Jira work items through the built-in PR lifecycle",https://github.com/fullsend-ai/fullsend/issues/8921
+2026-10-30,fullsend,issue,closed,8920,"Write triage and code results to the Jira work item",https://github.com/fullsend-ai/fullsend/issues/8920
+2026-10-30,fullsend,issue,closed,8919,"Dispatch Jira work items to GitLab code-host pipelines",https://github.com/fullsend-ai/fullsend/issues/8919
+2026-10-30,fullsend,issue,closed,8915,"Remove the public document graph",https://github.com/fullsend-ai/fullsend/issues/8915
+2026-10-30,fullsend,issue,closed,8902,"docs: remove ADR references from user-facing guides where they distract from the content",https://github.com/fullsend-ai/fullsend/issues/8902
+2026-10-30,fullsend,issue,closed,8887,"sandbox: terminal-phase creation failure skips supervisor/gateway/container log collection, then CreateWithRetry deletes the sandbox",https://github.com/fullsend-ai/fullsend/issues/8887
+2026-10-30,fullsend,issue,closed,8884,"CODEOWNERS: change @fullsend-ai/core to @fullsend-ai/maintainers",https://github.com/fullsend-ai/fullsend/issues/8884
+2026-10-30,fullsend,issue,closed,8647,"issues create: whitespace-only --body fails Jira issue creation with ADF conversion error",https://github.com/fullsend-ai/fullsend/issues/8647
+2026-10-30,fullsend,issue,closed,8495,"eval-measure: add EM-003 to tell recovered tool errors from ignored ones, using Level 3 content",https://github.com/fullsend-ai/fullsend/issues/8495
+2026-10-30,fullsend,issue,closed,8401,"jira-poll: avoid requiring Administer Projects permission for actor authorization",https://github.com/fullsend-ai/fullsend/issues/8401
+2026-10-30,fullsend,issue,closed,8379,"forge: 17 FakeClient read methods return internal storage instead of copies",https://github.com/fullsend-ai/fullsend/issues/8379
+2026-10-30,fullsend,issue,closed,8173,"Preserve uncertainty for custom GitHub roles in review-thread metadata",https://github.com/fullsend-ai/fullsend/issues/8173
+2026-10-30,fullsend,issue,closed,7912,"OpenShell 1.3 policy changes break current sandbox setup and build stability",https://github.com/fullsend-ai/fullsend/issues/7912
+2026-10-30,fullsend,issue,closed,7681,"GitLab: trigger automatic re-review when new commits are pushed to an open MR",https://github.com/fullsend-ai/fullsend/issues/7681
+2026-10-30,fullsend,issue,closed,7246,"eval-measure scores trace health but not run health — add a deterministic tool-call defect scorer",https://github.com/fullsend-ai/fullsend/issues/7246
+2026-10-30,fullsend,issue,closed,6075,"layers: six EnrollmentLayer tests still sleep on real clock after #6071",https://github.com/fullsend-ai/fullsend/issues/6075
+2026-10-30,fullsend,issue,closed,2264,"Preserve Jira work-item identity through agent execution",https://github.com/fullsend-ai/fullsend/issues/2264
+2026-10-30,rfe-creator,pr,opened,280,"feat(types): the classification block, filled for rfe and initiative and gated (AISDLC-189)",https://github.com/fullsend-ai/rfe-creator/pull/280
+2026-10-30,rfe-creator,pr,opened,278,"docs(auto-fix): the dispatcher's tmp/pipeline-* files take no type prefix (AISDLC-532)",https://github.com/fullsend-ai/rfe-creator/pull/278
+2026-10-30,rfe-creator,pr,opened,277,"Release 0.3.0: Initiatives bind to RHAISTRAT, the SETUP gate and barrier discipline",https://github.com/fullsend-ai/rfe-creator/pull/277
+2026-10-30,rfe-creator,pr,merged,278,"docs(auto-fix): the dispatcher's tmp/pipeline-* files take no type prefix (AISDLC-532)",https://github.com/fullsend-ai/rfe-creator/pull/278
+2026-10-30,rfe-creator,pr,merged,277,"Release 0.3.0: Initiatives bind to RHAISTRAT, the SETUP gate and barrier discipline",https://github.com/fullsend-ai/rfe-creator/pull/277
+2026-10-30,rfe-creator,pr,merged,274,"feat(initiative): bind the Initiative type to the RHAISTRAT project (AISDLC-461)",https://github.com/fullsend-ai/rfe-creator/pull/274
+2026-10-30,rfe-creator,issue,opened,279,"Descriptor classification block for rfe and initiative, with the validate_types gate (AISDLC-189)",https://github.com/fullsend-ai/rfe-creator/issues/279
+2026-10-30,rfe-creator,issue,closed,276,"Initiatives live in RHAISTRAT: rebind the Initiative work-item type",https://github.com/fullsend-ai/rfe-creator/issues/276
+2026-10-30,.fullsend,pr,opened,207,"feat(repos): route the fleet's GPT review subagents through the inference gateway",https://github.com/fullsend-ai/.fullsend/pull/207

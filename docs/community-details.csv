@@ -2410,3 +2410,145 @@ date,repo,type,event,number,actor,title,url
 2026-10-28,agents,pr,reviewed_external,1661,shairevivo,"feat(#1654): scope review to own commits on stacked/cherry-picked PRs",https://github.com/fullsend-ai/agents/pull/1661
 2026-10-28,agents,pr,reviewed_external,1661,shairevivo,"feat(#1654): scope review to own commits on stacked/cherry-picked PRs",https://github.com/fullsend-ai/agents/pull/1661
 2026-10-28,org,pr,opened_core,16,rh-hemartin,"feat(teams): grant core admin everywhere, add maintainers team",https://github.com/fullsend-ai/org/pull/16
+2026-10-30,fullsend,issue,opened_external,8961,jwm4,"reusable-dispatch: two dispatch records for the same agent in one matrix upload conflicting `fullsend-<agent>` artifacts",https://github.com/fullsend-ai/fullsend/issues/8961
+2026-10-30,fullsend,issue,opened_external,8954,jasonawant,"GitLab fix scaffold must use the canonical comment body for /fs-fix instructions",https://github.com/fullsend-ai/fullsend/issues/8954
+2026-10-30,fullsend,issue,opened_external,8952,jctanner,"run: minted agent token is not used by gh on hosts other than github.com",https://github.com/fullsend-ai/fullsend/issues/8952
+2026-10-30,fullsend,issue,closed_via_pr_external,8954,jasonawant,"GitLab fix scaffold must use the canonical comment body for /fs-fix instructions",https://github.com/fullsend-ai/fullsend/issues/8954
+2026-10-30,fullsend,issue,closed_via_pr_external,8887,astefanutti,"sandbox: terminal-phase creation failure skips supervisor/gateway/container log collection, then CreateWithRetry deletes the sandbox",https://github.com/fullsend-ai/fullsend/issues/8887
+2026-10-30,fullsend,issue,closed_other_external,8495,AshwinUgale,"eval-measure: add EM-003 to tell recovered tool errors from ignored ones, using Level 3 content",https://github.com/fullsend-ai/fullsend/issues/8495
+2026-10-30,fullsend,issue,closed_via_pr_external,8401,jasonawant,"jira-poll: avoid requiring Administer Projects permission for actor authorization",https://github.com/fullsend-ai/fullsend/issues/8401
+2026-10-30,fullsend,issue,closed_other_external,8379,gklein,"forge: 17 FakeClient read methods return internal storage instead of copies",https://github.com/fullsend-ai/fullsend/issues/8379
+2026-10-30,fullsend,issue,closed_via_pr_external,8173,csoceanu,"Preserve uncertainty for custom GitHub roles in review-thread metadata",https://github.com/fullsend-ai/fullsend/issues/8173
+2026-10-30,fullsend,issue,closed_other_external,7246,AshwinUgale,"eval-measure scores trace health but not run health — add a deterministic tool-call defect scorer",https://github.com/fullsend-ai/fullsend/issues/7246
+2026-10-30,fullsend,pr,opened_core,8953,waynesun09,"docs(inference): recommend an inference gateway for OpenAI API key users on GitHub",https://github.com/fullsend-ai/fullsend/pull/8953
+2026-10-30,fullsend,pr,opened_core,8950,rh-hemartin,"fix(#8915): remove the public document graph",https://github.com/fullsend-ai/fullsend/pull/8950
+2026-10-30,fullsend,pr,opened_core,8945,waynesun09,"docs(gateway): move gateway guides to agentgateway v1.7.0, link org reference",https://github.com/fullsend-ai/fullsend/pull/8945
+2026-10-30,fullsend,pr,opened_core,8944,ascerra,"docs(problems): examine private context in public agent workflows",https://github.com/fullsend-ai/fullsend/pull/8944
+2026-10-30,fullsend,pr,reviewed_external,8955,jctanner,"fix(#8952)!: mint replaces gh enterprise token variables too",https://github.com/fullsend-ai/fullsend/pull/8955
+2026-10-30,fullsend,pr,reviewed_external,8913,fege,"fix(#8908): render Claude Workflow progress",https://github.com/fullsend-ai/fullsend/pull/8913
+2026-10-30,fullsend,pr,reviewed_external,8913,fege,"fix(#8908): render Claude Workflow progress",https://github.com/fullsend-ai/fullsend/pull/8913
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,fullsend,pr,reviewed_external,8892,jwm4,"feat(#8401): authorize Jira poll actors without project admin",https://github.com/fullsend-ai/fullsend/pull/8892
+2026-10-30,rfe-creator,issue,opened_external,279,astefanutti,"Descriptor classification block for rfe and initiative, with the validate_types gate (AISDLC-189)",https://github.com/fullsend-ai/rfe-creator/issues/279
+2026-10-30,rfe-creator,issue,closed_via_pr_external,276,astefanutti,"Initiatives live in RHAISTRAT: rebind the Initiative work-item type",https://github.com/fullsend-ai/rfe-creator/issues/276
+2026-10-30,.fullsend,pr,opened_core,207,waynesun09,"feat(repos): route the fleet's GPT review subagents through the inference gateway",https://github.com/fullsend-ai/.fullsend/pull/207
+2026-10-30,agent-eval-harness,pr,reviewed_external,290,astefanutti,"fix(score): learn a json_schema refusal before the tool request",https://github.com/fullsend-ai/agent-eval-harness/pull/290
+2026-10-30,agent-eval-harness,pr,reviewed_external,290,astefanutti,"fix(score): learn a json_schema refusal before the tool request",https://github.com/fullsend-ai/agent-eval-harness/pull/290
+2026-10-30,agent-eval-harness,pr,reviewed_external,290,astefanutti,"fix(score): learn a json_schema refusal before the tool request",https://github.com/fullsend-ai/agent-eval-harness/pull/290
+2026-10-30,agent-eval-harness,pr,reviewed_external,290,astefanutti,"fix(score): learn a json_schema refusal before the tool request",https://github.com/fullsend-ai/agent-eval-harness/pull/290
+2026-10-30,agent-eval-harness,pr,reviewed_external,290,astefanutti,"fix(score): learn a json_schema refusal before the tool request",https://github.com/fullsend-ai/agent-eval-harness/pull/290
+2026-10-30,agent-eval-harness,pr,reviewed_external,290,astefanutti,"fix(score): learn a json_schema refusal before the tool request",https://github.com/fullsend-ai/agent-eval-harness/pull/290
+2026-10-30,agent-eval-harness,pr,reviewed_external,290,astefanutti,"fix(score): learn a json_schema refusal before the tool request",https://github.com/fullsend-ai/agent-eval-harness/pull/290
+2026-10-30,agent-eval-harness,pr,reviewed_external,290,astefanutti,"fix(score): learn a json_schema refusal before the tool request",https://github.com/fullsend-ai/agent-eval-harness/pull/290
+2026-10-30,agent-eval-harness,pr,reviewed_external,290,astefanutti,"fix(score): learn a json_schema refusal before the tool request",https://github.com/fullsend-ai/agent-eval-harness/pull/290
+2026-10-30,agent-eval-harness,pr,reviewed_external,290,astefanutti,"fix(score): learn a json_schema refusal before the tool request",https://github.com/fullsend-ai/agent-eval-harness/pull/290
+2026-10-30,agent-eval-harness,pr,reviewed_external,290,astefanutti,"fix(score): learn a json_schema refusal before the tool request",https://github.com/fullsend-ai/agent-eval-harness/pull/290
+2026-10-30,agent-eval-harness,pr,reviewed_external,290,astefanutti,"fix(score): learn a json_schema refusal before the tool request",https://github.com/fullsend-ai/agent-eval-harness/pull/290
+2026-10-30,agent-eval-harness,pr,reviewed_external,290,astefanutti,"fix(score): learn a json_schema refusal before the tool request",https://github.com/fullsend-ai/agent-eval-harness/pull/290
+2026-10-30,agent-eval-harness,pr,reviewed_external,290,astefanutti,"fix(score): learn a json_schema refusal before the tool request",https://github.com/fullsend-ai/agent-eval-harness/pull/290
+2026-10-30,agent-eval-harness,pr,reviewed_external,290,astefanutti,"fix(score): learn a json_schema refusal before the tool request",https://github.com/fullsend-ai/agent-eval-harness/pull/290
+2026-10-30,agent-eval-harness,pr,reviewed_external,290,astefanutti,"fix(score): learn a json_schema refusal before the tool request",https://github.com/fullsend-ai/agent-eval-harness/pull/290
+2026-10-30,agent-eval-harness,pr,reviewed_external,290,astefanutti,"fix(score): learn a json_schema refusal before the tool request",https://github.com/fullsend-ai/agent-eval-harness/pull/290
+2026-10-30,agent-eval-harness,pr,reviewed_external,290,astefanutti,"fix(score): learn a json_schema refusal before the tool request",https://github.com/fullsend-ai/agent-eval-harness/pull/290
+2026-10-30,agent-eval-harness,pr,reviewed_external,290,astefanutti,"fix(score): learn a json_schema refusal before the tool request",https://github.com/fullsend-ai/agent-eval-harness/pull/290
+2026-10-30,agent-eval-harness,pr,reviewed_external,290,astefanutti,"fix(score): learn a json_schema refusal before the tool request",https://github.com/fullsend-ai/agent-eval-harness/pull/290
+2026-10-30,agent-eval-harness,pr,reviewed_external,290,astefanutti,"fix(score): learn a json_schema refusal before the tool request",https://github.com/fullsend-ai/agent-eval-harness/pull/290
+2026-10-30,test-creator,issue,opened_external,97,fege,"`test_repo_cli.py`: two `validate_local_path` tests fail when `FULLSEND_TARGET_REPO_DIR` is set",https://github.com/fullsend-ai/test-creator/issues/97
+2026-10-30,test-creator,issue,opened_external,95,fege,"Remove dead .coderabbit.yaml; port its useful rules into AGENTS.md",https://github.com/fullsend-ai/test-creator/issues/95
+2026-10-30,test-creator,issue,closed_via_pr_external,97,fege,"`test_repo_cli.py`: two `validate_local_path` tests fail when `FULLSEND_TARGET_REPO_DIR` is set",https://github.com/fullsend-ai/test-creator/issues/97
+2026-10-30,test-creator,issue,closed_via_pr_external,95,fege,"Remove dead .coderabbit.yaml; port its useful rules into AGENTS.md",https://github.com/fullsend-ai/test-creator/issues/95
+2026-10-30,test-creator,pr,reviewed_external,98,fege,"fix(#97): isolate validate_local_path tests from Fullsend env",https://github.com/fullsend-ai/test-creator/pull/98
+2026-10-30,test-creator,pr,reviewed_external,96,fege,"docs(#95): port CodeRabbit rules into AGENTS.md, drop config",https://github.com/fullsend-ai/test-creator/pull/96
+2026-10-30,test-creator,pr,reviewed_external,96,fege,"docs(#95): port CodeRabbit rules into AGENTS.md, drop config",https://github.com/fullsend-ai/test-creator/pull/96
+2026-10-30,test-creator,pr,reviewed_external,96,fege,"docs(#95): port CodeRabbit rules into AGENTS.md, drop config",https://github.com/fullsend-ai/test-creator/pull/96
+2026-10-30,test-creator,pr,reviewed_external,96,fege,"docs(#95): port CodeRabbit rules into AGENTS.md, drop config",https://github.com/fullsend-ai/test-creator/pull/96
+2026-10-30,agents,issue,opened_external,1854,jwm4,"functional-tests: a label that arrives while a push run is pending replaces it, so no tests run",https://github.com/fullsend-ai/agents/issues/1854
+2026-10-30,agents,issue,opened_external,1853,dhshah13,"fix(review,retro): follow-ups from the Codex wave dispatch review",https://github.com/fullsend-ai/agents/issues/1853
+2026-10-30,agents,issue,closed_via_pr_external,1824,Benkapner,"eval: finding_expectations can score historical reviews and unrelated comments instead of the evaluated run",https://github.com/fullsend-ai/agents/issues/1824
+2026-10-30,agents,issue,closed_via_pr_external,1801,ravelley,"post-fix secret scans flag unchanged context and deleted lines",https://github.com/fullsend-ai/agents/issues/1801
+2026-10-30,agents,pr,reviewed_external,1819,csoceanu,"fix(#1818): keep finding ids on their stamped review threads",https://github.com/fullsend-ai/agents/pull/1819
+2026-10-30,agents,pr,reviewed_external,1677,dhshah13,"refactor(skills): migrate pr-risk-assessment from CLAUDE_CONFIG_DIR to FULLSEND_SKILLS_DIR",https://github.com/fullsend-ai/agents/pull/1677
+2026-10-30,agents,pr,reviewed_external,1677,dhshah13,"refactor(skills): migrate pr-risk-assessment from CLAUDE_CONFIG_DIR to FULLSEND_SKILLS_DIR",https://github.com/fullsend-ai/agents/pull/1677
+2026-10-30,agents,pr,reviewed_external,1677,dhshah13,"refactor(skills): migrate pr-risk-assessment from CLAUDE_CONFIG_DIR to FULLSEND_SKILLS_DIR",https://github.com/fullsend-ai/agents/pull/1677
+2026-10-30,org,issue,opened_external,34,durandom,"Write request: durandom",https://github.com/fullsend-ai/org/issues/34
+2026-10-30,org,pr,opened_core,36,ascerra,"fix(slack): notify on role requests without labels",https://github.com/fullsend-ai/org/pull/36
+2026-10-30,org,pr,opened_core,33,waynesun09,"feat(rulesets): require review on experiments main",https://github.com/fullsend-ai/org/pull/33
+2026-10-30,org,pr,opened_core,32,waynesun09,"feat(inference-gateway): raise the burst caps, pin size and concurrency, rework the README",https://github.com/fullsend-ai/org/pull/32
