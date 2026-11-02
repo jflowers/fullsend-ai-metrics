@@ -2552,3 +2552,19 @@ date,repo,type,event,number,actor,title,url
 2026-10-30,org,pr,opened_core,36,ascerra,"fix(slack): notify on role requests without labels",https://github.com/fullsend-ai/org/pull/36
 2026-10-30,org,pr,opened_core,33,waynesun09,"feat(rulesets): require review on experiments main",https://github.com/fullsend-ai/org/pull/33
 2026-10-30,org,pr,opened_core,32,waynesun09,"feat(inference-gateway): raise the burst caps, pin size and concurrency, rework the README",https://github.com/fullsend-ai/org/pull/32
+2026-11-01,fullsend,issue,opened_external,9007,jwm4,"jira-poll: support Atlassian service accounts alongside regular bot accounts (api.atlassian.com, scoped tokens, OAuth 2.0)",https://github.com/fullsend-ai/fullsend/issues/9007
+2026-11-01,fullsend,issue,opened_external,9006,jwm4,"jira-poll: require a jira authorization entry (breaking change, three months after the warning ships)",https://github.com/fullsend-ai/fullsend/issues/9006
+2026-11-01,fullsend,issue,opened_external,9005,jwm4,"jira-poll: warn at poller start when no jira authorization entry is configured",https://github.com/fullsend-ai/fullsend/issues/9005
+2026-11-01,fullsend,issue,opened_external,9004,jwm4,"ADR: deprecate running the jira-poll driver with no jira authorization entry",https://github.com/fullsend-ai/fullsend/issues/9004
+2026-11-01,fullsend,issue,opened_external,8997,Benkapner,"Allow fullsend lint to check a single agent",https://github.com/fullsend-ai/fullsend/issues/8997
+2026-11-01,fullsend,pr,opened_core,8994,ifireball,"feat(#8894): forward bot slash comments to dispatch",https://github.com/fullsend-ai/fullsend/pull/8994
+2026-11-01,fullsend,pr,reviewed_external,7735,jwm4,"docs(#7734): warn Jira poller credentials must be a service account",https://github.com/fullsend-ai/fullsend/pull/7735
+2026-11-01,agents,issue,opened_external,1861,Benkapner,"eval: rethink the first-attempt / retry artifact layout",https://github.com/fullsend-ai/agents/issues/1861
+2026-11-01,agents,issue,closed_via_pr_external,1853,dhshah13,"fix(review,retro): follow-ups from the Codex wave dispatch review",https://github.com/fullsend-ai/agents/issues/1853
+2026-11-01,agents,issue,closed_other_external,1835,Benkapner,"Allow `fullsend lint` to check a single agent",https://github.com/fullsend-ai/agents/issues/1835
+2026-11-01,agents,issue,closed_via_pr_external,1701,Benkapner,"eval: preserve first-attempt artifacts when retrying failed cases",https://github.com/fullsend-ai/agents/issues/1701
+2026-11-01,agents,pr,reviewed_external,1819,csoceanu,"fix(#1818): keep finding ids on their stamped review threads",https://github.com/fullsend-ai/agents/pull/1819
+2026-11-01,agents,pr,reviewed_external,1819,csoceanu,"fix(#1818): keep finding ids on their stamped review threads",https://github.com/fullsend-ai/agents/pull/1819
+2026-11-01,agents,pr,reviewed_external,1819,csoceanu,"fix(#1818): keep finding ids on their stamped review threads",https://github.com/fullsend-ai/agents/pull/1819
+2026-11-01,agents,pr,reviewed_external,1819,csoceanu,"fix(#1818): keep finding ids on their stamped review threads",https://github.com/fullsend-ai/agents/pull/1819
+2026-11-01,agents,pr,reviewed_external,1819,csoceanu,"fix(#1818): keep finding ids on their stamped review threads",https://github.com/fullsend-ai/agents/pull/1819

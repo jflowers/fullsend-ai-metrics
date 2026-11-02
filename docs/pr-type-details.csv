@@ -2282,3 +2282,13 @@ date,repo,number,title,pr_type,fix_source,issue_number,issue_author,url
 2026-10-30,agents,1825,fix(#1824): attribute review findings to the evaluated run,fix,external,1824,Benkapner,https://github.com/fullsend-ai/agents/pull/1825
 2026-10-30,agents,1802,fix(#1801): scan only added lines in post-fix merge secret checks,fix,external,1801,ravelley,https://github.com/fullsend-ai/agents/pull/1802
 2026-10-30,agents,1749,docs(agents): align AGENTS.md with COMMITS.md and CONTRIBUTING.md SSOT,docs,,,,https://github.com/fullsend-ai/agents/pull/1749
+2026-11-01,fullsend,8982,fix(#8981)!: keep direct skill overrides deduplicated against a dep,fix,core,8981,waynesun09,https://github.com/fullsend-ai/fullsend/pull/8982
+2026-11-01,fullsend,8980,fix(#8979)!: pin a URL base's relative files to the lock entry,fix,core,8979,waynesun09,https://github.com/fullsend-ai/fullsend/pull/8980
+2026-11-01,fullsend,8978,fix(#8977): keep child values when replaying a URL base's lock entries,fix,core,8977,waynesun09,https://github.com/fullsend-ai/fullsend/pull/8978
+2026-11-01,fullsend,8976,fix(#8974): tidy skill override edge cases in staging and lock replay,fix,core,8974,waynesun09,https://github.com/fullsend-ai/fullsend/pull/8976
+2026-11-01,fullsend,8975,fix(#8973): error when a map-form skill matches two base URL skills,fix,core,8973,waynesun09,https://github.com/fullsend-ai/fullsend/pull/8975
+2026-11-01,fullsend,8967,fix(deps): update module github.com/yuin/goldmark to v1.8.7,fix,unlinked,,,https://github.com/fullsend-ai/fullsend/pull/8967
+2026-11-01,agents,1860,test(#1859): bump fullsend and run the custom-persona review scenario,test,,,,https://github.com/fullsend-ai/agents/pull/1860
+2026-11-01,agents,1856,fix(#1853): tighten the Codex wave after maintainer review,fix,external,1853,dhshah13,https://github.com/fullsend-ai/agents/pull/1856
+2026-11-01,agents,1751,fix(#1701): preserve first-attempt artifacts when retrying cases,fix,external,1701,Benkapner,https://github.com/fullsend-ai/agents/pull/1751
+2026-11-01,agents,1705,fix(#1567): key projection suppression off failed sub-agent name,fix,bot,1567,fullsend-ai-triage[bot],https://github.com/fullsend-ai/agents/pull/1705

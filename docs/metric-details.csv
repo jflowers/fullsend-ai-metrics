@@ -16384,3 +16384,40 @@ date,repo,type,event,number,title,url
 2026-10-30,rfe-creator,issue,opened,279,"Descriptor classification block for rfe and initiative, with the validate_types gate (AISDLC-189)",https://github.com/fullsend-ai/rfe-creator/issues/279
 2026-10-30,rfe-creator,issue,closed,276,"Initiatives live in RHAISTRAT: rebind the Initiative work-item type",https://github.com/fullsend-ai/rfe-creator/issues/276
 2026-10-30,.fullsend,pr,opened,207,"feat(repos): route the fleet's GPT review subagents through the inference gateway",https://github.com/fullsend-ai/.fullsend/pull/207
+2026-11-01,fullsend,pr,opened,9003,"fix(#8961): avoid duplicate agent artifact collisions",https://github.com/fullsend-ai/fullsend/pull/9003
+2026-11-01,fullsend,pr,opened,9000,"chore(deps): update dependency @earendil-works/pi-coding-agent to v1.4.0",https://github.com/fullsend-ai/fullsend/pull/9000
+2026-11-01,fullsend,pr,opened,8999,"feat(#8997): allow fullsend lint to check a single agent",https://github.com/fullsend-ai/fullsend/pull/8999
+2026-11-01,fullsend,pr,opened,8996,"fix(#8923): add HSTS header to mint responses",https://github.com/fullsend-ai/fullsend/pull/8996
+2026-11-01,fullsend,pr,opened,8995,"feat(cli): add JSON output to fullsend lint",https://github.com/fullsend-ai/fullsend/pull/8995
+2026-11-01,fullsend,pr,opened,8994,"feat(#8894): forward bot slash comments to dispatch",https://github.com/fullsend-ai/fullsend/pull/8994
+2026-11-01,fullsend,pr,opened,8993,"fix(#8992): keep harness unchanged when lock replay fails",https://github.com/fullsend-ai/fullsend/pull/8993
+2026-11-01,fullsend,pr,opened,8990,"fix(#8988): lock forge variants declared only in a base harness",https://github.com/fullsend-ai/fullsend/pull/8990
+2026-11-01,fullsend,pr,opened,8989,"chore(deps): update cloudflare-workers",https://github.com/fullsend-ai/fullsend/pull/8989
+2026-11-01,fullsend,pr,opened,8987,"fix(#8984): stop locked runs adding URL base host_files as skills",https://github.com/fullsend-ai/fullsend/pull/8987
+2026-11-01,fullsend,pr,opened,8986,"fix(#8985): replay locked skills by URL across forge variants",https://github.com/fullsend-ai/fullsend/pull/8986
+2026-11-01,fullsend,pr,merged,8982,"fix(#8981)!: keep direct skill overrides deduplicated against a dep",https://github.com/fullsend-ai/fullsend/pull/8982
+2026-11-01,fullsend,pr,merged,8980,"fix(#8979)!: pin a URL base's relative files to the lock entry",https://github.com/fullsend-ai/fullsend/pull/8980
+2026-11-01,fullsend,pr,merged,8978,"fix(#8977): keep child values when replaying a URL base's lock entries",https://github.com/fullsend-ai/fullsend/pull/8978
+2026-11-01,fullsend,pr,merged,8976,"fix(#8974): tidy skill override edge cases in staging and lock replay",https://github.com/fullsend-ai/fullsend/pull/8976
+2026-11-01,fullsend,pr,merged,8975,"fix(#8973): error when a map-form skill matches two base URL skills",https://github.com/fullsend-ai/fullsend/pull/8975
+2026-11-01,fullsend,pr,merged,8967,"fix(deps): update module github.com/yuin/goldmark to v1.8.7",https://github.com/fullsend-ai/fullsend/pull/8967
+2026-11-01,fullsend,issue,opened,9007,"jira-poll: support Atlassian service accounts alongside regular bot accounts (api.atlassian.com, scoped tokens, OAuth 2.0)",https://github.com/fullsend-ai/fullsend/issues/9007
+2026-11-01,fullsend,issue,opened,9006,"jira-poll: require a jira authorization entry (breaking change, three months after the warning ships)",https://github.com/fullsend-ai/fullsend/issues/9006
+2026-11-01,fullsend,issue,opened,9005,"jira-poll: warn at poller start when no jira authorization entry is configured",https://github.com/fullsend-ai/fullsend/issues/9005
+2026-11-01,fullsend,issue,opened,9004,"ADR: deprecate running the jira-poll driver with no jira authorization entry",https://github.com/fullsend-ai/fullsend/issues/9004
+2026-11-01,fullsend,issue,opened,9002,"langfuse-setup generator: derive verification span ID deterministically for retry idempotency",https://github.com/fullsend-ai/fullsend/issues/9002
+2026-11-01,fullsend,issue,opened,9001,"langfuse-setup generator: filter artifacts by workflow attempt to prevent stale re-export",https://github.com/fullsend-ai/fullsend/issues/9001
+2026-11-01,fullsend,issue,opened,8998,"pi runtime: validate agent output in-turn with a schema-typed submit_result tool (pi-schema)",https://github.com/fullsend-ai/fullsend/issues/8998
+2026-11-01,fullsend,issue,opened,8997,"Allow fullsend lint to check a single agent",https://github.com/fullsend-ai/fullsend/issues/8997
+2026-11-01,fullsend,issue,opened,8992,"Lock replay errors can leave the harness half-changed before the run falls back",https://github.com/fullsend-ai/fullsend/issues/8992
+2026-11-01,fullsend,issue,opened,8991,"Lock pins a URL used as both a file and a directory for only one of the two",https://github.com/fullsend-ai/fullsend/issues/8991
+2026-11-01,fullsend,issue,opened,8988,"fullsend lock without --forge misses forge variants declared only in a base harness",https://github.com/fullsend-ai/fullsend/issues/8988
+2026-11-01,fullsend,issue,opened,8985,"Locked runs drop a URL skill that sits at different indices across forge variants",https://github.com/fullsend-ai/fullsend/issues/8985
+2026-11-01,fullsend,issue,opened,8984,"Locked runs add a URL base's host_files entries as extra skills",https://github.com/fullsend-ai/fullsend/issues/8984
+2026-11-01,fullsend,issue,opened,8983,"/fs-fix-stop is silently ignored when the comment ends in a newline",https://github.com/fullsend-ai/fullsend/issues/8983
+2026-11-01,fullsend,issue,closed,8981,"skills: a direct skill's file overrides are dropped when an earlier skill pulls it in transitively",https://github.com/fullsend-ai/fullsend/issues/8981
+2026-11-01,fullsend,issue,closed,8979,"lock: a URL base's relative files follow the cache URL index, not the lock",https://github.com/fullsend-ai/fullsend/issues/8979
+2026-11-01,fullsend,issue,closed,8977,"lock: a URL base's agent, policy and skill entries replace the child's on locked runs",https://github.com/fullsend-ai/fullsend/issues/8977
+2026-11-01,fullsend,issue,closed,8973,"harness: clear error when a map-form skill override matches two same-name base URL skills",https://github.com/fullsend-ai/fullsend/issues/8973
+2026-11-01,fullsend,issue,closed,8974,"skills: tidy three skill-override edge cases (dead warning, read-only replace, base override lock fields)",https://github.com/fullsend-ai/fullsend/issues/8974
+2026-11-01,fullsend,issue,closed,8914,"Verify fullsend.sh for the fullsend-ai GitHub organization",https://github.com/fullsend-ai/fullsend/issues/8914
