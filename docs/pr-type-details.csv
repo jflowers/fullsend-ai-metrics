@@ -2292,3 +2292,18 @@ date,repo,number,title,pr_type,fix_source,issue_number,issue_author,url
 2026-11-01,agents,1856,fix(#1853): tighten the Codex wave after maintainer review,fix,external,1853,dhshah13,https://github.com/fullsend-ai/agents/pull/1856
 2026-11-01,agents,1751,fix(#1701): preserve first-attempt artifacts when retrying cases,fix,external,1701,Benkapner,https://github.com/fullsend-ai/agents/pull/1751
 2026-11-01,agents,1705,fix(#1567): key projection suppression off failed sub-agent name,fix,bot,1567,fullsend-ai-triage[bot],https://github.com/fullsend-ai/agents/pull/1705
+2026-11-03,fullsend,9082,feat(#9074)!: replace create_issues with tracker mappings,feat,,,,https://github.com/fullsend-ai/fullsend/pull/9082
+2026-11-03,fullsend,9066,feat(cli): publish JSON Schema for lint output,feat,,,,https://github.com/fullsend-ai/fullsend/pull/9066
+2026-11-03,fullsend,9058,docs(#7709): document site workflows cancel-in-progress exception,docs,,,,https://github.com/fullsend-ai/fullsend/pull/9058
+2026-11-03,fullsend,9057,chore(deps): update dependency semver to v7.8.6,chore,,,,https://github.com/fullsend-ai/fullsend/pull/9057
+2026-11-03,fullsend,9025,fix(#9023): skip redundant Jira sticky-marker property writes,fix,bot,9023,redhat-chai-bot,https://github.com/fullsend-ai/fullsend/pull/9025
+2026-11-03,fullsend,9021,feat(#9019): support private ghcr.io harness images,feat,,,,https://github.com/fullsend-ai/fullsend/pull/9021
+2026-11-03,fullsend,8996,fix(#8923): add HSTS header to mint responses,fix,core,8923,ralphbean,https://github.com/fullsend-ai/fullsend/pull/8996
+2026-11-03,fullsend,8932,fix(#8744): report reserved env.sandbox keys in fullsend lint,fix,core,8744,rh-hemartin,https://github.com/fullsend-ai/fullsend/pull/8932
+2026-11-03,fullsend,8891,docs(adr): correlate work-item and BT scenario traces,docs,,,,https://github.com/fullsend-ai/fullsend/pull/8891
+2026-11-03,agents,1884,chore(harness): pin fleet images to the v0.54.0-rc.1 release builds,chore,,,,https://github.com/fullsend-ai/agents/pull/1884
+2026-11-03,agents,1875,refactor(#1861): keep each eval attempt in attempts/<n> with final.json,other,,,,https://github.com/fullsend-ai/agents/pull/1875
+2026-11-03,agents,1874,feat(#1271): scale code-agent discovery to precisely scoped issues,feat,,,,https://github.com/fullsend-ai/agents/pull/1874
+2026-11-03,agents,1840,fix(scripts): support BSD sed,fix,unlinked,,,https://github.com/fullsend-ai/agents/pull/1840
+2026-11-03,agents,1836,fix(#1833): compare GitHub owner logins case-insensitively in PR recovery,fix,external,1833,Benkapner,https://github.com/fullsend-ai/agents/pull/1836
+2026-11-03,agents,1661,feat(#1654): scope review to own commits on stacked/cherry-picked PRs,feat,,,,https://github.com/fullsend-ai/agents/pull/1661

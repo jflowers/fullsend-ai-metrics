@@ -16421,3 +16421,85 @@ date,repo,type,event,number,title,url
 2026-11-01,fullsend,issue,closed,8973,"harness: clear error when a map-form skill override matches two same-name base URL skills",https://github.com/fullsend-ai/fullsend/issues/8973
 2026-11-01,fullsend,issue,closed,8974,"skills: tidy three skill-override edge cases (dead warning, read-only replace, base override lock fields)",https://github.com/fullsend-ai/fullsend/issues/8974
 2026-11-01,fullsend,issue,closed,8914,"Verify fullsend.sh for the fullsend-ai GitHub organization",https://github.com/fullsend-ai/fullsend/issues/8914
+2026-11-03,fullsend,pr,opened,9088,"chore(#9085): bump codex to 0.166.0 and re-verify the re-check table",https://github.com/fullsend-ai/fullsend/pull/9088
+2026-11-03,fullsend,pr,opened,9087,"docs(adr): add ADR 0159, Codex sub-agents on collaboration V2",https://github.com/fullsend-ai/fullsend/pull/9087
+2026-11-03,fullsend,pr,opened,9086,"docs(adr): add ADR 0158 on overlay runtime-fetch grants",https://github.com/fullsend-ai/fullsend/pull/9086
+2026-11-03,fullsend,pr,opened,9084,"refactor(telemetry): establish authenticated trace-context foundation",https://github.com/fullsend-ai/fullsend/pull/9084
+2026-11-03,fullsend,pr,opened,9083,"refactor(telemetry): establish authenticated trace-context foundation",https://github.com/fullsend-ai/fullsend/pull/9083
+2026-11-03,fullsend,pr,opened,9082,"feat(#9074)!: replace create_issues with tracker mappings",https://github.com/fullsend-ai/fullsend/pull/9082
+2026-11-03,fullsend,pr,opened,9081,"fix(#6970): stop advising claude for review and retro on codex",https://github.com/fullsend-ai/fullsend/pull/9081
+2026-11-03,fullsend,pr,opened,9080,"fix(#9073): make codex spawn denials for unregistered roles recoverable",https://github.com/fullsend-ai/fullsend/pull/9080
+2026-11-03,fullsend,pr,opened,9072,"chore(deps): update renovatebot/github-action action to v46.3.12",https://github.com/fullsend-ai/fullsend/pull/9072
+2026-11-03,fullsend,pr,opened,9070,"fix(#9068): upgrade previous-contract GitLab root inputs",https://github.com/fullsend-ai/fullsend/pull/9070
+2026-11-03,fullsend,pr,opened,9067,"feat(#9063)!: record legacy GitLab bot user IDs for ADR 0107",https://github.com/fullsend-ai/fullsend/pull/9067
+2026-11-03,fullsend,pr,opened,9066,"feat(cli): publish JSON Schema for lint output",https://github.com/fullsend-ai/fullsend/pull/9066
+2026-11-03,fullsend,pr,opened,9061,"chore(e2e): split org pool setup into manual, enroll, and CI scripts",https://github.com/fullsend-ai/fullsend/pull/9061
+2026-11-03,fullsend,pr,opened,9058,"docs(#7709): document site workflows cancel-in-progress exception",https://github.com/fullsend-ai/fullsend/pull/9058
+2026-11-03,fullsend,pr,opened,9057,"chore(deps): update dependency semver to v7.8.6",https://github.com/fullsend-ai/fullsend/pull/9057
+2026-11-03,fullsend,pr,opened,9056,"fix(#9038): address configured GitHub host in run fallback and status",https://github.com/fullsend-ai/fullsend/pull/9056
+2026-11-03,fullsend,pr,opened,9055,"fix(#9046): load harness .env in dummy runtime behaviour ops",https://github.com/fullsend-ai/fullsend/pull/9055
+2026-11-03,fullsend,pr,opened,9054,"fix(#9043): use the job's host for action release lookups and clones",https://github.com/fullsend-ai/fullsend/pull/9054
+2026-11-03,fullsend,pr,opened,9053,"fix(#9040): admit fullsend-ai repos on the configured GitHub host",https://github.com/fullsend-ai/fullsend/pull/9053
+2026-11-03,fullsend,pr,opened,9052,"fix(#9037): parse raw-content URLs on configured GitHub hosts",https://github.com/fullsend-ai/fullsend/pull/9052
+2026-11-03,fullsend,pr,opened,9051,"fix(#9041): honour GITHUB_API_URL in token-scope, reconcile, eval",https://github.com/fullsend-ai/fullsend/pull/9051
+2026-11-03,fullsend,pr,opened,9050,"fix(#9039): honour GITHUB_API_URL in github setup and github set",https://github.com/fullsend-ai/fullsend/pull/9050
+2026-11-03,fullsend,pr,opened,9049,"fix(#9044): skip local sandbox host setup for remote OpenShell gateway",https://github.com/fullsend-ai/fullsend/pull/9049
+2026-11-03,fullsend,pr,merged,9082,"feat(#9074)!: replace create_issues with tracker mappings",https://github.com/fullsend-ai/fullsend/pull/9082
+2026-11-03,fullsend,pr,merged,9066,"feat(cli): publish JSON Schema for lint output",https://github.com/fullsend-ai/fullsend/pull/9066
+2026-11-03,fullsend,pr,merged,9058,"docs(#7709): document site workflows cancel-in-progress exception",https://github.com/fullsend-ai/fullsend/pull/9058
+2026-11-03,fullsend,pr,merged,9057,"chore(deps): update dependency semver to v7.8.6",https://github.com/fullsend-ai/fullsend/pull/9057
+2026-11-03,fullsend,pr,merged,9025,"fix(#9023): skip redundant Jira sticky-marker property writes",https://github.com/fullsend-ai/fullsend/pull/9025
+2026-11-03,fullsend,pr,merged,9021,"feat(#9019): support private ghcr.io harness images",https://github.com/fullsend-ai/fullsend/pull/9021
+2026-11-03,fullsend,pr,merged,8996,"fix(#8923): add HSTS header to mint responses",https://github.com/fullsend-ai/fullsend/pull/8996
+2026-11-03,fullsend,pr,merged,8932,"fix(#8744): report reserved env.sandbox keys in fullsend lint",https://github.com/fullsend-ai/fullsend/pull/8932
+2026-11-03,fullsend,pr,merged,8891,"docs(adr): correlate work-item and BT scenario traces",https://github.com/fullsend-ai/fullsend/pull/8891
+2026-11-03,fullsend,pr,closed,9083,"refactor(telemetry): establish authenticated trace-context foundation",https://github.com/fullsend-ai/fullsend/pull/9083
+2026-11-03,fullsend,issue,opened,9085,"codex runtime: delegate from collaboration V2 parents and bump Codex past 0.159.3",https://github.com/fullsend-ai/fullsend/issues/9085
+2026-11-03,fullsend,issue,opened,9079,"jira: deliver configured credentials to agent workflows safely",https://github.com/fullsend-ai/fullsend/issues/9079
+2026-11-03,fullsend,issue,opened,9078,"jira: migrate issue and status clients to tracking config",https://github.com/fullsend-ai/fullsend/issues/9078
+2026-11-03,fullsend,issue,opened,9077,"jira-poll: load Jira settings from tracking config",https://github.com/fullsend-ai/fullsend/issues/9077
+2026-11-03,fullsend,issue,opened,9076,"repos install: install Jira polling and manage Jira secrets",https://github.com/fullsend-ai/fullsend/issues/9076
+2026-11-03,fullsend,issue,opened,9075,"repos install: migrate managed tracker config to tracking",https://github.com/fullsend-ai/fullsend/issues/9075
+2026-11-03,fullsend,issue,opened,9074,"config: replace create_issues with provider-specific allowed_targets",https://github.com/fullsend-ai/fullsend/issues/9074
+2026-11-03,fullsend,issue,opened,9073,"codex: a spawn denied for a mistyped role name drops the sub-agent silently",https://github.com/fullsend-ai/fullsend/issues/9073
+2026-11-03,fullsend,issue,opened,9071,"feat(poll): fill head_sha for every GitLab merge request event",https://github.com/fullsend-ai/fullsend/issues/9071
+2026-11-03,fullsend,issue,opened,9069,"ci(images): retain merge-queue candidate image tags indefinitely",https://github.com/fullsend-ai/fullsend/issues/9069
+2026-11-03,fullsend,issue,opened,9068,"GitLab: `repos install` upgrade fails on existing roots after the `resource_key` regex change (#8924)",https://github.com/fullsend-ai/fullsend/issues/9068
+2026-11-03,fullsend,issue,opened,9065,"Enforce ADR 0107 bot authorization in the GitLab poll and webhook event path before routing",https://github.com/fullsend-ai/fullsend/issues/9065
+2026-11-03,fullsend,issue,opened,9064,"Add a trusted GitLab actor-ID to ADR 0107 bot role resolver from role registry and rotation state",https://github.com/fullsend-ai/fullsend/issues/9064
+2026-11-03,fullsend,issue,opened,9063,"Persist or resolve the legacy project-access-token bot user ID to a registered GitLab role for ADR 0107",https://github.com/fullsend-ai/fullsend/issues/9063
+2026-11-03,fullsend,issue,opened,9062,"Agent commits pushed by post-code.sh are unsigned and rejected by repos requiring verified signatures",https://github.com/fullsend-ai/fullsend/issues/9062
+2026-11-03,fullsend,issue,opened,9060,"telemetry: implement ADR 0154 trace continuity",https://github.com/fullsend-ai/fullsend/issues/9060
+2026-11-03,fullsend,issue,opened,9059,"Add ADR 0107 bot account authorization for GitLab events",https://github.com/fullsend-ai/fullsend/issues/9059
+2026-11-03,fullsend,issue,opened,9048,"images: fullsend-code sandboxes never become Ready on OpenShell's Kubernetes driver because /sandbox/.cache/gopls is unreadable",https://github.com/fullsend-ai/fullsend/issues/9048
+2026-11-03,fullsend,issue,opened,9047,"scaffold: installed workflows always target the default runner label, so they stay queued on installations without it",https://github.com/fullsend-ai/fullsend/issues/9047
+2026-11-03,fullsend,issue,opened,9046,"runtime: dummy-runtime behaviour operations do not see the harness environment from .env",https://github.com/fullsend-ai/fullsend/issues/9046
+2026-11-03,fullsend,issue,opened,9045,"fetch: a GitHub host on a private network cannot be fetched from, even when it is the configured forge",https://github.com/fullsend-ai/fullsend/issues/9045
+2026-11-03,fullsend,issue,opened,9044,"action: agent action sets up a local sandbox host even when an OpenShell gateway endpoint is configured",https://github.com/fullsend-ai/fullsend/issues/9044
+2026-11-03,fullsend,issue,opened,9043,"action: agent and CLI install actions call github.com for releases and clones",https://github.com/fullsend-ai/fullsend/issues/9043
+2026-11-03,fullsend,issue,opened,9042,"cli: `dispatch --route`, `lint` and the offline cache resolve the agents repo on github.com",https://github.com/fullsend-ai/fullsend/issues/9042
+2026-11-03,fullsend,issue,opened,9041,"cli: token-scope check, `reconcile-status` and `eval-measure` address api.github.com on other GitHub hosts",https://github.com/fullsend-ai/fullsend/issues/9041
+2026-11-03,fullsend,issue,opened,9040,"config: default allowed_remote_resources refuses fullsend-ai repositories on the configured GitHub host",https://github.com/fullsend-ai/fullsend/issues/9040
+2026-11-03,fullsend,issue,opened,9039,"cli: `fullsend github setup` and `github set` address api.github.com on other GitHub hosts",https://github.com/fullsend-ai/fullsend/issues/9039
+2026-11-03,fullsend,issue,opened,9038,"run: agents-repo fallback and the run's status comment address github.com on other GitHub hosts",https://github.com/fullsend-ai/fullsend/issues/9038
+2026-11-03,fullsend,issue,opened,9037,"forge: ParseRawContentURL rejects raw-content URLs on GitHub Enterprise hosts",https://github.com/fullsend-ai/fullsend/issues/9037
+2026-11-03,fullsend,issue,opened,9036,"Several code paths address github.com instead of the configured GitHub host",https://github.com/fullsend-ai/fullsend/issues/9036
+2026-11-03,fullsend,issue,closed,9074,"config: replace create_issues with provider-specific allowed_targets",https://github.com/fullsend-ai/fullsend/issues/9074
+2026-11-03,fullsend,issue,closed,9023,"issues post-comment: skip redundant Jira sticky-marker property writes",https://github.com/fullsend-ai/fullsend/issues/9023
+2026-11-03,fullsend,issue,closed,9019,"Harness `image:` on a private ghcr.io package can't be pulled: the agent jobs never log in to the registry",https://github.com/fullsend-ai/fullsend/issues/9019
+2026-11-03,fullsend,issue,closed,8923,"Add HSTS header to hosted token mint",https://github.com/fullsend-ai/fullsend/issues/8923
+2026-11-03,fullsend,issue,closed,8890,"dispatch: agent-check ignores enabled: false on source-only agents[] entries",https://github.com/fullsend-ai/fullsend/issues/8890
+2026-11-03,fullsend,issue,closed,8744,"fullsend lint misses reserved env.sandbox keys that run and lock report",https://github.com/fullsend-ai/fullsend/issues/8744
+2026-11-03,fullsend,issue,closed,8414,"Consolidate platform actor authorization into one behavior matrix",https://github.com/fullsend-ai/fullsend/issues/8414
+2026-11-03,fullsend,issue,closed,8383,"Route trivial bot dependency-bump PRs to lighter review configuration",https://github.com/fullsend-ai/fullsend/issues/8383
+2026-11-03,fullsend,issue,closed,7709,"Document the site-build/site-deploy cancel-in-progress exception in ci-workflows.md",https://github.com/fullsend-ai/fullsend/issues/7709
+2026-11-03,rfe-creator,pr,opened,290,"eval(classification): record the first baselines, judge the substance not the template (AISDLC-192)",https://github.com/fullsend-ai/rfe-creator/pull/290
+2026-11-03,rfe-creator,pr,opened,288,"fix(submit): take a cleared needs-attention label off the issue",https://github.com/fullsend-ai/rfe-creator/pull/288
+2026-11-03,rfe-creator,pr,merged,290,"eval(classification): record the first baselines, judge the substance not the template (AISDLC-192)",https://github.com/fullsend-ai/rfe-creator/pull/290
+2026-11-03,rfe-creator,pr,merged,288,"fix(submit): take a cleared needs-attention label off the issue",https://github.com/fullsend-ai/rfe-creator/pull/288
+2026-11-03,rfe-creator,pr,merged,286,"eval(classification): misfiled and ambiguous cases, the classification_signal check and its threshold (AISDLC-192)",https://github.com/fullsend-ai/rfe-creator/pull/286
+2026-11-03,rfe-creator,issue,opened,289,"Record the classification_signal baselines and settle its threshold",https://github.com/fullsend-ai/rfe-creator/issues/289
+2026-11-03,rfe-creator,issue,opened,287,"The needs-attention label survives a cleared flag",https://github.com/fullsend-ai/rfe-creator/issues/287
+2026-11-03,rfe-creator,issue,closed,289,"Record the classification_signal baselines and settle its threshold",https://github.com/fullsend-ai/rfe-creator/issues/289
+2026-11-03,rfe-creator,issue,closed,287,"The needs-attention label survives a cleared flag",https://github.com/fullsend-ai/rfe-creator/issues/287
+2026-11-03,rfe-creator,issue,closed,285,"Eval cases and thresholds for the classification stages (AISDLC-192)",https://github.com/fullsend-ai/rfe-creator/issues/285

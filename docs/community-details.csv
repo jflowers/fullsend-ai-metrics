@@ -2568,3 +2568,85 @@ date,repo,type,event,number,actor,title,url
 2026-11-01,agents,pr,reviewed_external,1819,csoceanu,"fix(#1818): keep finding ids on their stamped review threads",https://github.com/fullsend-ai/agents/pull/1819
 2026-11-01,agents,pr,reviewed_external,1819,csoceanu,"fix(#1818): keep finding ids on their stamped review threads",https://github.com/fullsend-ai/agents/pull/1819
 2026-11-01,agents,pr,reviewed_external,1819,csoceanu,"fix(#1818): keep finding ids on their stamped review threads",https://github.com/fullsend-ai/agents/pull/1819
+2026-11-03,fullsend,issue,opened_external,9073,dhshah13,"codex: a spawn denied for a mistyped role name drops the sub-agent silently",https://github.com/fullsend-ai/fullsend/issues/9073
+2026-11-03,fullsend,issue,opened_external,9071,AshwinUgale,"feat(poll): fill head_sha for every GitLab merge request event",https://github.com/fullsend-ai/fullsend/issues/9071
+2026-11-03,fullsend,issue,opened_external,9069,yvonnedevlinrh,"ci(images): retain merge-queue candidate image tags indefinitely",https://github.com/fullsend-ai/fullsend/issues/9069
+2026-11-03,fullsend,issue,opened_external,9068,dhshah13,"GitLab: `repos install` upgrade fails on existing roots after the `resource_key` regex change (#8924)",https://github.com/fullsend-ai/fullsend/issues/9068
+2026-11-03,fullsend,issue,opened_external,9048,jctanner,"images: fullsend-code sandboxes never become Ready on OpenShell's Kubernetes driver because /sandbox/.cache/gopls is unreadable",https://github.com/fullsend-ai/fullsend/issues/9048
+2026-11-03,fullsend,issue,opened_external,9047,jctanner,"scaffold: installed workflows always target the default runner label, so they stay queued on installations without it",https://github.com/fullsend-ai/fullsend/issues/9047
+2026-11-03,fullsend,issue,opened_external,9046,jctanner,"runtime: dummy-runtime behaviour operations do not see the harness environment from .env",https://github.com/fullsend-ai/fullsend/issues/9046
+2026-11-03,fullsend,issue,opened_external,9045,jctanner,"fetch: a GitHub host on a private network cannot be fetched from, even when it is the configured forge",https://github.com/fullsend-ai/fullsend/issues/9045
+2026-11-03,fullsend,issue,opened_external,9044,jctanner,"action: agent action sets up a local sandbox host even when an OpenShell gateway endpoint is configured",https://github.com/fullsend-ai/fullsend/issues/9044
+2026-11-03,fullsend,issue,opened_external,9043,jctanner,"action: agent and CLI install actions call github.com for releases and clones",https://github.com/fullsend-ai/fullsend/issues/9043
+2026-11-03,fullsend,issue,opened_external,9042,jctanner,"cli: `dispatch --route`, `lint` and the offline cache resolve the agents repo on github.com",https://github.com/fullsend-ai/fullsend/issues/9042
+2026-11-03,fullsend,issue,opened_external,9041,jctanner,"cli: token-scope check, `reconcile-status` and `eval-measure` address api.github.com on other GitHub hosts",https://github.com/fullsend-ai/fullsend/issues/9041
+2026-11-03,fullsend,issue,opened_external,9040,jctanner,"config: default allowed_remote_resources refuses fullsend-ai repositories on the configured GitHub host",https://github.com/fullsend-ai/fullsend/issues/9040
+2026-11-03,fullsend,issue,opened_external,9039,jctanner,"cli: `fullsend github setup` and `github set` address api.github.com on other GitHub hosts",https://github.com/fullsend-ai/fullsend/issues/9039
+2026-11-03,fullsend,issue,opened_external,9038,jctanner,"run: agents-repo fallback and the run's status comment address github.com on other GitHub hosts",https://github.com/fullsend-ai/fullsend/issues/9038
+2026-11-03,fullsend,issue,opened_external,9037,jctanner,"forge: ParseRawContentURL rejects raw-content URLs on GitHub Enterprise hosts",https://github.com/fullsend-ai/fullsend/issues/9037
+2026-11-03,fullsend,issue,opened_external,9036,jctanner,"Several code paths address github.com instead of the configured GitHub host",https://github.com/fullsend-ai/fullsend/issues/9036
+2026-11-03,fullsend,issue,closed_via_pr_external,9019,tpouyer,"Harness `image:` on a private ghcr.io package can't be pulled: the agent jobs never log in to the registry",https://github.com/fullsend-ai/fullsend/issues/9019
+2026-11-03,fullsend,pr,opened_core,9061,rh-hemartin,"chore(e2e): split org pool setup into manual, enroll, and CI scripts",https://github.com/fullsend-ai/fullsend/pull/9061
+2026-11-03,fullsend,pr,reviewed_external,9058,Benkapner,"docs(#7709): document site workflows cancel-in-progress exception",https://github.com/fullsend-ai/fullsend/pull/9058
+2026-11-03,fullsend,pr,reviewed_external,9058,Benkapner,"docs(#7709): document site workflows cancel-in-progress exception",https://github.com/fullsend-ai/fullsend/pull/9058
+2026-11-03,fullsend,pr,reviewed_external,9056,jctanner,"fix(#9038): address configured GitHub host in run fallback and status",https://github.com/fullsend-ai/fullsend/pull/9056
+2026-11-03,fullsend,pr,reviewed_external,9056,jctanner,"fix(#9038): address configured GitHub host in run fallback and status",https://github.com/fullsend-ai/fullsend/pull/9056
+2026-11-03,fullsend,pr,reviewed_external,9056,jctanner,"fix(#9038): address configured GitHub host in run fallback and status",https://github.com/fullsend-ai/fullsend/pull/9056
+2026-11-03,fullsend,pr,reviewed_external,9056,jctanner,"fix(#9038): address configured GitHub host in run fallback and status",https://github.com/fullsend-ai/fullsend/pull/9056
+2026-11-03,fullsend,pr,reviewed_external,9055,jctanner,"fix(#9046): load harness .env in dummy runtime behaviour ops",https://github.com/fullsend-ai/fullsend/pull/9055
+2026-11-03,fullsend,pr,reviewed_external,9054,jctanner,"fix(#9043): use the job's host for action release lookups and clones",https://github.com/fullsend-ai/fullsend/pull/9054
+2026-11-03,fullsend,pr,reviewed_external,9053,jctanner,"fix(#9040): admit fullsend-ai repos on the configured GitHub host",https://github.com/fullsend-ai/fullsend/pull/9053
+2026-11-03,fullsend,pr,reviewed_external,9052,jctanner,"fix(#9037): parse raw-content URLs on configured GitHub hosts",https://github.com/fullsend-ai/fullsend/pull/9052
+2026-11-03,fullsend,pr,reviewed_external,9052,jctanner,"fix(#9037): parse raw-content URLs on configured GitHub hosts",https://github.com/fullsend-ai/fullsend/pull/9052
+2026-11-03,fullsend,pr,reviewed_external,9052,jctanner,"fix(#9037): parse raw-content URLs on configured GitHub hosts",https://github.com/fullsend-ai/fullsend/pull/9052
+2026-11-03,fullsend,pr,reviewed_external,9052,jctanner,"fix(#9037): parse raw-content URLs on configured GitHub hosts",https://github.com/fullsend-ai/fullsend/pull/9052
+2026-11-03,fullsend,pr,reviewed_external,9051,jctanner,"fix(#9041): honour GITHUB_API_URL in token-scope, reconcile, eval",https://github.com/fullsend-ai/fullsend/pull/9051
+2026-11-03,fullsend,pr,reviewed_external,9050,jctanner,"fix(#9039): honour GITHUB_API_URL in github setup and github set",https://github.com/fullsend-ai/fullsend/pull/9050
+2026-11-03,fullsend,pr,reviewed_external,9049,jctanner,"fix(#9044): skip local sandbox host setup for remote OpenShell gateway",https://github.com/fullsend-ai/fullsend/pull/9049
+2026-11-03,fullsend,pr,reviewed_external,9049,jctanner,"fix(#9044): skip local sandbox host setup for remote OpenShell gateway",https://github.com/fullsend-ai/fullsend/pull/9049
+2026-11-03,fullsend,pr,reviewed_external,9049,jctanner,"fix(#9044): skip local sandbox host setup for remote OpenShell gateway",https://github.com/fullsend-ai/fullsend/pull/9049
+2026-11-03,fullsend,pr,reviewed_external,9049,jctanner,"fix(#9044): skip local sandbox host setup for remote OpenShell gateway",https://github.com/fullsend-ai/fullsend/pull/9049
+2026-11-03,fullsend,pr,reviewed_external,9049,jctanner,"fix(#9044): skip local sandbox host setup for remote OpenShell gateway",https://github.com/fullsend-ai/fullsend/pull/9049
+2026-11-03,fullsend,pr,reviewed_external,9049,jctanner,"fix(#9044): skip local sandbox host setup for remote OpenShell gateway",https://github.com/fullsend-ai/fullsend/pull/9049
+2026-11-03,fullsend,pr,reviewed_external,9049,jctanner,"fix(#9044): skip local sandbox host setup for remote OpenShell gateway",https://github.com/fullsend-ai/fullsend/pull/9049
+2026-11-03,fullsend,pr,reviewed_external,9025,jwm4,"fix(#9023): skip redundant Jira sticky-marker property writes",https://github.com/fullsend-ai/fullsend/pull/9025
+2026-11-03,fullsend,pr,reviewed_external,9021,tpouyer,"feat(#9019): support private ghcr.io harness images",https://github.com/fullsend-ai/fullsend/pull/9021
+2026-11-03,fullsend,pr,reviewed_external,8955,jctanner,"fix(#8952)!: mint replaces gh enterprise token variables too",https://github.com/fullsend-ai/fullsend/pull/8955
+2026-11-03,rfe-creator,issue,opened_external,289,astefanutti,"Record the classification_signal baselines and settle its threshold",https://github.com/fullsend-ai/rfe-creator/issues/289
+2026-11-03,rfe-creator,issue,opened_external,287,astefanutti,"The needs-attention label survives a cleared flag",https://github.com/fullsend-ai/rfe-creator/issues/287
+2026-11-03,rfe-creator,issue,closed_via_pr_external,289,astefanutti,"Record the classification_signal baselines and settle its threshold",https://github.com/fullsend-ai/rfe-creator/issues/289
+2026-11-03,rfe-creator,issue,closed_via_pr_external,287,astefanutti,"The needs-attention label survives a cleared flag",https://github.com/fullsend-ai/rfe-creator/issues/287
+2026-11-03,rfe-creator,issue,closed_via_pr_external,285,astefanutti,"Eval cases and thresholds for the classification stages (AISDLC-192)",https://github.com/fullsend-ai/rfe-creator/issues/285
+2026-11-03,strat-creator,issue,opened_external,103,jctanner,"Label gate misreads: agents confuse clone-inherited rfe-creator-needs-attention with the strat-creator-needs-attention gate label",https://github.com/fullsend-ai/strat-creator/issues/103
+2026-11-03,strat-creator,issue,closed_via_pr_external,103,jctanner,"Label gate misreads: agents confuse clone-inherited rfe-creator-needs-attention with the strat-creator-needs-attention gate label",https://github.com/fullsend-ai/strat-creator/issues/103
+2026-11-03,strat-creator,pr,reviewed_external,104,jctanner,"fix(#103): script the exact-match pipeline label gate",https://github.com/fullsend-ai/strat-creator/pull/104
+2026-11-03,epic-creator,pr,reviewed_external,56,Benkapner,"[AISDLC-547] Create RHAI Epics per planned PR with partial progress",https://github.com/fullsend-ai/epic-creator/pull/56
+2026-11-03,epic-creator,pr,reviewed_external,56,csoceanu,"[AISDLC-547] Create RHAI Epics per planned PR with partial progress",https://github.com/fullsend-ai/epic-creator/pull/56
+2026-11-03,epic-creator,pr,reviewed_external,56,Benkapner,"[AISDLC-547] Create RHAI Epics per planned PR with partial progress",https://github.com/fullsend-ai/epic-creator/pull/56
+2026-11-03,epic-creator,pr,reviewed_external,56,Benkapner,"[AISDLC-547] Create RHAI Epics per planned PR with partial progress",https://github.com/fullsend-ai/epic-creator/pull/56
+2026-11-03,epic-creator,pr,reviewed_external,56,Benkapner,"[AISDLC-547] Create RHAI Epics per planned PR with partial progress",https://github.com/fullsend-ai/epic-creator/pull/56
+2026-11-03,agents,issue,opened_external,1879,guyoron1,"review-result: record ADR 0089's per-tier risk sub-scores",https://github.com/fullsend-ai/agents/issues/1879
+2026-11-03,agents,issue,opened_external,1876,jwm4,"Jira curl helpers, sandbox skill and jira-ro profile: call the API URL fullsend provides, not the site URL",https://github.com/fullsend-ai/agents/issues/1876
+2026-11-03,agents,issue,opened_external,1868,jctanner,"ops libraries: forge_set_push_remote pushes to github.com regardless of the configured host",https://github.com/fullsend-ai/agents/issues/1868
+2026-11-03,agents,issue,opened_external,1867,jctanner,"triage: duplicate rule counts only open issues, but the triage tooling also shows closed issues",https://github.com/fullsend-ai/agents/issues/1867
+2026-11-03,agents,issue,opened_external,1866,jctanner,"ops libraries: review, code, fix and other GitHub stages assume github.com URLs",https://github.com/fullsend-ai/agents/issues/1866
+2026-11-03,agents,issue,opened_external,1865,jctanner,"triage: tracker_validate_issue_url rejects issue URLs on GitHub hosts other than github.com",https://github.com/fullsend-ai/agents/issues/1865
+2026-11-03,agents,issue,opened_external,1864,jctanner,"triage, review: agent definitions do not say their inputs are environment variables, so the model sometimes asks for them",https://github.com/fullsend-ai/agents/issues/1864
+2026-11-03,agents,issue,closed_via_pr_external,1861,Benkapner,"eval: rethink the first-attempt / retry artifact layout",https://github.com/fullsend-ai/agents/issues/1861
+2026-11-03,agents,issue,closed_via_pr_external,1833,Benkapner,"PR recovery treats GitHub owner logins as case-sensitive",https://github.com/fullsend-ai/agents/issues/1833
+2026-11-03,agents,pr,reviewed_external,1880,dhshah13,"fix(#1795): run scribe content gates before gates that log content",https://github.com/fullsend-ai/agents/pull/1880
+2026-11-03,agents,pr,reviewed_external,1874,Benkapner,"feat(#1271): scale code-agent discovery to precisely scoped issues",https://github.com/fullsend-ai/agents/pull/1874
+2026-11-03,agents,pr,reviewed_external,1874,Benkapner,"feat(#1271): scale code-agent discovery to precisely scoped issues",https://github.com/fullsend-ai/agents/pull/1874
+2026-11-03,agents,pr,reviewed_external,1874,Benkapner,"feat(#1271): scale code-agent discovery to precisely scoped issues",https://github.com/fullsend-ai/agents/pull/1874
+2026-11-03,agents,pr,reviewed_external,1873,jctanner,"fix(#1866): use GITHUB_SERVER_URL host in GitHub ops URL handling",https://github.com/fullsend-ai/agents/pull/1873
+2026-11-03,agents,pr,reviewed_external,1872,jctanner,"fix(#1868): build push remote from the configured GitHub host",https://github.com/fullsend-ai/agents/pull/1872
+2026-11-03,agents,pr,reviewed_external,1871,jctanner,"fix(#1865): accept triage issue URLs on the run's GitHub host",https://github.com/fullsend-ai/agents/pull/1871
+2026-11-03,agents,pr,reviewed_external,1870,jctanner,"fix(#1864): tell triage and review agents their inputs are env vars",https://github.com/fullsend-ai/agents/pull/1870
+2026-11-03,agents,pr,reviewed_external,1869,jctanner,"fix(#1867): restrict triage duplicate targets to open issues",https://github.com/fullsend-ai/agents/pull/1869
+2026-11-03,agents,pr,reviewed_external,1863,csoceanu,"feat(#519): let the fix agent update stale PR/MR title and body",https://github.com/fullsend-ai/agents/pull/1863
+2026-11-03,agents,pr,reviewed_external,1863,csoceanu,"feat(#519): let the fix agent update stale PR/MR title and body",https://github.com/fullsend-ai/agents/pull/1863
+2026-11-03,agents,pr,reviewed_external,1863,csoceanu,"feat(#519): let the fix agent update stale PR/MR title and body",https://github.com/fullsend-ai/agents/pull/1863
+2026-11-03,agents,pr,reviewed_external,1661,shairevivo,"feat(#1654): scope review to own commits on stacked/cherry-picked PRs",https://github.com/fullsend-ai/agents/pull/1661
+2026-11-03,agents,pr,reviewed_external,1661,shairevivo,"feat(#1654): scope review to own commits on stacked/cherry-picked PRs",https://github.com/fullsend-ai/agents/pull/1661
+2026-11-03,agents,pr,reviewed_external,1661,shairevivo,"feat(#1654): scope review to own commits on stacked/cherry-picked PRs",https://github.com/fullsend-ai/agents/pull/1661
+2026-11-03,agents,pr,reviewed_external,1661,shairevivo,"feat(#1654): scope review to own commits on stacked/cherry-picked PRs",https://github.com/fullsend-ai/agents/pull/1661
