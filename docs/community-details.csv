@@ -2650,3 +2650,52 @@ date,repo,type,event,number,actor,title,url
 2026-11-03,agents,pr,reviewed_external,1661,shairevivo,"feat(#1654): scope review to own commits on stacked/cherry-picked PRs",https://github.com/fullsend-ai/agents/pull/1661
 2026-11-03,agents,pr,reviewed_external,1661,shairevivo,"feat(#1654): scope review to own commits on stacked/cherry-picked PRs",https://github.com/fullsend-ai/agents/pull/1661
 2026-11-03,agents,pr,reviewed_external,1661,shairevivo,"feat(#1654): scope review to own commits on stacked/cherry-picked PRs",https://github.com/fullsend-ai/agents/pull/1661
+2026-11-04,fullsend,issue,opened_external,9099,astefanutti,"Fleet sync renders the `tracker` config mapping before any release parses it; release-pinned consumers fail to load the managed config",https://github.com/fullsend-ai/fullsend/issues/9099
+2026-11-04,fullsend,pr,opened_core,9097,ifireball,"docs(adr): configure Vault-backed runner secrets",https://github.com/fullsend-ai/fullsend/pull/9097
+2026-11-04,fullsend,pr,reviewed_external,9101,Benkapner,"fix(#9098): post config load errors to the status comment",https://github.com/fullsend-ai/fullsend/pull/9101
+2026-11-04,fullsend,pr,reviewed_external,9101,Benkapner,"fix(#9098): post config load errors to the status comment",https://github.com/fullsend-ai/fullsend/pull/9101
+2026-11-04,fullsend,pr,reviewed_external,9097,jwm4,"docs(adr): configure Vault-backed runner secrets",https://github.com/fullsend-ai/fullsend/pull/9097
+2026-11-04,rfe-creator,issue,opened_external,292,astefanutti,"Release 0.4.0: the classification stages and the needs-attention label removal",https://github.com/fullsend-ai/rfe-creator/issues/292
+2026-11-04,rfe-creator,issue,opened_external,291,astefanutti,"Owner guide: the review's misfiled flag, its fourth outcome, and the label that comes off",https://github.com/fullsend-ai/rfe-creator/issues/291
+2026-11-04,rfe-creator,issue,closed_via_pr_external,292,astefanutti,"Release 0.4.0: the classification stages and the needs-attention label removal",https://github.com/fullsend-ai/rfe-creator/issues/292
+2026-11-04,rfe-creator,issue,closed_via_pr_external,291,astefanutti,"Owner guide: the review's misfiled flag, its fourth outcome, and the label that comes off",https://github.com/fullsend-ai/rfe-creator/issues/291
+2026-11-04,.fullsend,pr,opened_core,215,ggallen,"fix: build sync tools from github.fullsend_ref",https://github.com/fullsend-ai/.fullsend/pull/215
+2026-11-04,.fullsend,pr,opened_core,214,ggallen,"chore: pin Fullsend CLI to #9075 migration",https://github.com/fullsend-ai/.fullsend/pull/214
+2026-11-04,agent-eval-harness,issue,opened_external,296,Aliciapet11,"OpenRouter generation IDs are lost before provider attribution",https://github.com/fullsend-ai/agent-eval-harness/issues/296
+2026-11-04,agent-eval-harness,pr,reviewed_external,295,astefanutti,"fix(provider): OpenRouter generation ID collection and provider attribution",https://github.com/fullsend-ai/agent-eval-harness/pull/295
+2026-11-04,agent-eval-harness,pr,reviewed_external,295,astefanutti,"fix(provider): OpenRouter generation ID collection and provider attribution",https://github.com/fullsend-ai/agent-eval-harness/pull/295
+2026-11-04,agent-eval-harness,pr,reviewed_external,295,astefanutti,"fix(provider): OpenRouter generation ID collection and provider attribution",https://github.com/fullsend-ai/agent-eval-harness/pull/295
+2026-11-04,agent-eval-harness,pr,reviewed_external,295,astefanutti,"fix(provider): OpenRouter generation ID collection and provider attribution",https://github.com/fullsend-ai/agent-eval-harness/pull/295
+2026-11-04,agent-eval-harness,pr,reviewed_external,295,astefanutti,"fix(provider): OpenRouter generation ID collection and provider attribution",https://github.com/fullsend-ai/agent-eval-harness/pull/295
+2026-11-04,agent-eval-harness,pr,reviewed_external,295,astefanutti,"fix(provider): OpenRouter generation ID collection and provider attribution",https://github.com/fullsend-ai/agent-eval-harness/pull/295
+2026-11-04,agent-eval-harness,pr,reviewed_external,295,astefanutti,"fix(provider): OpenRouter generation ID collection and provider attribution",https://github.com/fullsend-ai/agent-eval-harness/pull/295
+2026-11-04,agent-eval-harness,pr,reviewed_external,288,astefanutti,"fix(optimize): cap-evolve integration fixes from #255 review",https://github.com/fullsend-ai/agent-eval-harness/pull/288
+2026-11-04,agent-eval-harness,pr,reviewed_external,288,astefanutti,"fix(optimize): cap-evolve integration fixes from #255 review",https://github.com/fullsend-ai/agent-eval-harness/pull/288
+2026-11-04,agent-eval-harness,pr,reviewed_external,288,astefanutti,"fix(optimize): cap-evolve integration fixes from #255 review",https://github.com/fullsend-ai/agent-eval-harness/pull/288
+2026-11-04,agent-eval-harness,pr,reviewed_external,288,astefanutti,"fix(optimize): cap-evolve integration fixes from #255 review",https://github.com/fullsend-ai/agent-eval-harness/pull/288
+2026-11-04,agent-eval-harness,pr,reviewed_external,288,astefanutti,"fix(optimize): cap-evolve integration fixes from #255 review",https://github.com/fullsend-ai/agent-eval-harness/pull/288
+2026-11-04,agent-eval-harness,pr,reviewed_external,288,astefanutti,"fix(optimize): cap-evolve integration fixes from #255 review",https://github.com/fullsend-ai/agent-eval-harness/pull/288
+2026-11-04,agent-eval-harness,pr,reviewed_external,288,astefanutti,"fix(optimize): cap-evolve integration fixes from #255 review",https://github.com/fullsend-ai/agent-eval-harness/pull/288
+2026-11-04,agent-eval-harness,pr,reviewed_external,288,astefanutti,"fix(optimize): cap-evolve integration fixes from #255 review",https://github.com/fullsend-ai/agent-eval-harness/pull/288
+2026-11-04,agent-eval-harness,pr,reviewed_external,288,astefanutti,"fix(optimize): cap-evolve integration fixes from #255 review",https://github.com/fullsend-ai/agent-eval-harness/pull/288
+2026-11-04,agent-eval-harness,pr,reviewed_external,288,astefanutti,"fix(optimize): cap-evolve integration fixes from #255 review",https://github.com/fullsend-ai/agent-eval-harness/pull/288
+2026-11-04,agent-eval-harness,pr,reviewed_external,288,astefanutti,"fix(optimize): cap-evolve integration fixes from #255 review",https://github.com/fullsend-ai/agent-eval-harness/pull/288
+2026-11-04,agent-eval-harness,pr,reviewed_external,288,astefanutti,"fix(optimize): cap-evolve integration fixes from #255 review",https://github.com/fullsend-ai/agent-eval-harness/pull/288
+2026-11-04,agent-eval-harness,pr,reviewed_external,288,astefanutti,"fix(optimize): cap-evolve integration fixes from #255 review",https://github.com/fullsend-ai/agent-eval-harness/pull/288
+2026-11-04,agent-eval-harness,pr,reviewed_external,288,astefanutti,"fix(optimize): cap-evolve integration fixes from #255 review",https://github.com/fullsend-ai/agent-eval-harness/pull/288
+2026-11-04,agent-eval-harness,pr,reviewed_external,288,astefanutti,"fix(optimize): cap-evolve integration fixes from #255 review",https://github.com/fullsend-ai/agent-eval-harness/pull/288
+2026-11-04,epic-creator,pr,reviewed_external,59,MichaelYochpaz,"fix(eval): allow component bootstrap skip to execute",https://github.com/fullsend-ai/epic-creator/pull/59
+2026-11-04,epic-creator,pr,reviewed_external,56,csoceanu,"[AISDLC-547] Create RHAI Epics per planned PR with partial progress",https://github.com/fullsend-ai/epic-creator/pull/56
+2026-11-04,agents,issue,opened_external,1894,Benkapner,"post-code: preserve recoverable patches when commit or push fails",https://github.com/fullsend-ai/agents/issues/1894
+2026-11-04,agents,issue,opened_external,1890,AshwinUgale,"eval: add deterministic state and review action checks",https://github.com/fullsend-ai/agents/issues/1890
+2026-11-04,agents,pr,opened_core,1888,ggallen,"fix(#1881)!: migrate agents config to tracker mapping",https://github.com/fullsend-ai/agents/pull/1888
+2026-11-04,agents,pr,opened_core,1886,ggallen,"Remove create_issues configuration",https://github.com/fullsend-ai/agents/pull/1886
+2026-11-04,agents,pr,reviewed_external,1896,Benkapner,"fix(#1894): preserve agent work as a patch when post-code fails",https://github.com/fullsend-ai/agents/pull/1896
+2026-11-04,agents,pr,reviewed_external,1892,Benkapner,"fix(#1885): drop duplicate risk-assessment marker from comment",https://github.com/fullsend-ai/agents/pull/1892
+2026-11-04,agents,pr,reviewed_external,1863,csoceanu,"feat(#519): let the fix agent update stale PR/MR title and body",https://github.com/fullsend-ai/agents/pull/1863
+2026-11-04,agents,pr,reviewed_external,1863,csoceanu,"feat(#519): let the fix agent update stale PR/MR title and body",https://github.com/fullsend-ai/agents/pull/1863
+2026-11-04,agents,pr,reviewed_external,1863,csoceanu,"feat(#519): let the fix agent update stale PR/MR title and body",https://github.com/fullsend-ai/agents/pull/1863
+2026-11-04,pi-xai-vertex,pr,opened_core,18,waynesun09,"chore: release v0.3.0",https://github.com/fullsend-ai/pi-xai-vertex/pull/18
+2026-11-04,pi-anthropic-vertex,pr,opened_core,15,waynesun09,"fix: release 0.2.0",https://github.com/fullsend-ai/pi-anthropic-vertex/pull/15
+2026-11-04,pi-inference-gateway,pr,opened_core,45,waynesun09,"chore: release v0.2.0",https://github.com/fullsend-ai/pi-inference-gateway/pull/45
+2026-11-04,org,pr,opened_core,45,ralphbean,"Register epic-creator-eval in org governance",https://github.com/fullsend-ai/org/pull/45

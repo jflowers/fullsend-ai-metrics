@@ -2307,3 +2307,17 @@ date,repo,number,title,pr_type,fix_source,issue_number,issue_author,url
 2026-11-03,agents,1840,fix(scripts): support BSD sed,fix,unlinked,,,https://github.com/fullsend-ai/agents/pull/1840
 2026-11-03,agents,1836,fix(#1833): compare GitHub owner logins case-insensitively in PR recovery,fix,external,1833,Benkapner,https://github.com/fullsend-ai/agents/pull/1836
 2026-11-03,agents,1661,feat(#1654): scope review to own commits on stacked/cherry-picked PRs,feat,,,,https://github.com/fullsend-ai/agents/pull/1661
+2026-11-04,fullsend,9093,"docs(#9092): use lowercase ""fullsend"" in docs prose",docs,,,,https://github.com/fullsend-ai/fullsend/pull/9093
+2026-11-04,fullsend,9091,feat(#9035): define Jira tracker config contract,feat,,,,https://github.com/fullsend-ai/fullsend/pull/9091
+2026-11-04,fullsend,9090,chore(deps): update cloudflare-workers,chore,,,,https://github.com/fullsend-ai/fullsend/pull/9090
+2026-11-04,fullsend,9089,feat(#9075)!: migrate legacy tracker config in repos install,feat,,,,https://github.com/fullsend-ai/fullsend/pull/9089
+2026-11-04,fullsend,9087,"docs(adr): add ADR 0159, Codex sub-agents on collaboration V2",docs,,,,https://github.com/fullsend-ai/fullsend/pull/9087
+2026-11-04,fullsend,9072,chore(deps): update renovatebot/github-action action to v46.3.12,chore,,,,https://github.com/fullsend-ai/fullsend/pull/9072
+2026-11-04,fullsend,9011,feat(#6842): record forge and CI pointers on the root run span,feat,,,,https://github.com/fullsend-ai/fullsend/pull/9011
+2026-11-04,fullsend,8809,ci(e2e): surface rate-limit state in harness-wait timeouts,ci,,,,https://github.com/fullsend-ai/fullsend/pull/8809
+2026-11-04,agents,1898,test(scripts): create Git info directory in public text fixture,test,,,,https://github.com/fullsend-ai/agents/pull/1898
+2026-11-04,agents,1897,test(scripts): isolate HOME in post-fix push-rebase fixtures,test,,,,https://github.com/fullsend-ai/agents/pull/1897
+2026-11-04,agents,1892,fix(#1885): drop duplicate risk-assessment marker from comment,fix,bot,1885,fullsend-ai-retro[bot],https://github.com/fullsend-ai/agents/pull/1892
+2026-11-04,agents,1889,fix(#1881)!: honor tracker allowed targets in retro and triage,fix,core,1881,ggallen,https://github.com/fullsend-ai/agents/pull/1889
+2026-11-04,agents,1888,fix(#1881)!: migrate agents config to tracker mapping,fix,core,1881,ggallen,https://github.com/fullsend-ai/agents/pull/1888
+2026-11-04,agents,1880,fix(#1795): run scribe content gates before gates that log content,fix,core,1795,waynesun09,https://github.com/fullsend-ai/agents/pull/1880

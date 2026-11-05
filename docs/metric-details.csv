@@ -16503,3 +16503,51 @@ date,repo,type,event,number,title,url
 2026-11-03,rfe-creator,issue,closed,289,"Record the classification_signal baselines and settle its threshold",https://github.com/fullsend-ai/rfe-creator/issues/289
 2026-11-03,rfe-creator,issue,closed,287,"The needs-attention label survives a cleared flag",https://github.com/fullsend-ai/rfe-creator/issues/287
 2026-11-03,rfe-creator,issue,closed,285,"Eval cases and thresholds for the classification stages (AISDLC-192)",https://github.com/fullsend-ai/rfe-creator/issues/285
+2026-11-04,fullsend,pr,opened,9107,"fix(harness): refuse shadowed .event/.runtime in the secret guard",https://github.com/fullsend-ai/fullsend/pull/9107
+2026-11-04,fullsend,pr,opened,9106,"chore(#9100): bump pi to 1.5.0 for the undici 8.12.3 crash fix",https://github.com/fullsend-ai/fullsend/pull/9106
+2026-11-04,fullsend,pr,opened,9105,"chore(deps): update experiments digest to 86ce7d9",https://github.com/fullsend-ai/fullsend/pull/9105
+2026-11-04,fullsend,pr,opened,9104,"fix(#8672): resolve mint URL from config in dispatch workflows",https://github.com/fullsend-ai/fullsend/pull/9104
+2026-11-04,fullsend,pr,opened,9103,"feat(#9071): fill head_sha for every GitLab merge request event",https://github.com/fullsend-ai/fullsend/pull/9103
+2026-11-04,fullsend,pr,opened,9102,"feat(cli)!: add stable diagnostic codes to lint JSON output",https://github.com/fullsend-ai/fullsend/pull/9102
+2026-11-04,fullsend,pr,opened,9101,"fix(#9098): post config load errors to the status comment",https://github.com/fullsend-ai/fullsend/pull/9101
+2026-11-04,fullsend,pr,opened,9097,"docs(adr): configure Vault-backed runner secrets",https://github.com/fullsend-ai/fullsend/pull/9097
+2026-11-04,fullsend,pr,opened,9093,"docs(#9092): use lowercase ""fullsend"" in docs prose",https://github.com/fullsend-ai/fullsend/pull/9093
+2026-11-04,fullsend,pr,opened,9091,"feat(#9035): define Jira tracker config contract",https://github.com/fullsend-ai/fullsend/pull/9091
+2026-11-04,fullsend,pr,opened,9090,"chore(deps): update cloudflare-workers",https://github.com/fullsend-ai/fullsend/pull/9090
+2026-11-04,fullsend,pr,opened,9089,"feat(#9075)!: migrate legacy tracker config in repos install",https://github.com/fullsend-ai/fullsend/pull/9089
+2026-11-04,fullsend,pr,merged,9093,"docs(#9092): use lowercase ""fullsend"" in docs prose",https://github.com/fullsend-ai/fullsend/pull/9093
+2026-11-04,fullsend,pr,merged,9091,"feat(#9035): define Jira tracker config contract",https://github.com/fullsend-ai/fullsend/pull/9091
+2026-11-04,fullsend,pr,merged,9090,"chore(deps): update cloudflare-workers",https://github.com/fullsend-ai/fullsend/pull/9090
+2026-11-04,fullsend,pr,merged,9089,"feat(#9075)!: migrate legacy tracker config in repos install",https://github.com/fullsend-ai/fullsend/pull/9089
+2026-11-04,fullsend,pr,merged,9087,"docs(adr): add ADR 0159, Codex sub-agents on collaboration V2",https://github.com/fullsend-ai/fullsend/pull/9087
+2026-11-04,fullsend,pr,merged,9072,"chore(deps): update renovatebot/github-action action to v46.3.12",https://github.com/fullsend-ai/fullsend/pull/9072
+2026-11-04,fullsend,pr,merged,9011,"feat(#6842): record forge and CI pointers on the root run span",https://github.com/fullsend-ai/fullsend/pull/9011
+2026-11-04,fullsend,pr,merged,8809,"ci(e2e): surface rate-limit state in harness-wait timeouts",https://github.com/fullsend-ai/fullsend/pull/8809
+2026-11-04,fullsend,pr,closed,8769,"feat(#5568): add top-level preflight_check field to harnesses",https://github.com/fullsend-ai/fullsend/pull/8769
+2026-11-04,fullsend,issue,opened,9109,"repos install: manage Jira poll workflow for GitHub",https://github.com/fullsend-ai/fullsend/issues/9109
+2026-11-04,fullsend,issue,opened,9108,"repos install: manage Jira polling for GitLab",https://github.com/fullsend-ai/fullsend/issues/9108
+2026-11-04,fullsend,issue,opened,9100,"sandbox: bump pi to 1.5.0 (undici 8.12.3 dispatcher crash fix)",https://github.com/fullsend-ai/fullsend/issues/9100
+2026-11-04,fullsend,issue,opened,9099,"Fleet sync renders the `tracker` config mapping before any release parses it; release-pinned consumers fail to load the managed config",https://github.com/fullsend-ai/fullsend/issues/9099
+2026-11-04,fullsend,issue,opened,9098,"fullsend CLI should fall back to defaults when per-repo config has parse errors instead of failing the agent run",https://github.com/fullsend-ai/fullsend/issues/9098
+2026-11-04,fullsend,issue,opened,9096,"Warn when a repo config still relies on the removed `roles:` gate and has no `agents:` key",https://github.com/fullsend-ai/fullsend/issues/9096
+2026-11-04,fullsend,issue,opened,9095,"Config validator should warn on trailing whitespace in YAML string values",https://github.com/fullsend-ai/fullsend/issues/9095
+2026-11-04,fullsend,issue,opened,9094,"Auto-dispatch fix agent when CI tests fail on reviewed bot-authored dependency PRs",https://github.com/fullsend-ai/fullsend/issues/9094
+2026-11-04,fullsend,issue,opened,9092,"Use lowercase ""fullsend"" in docs prose",https://github.com/fullsend-ai/fullsend/issues/9092
+2026-11-04,fullsend,issue,closed,9075,"repos install: migrate managed tracker config to tracking",https://github.com/fullsend-ai/fullsend/issues/9075
+2026-11-04,fullsend,issue,closed,9035,"config: define the tracker.jira settings contract",https://github.com/fullsend-ai/fullsend/issues/9035
+2026-11-04,fullsend,issue,closed,8673,"Skip retro dispatch for human-authored PRs where no fullsend agent stage ran",https://github.com/fullsend-ai/fullsend/issues/8673
+2026-11-04,fullsend,issue,closed,6842,"telemetry: record harness identity and forge pointers on the root run span",https://github.com/fullsend-ai/fullsend/issues/6842
+2026-11-04,rfe-creator,pr,opened,295,"Fire revision_coverage's run-level rule only when the run holds a tagged case",https://github.com/fullsend-ai/rfe-creator/pull/295
+2026-11-04,rfe-creator,pr,opened,294,"Release 0.4.0: the classification stages and the needs-attention label removal",https://github.com/fullsend-ai/rfe-creator/pull/294
+2026-11-04,rfe-creator,pr,opened,293,"docs(owner guide): the review's misfiled note, its fourth outcome, and the label that comes off",https://github.com/fullsend-ai/rfe-creator/pull/293
+2026-11-04,rfe-creator,pr,merged,294,"Release 0.4.0: the classification stages and the needs-attention label removal",https://github.com/fullsend-ai/rfe-creator/pull/294
+2026-11-04,rfe-creator,pr,merged,293,"docs(owner guide): the review's misfiled note, its fourth outcome, and the label that comes off",https://github.com/fullsend-ai/rfe-creator/pull/293
+2026-11-04,rfe-creator,issue,opened,292,"Release 0.4.0: the classification stages and the needs-attention label removal",https://github.com/fullsend-ai/rfe-creator/issues/292
+2026-11-04,rfe-creator,issue,opened,291,"Owner guide: the review's misfiled flag, its fourth outcome, and the label that comes off",https://github.com/fullsend-ai/rfe-creator/issues/291
+2026-11-04,rfe-creator,issue,closed,292,"Release 0.4.0: the classification stages and the needs-attention label removal",https://github.com/fullsend-ai/rfe-creator/issues/292
+2026-11-04,rfe-creator,issue,closed,291,"Owner guide: the review's misfiled flag, its fourth outcome, and the label that comes off",https://github.com/fullsend-ai/rfe-creator/issues/291
+2026-11-04,.fullsend,pr,opened,{,"",
+2026-11-04,.fullsend,pr,opened,"message": "API rate limit exceeded for installation. If you reach out to GitHub Support for help, please include the request ID 7840:10EE07:2A48C3:8C110F:6AEC87A7 and timestamp 2026-11-05 13:41:59 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https:\/\/docs.github.com\/en\/site-policy\/github-terms\/github-terms-of-service)",,"",
+2026-11-04,.fullsend,pr,opened,"documentation_url": "https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",,"",
+2026-11-04,.fullsend,pr,opened,"status": "403","",
+2026-11-04,.fullsend,pr,opened,},"",
