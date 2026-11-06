@@ -16551,3 +16551,75 @@ date,repo,type,event,number,title,url
 2026-11-04,.fullsend,pr,opened,"documentation_url": "https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",,"",
 2026-11-04,.fullsend,pr,opened,"status": "403","",
 2026-11-04,.fullsend,pr,opened,},"",
+2026-11-05,fullsend,pr,opened,9143,"feat(#9108): manage the GitLab Jira poll schedule in repos install",https://github.com/fullsend-ai/fullsend/pull/9143
+2026-11-05,fullsend,pr,opened,9142,"ci(e2e): expand DEV pool to 22 orgs",https://github.com/fullsend-ai/fullsend/pull/9142
+2026-11-05,fullsend,pr,opened,9141,"test(#9140): count GitHub API calls by caller in behaviour suites",https://github.com/fullsend-ai/fullsend/pull/9141
+2026-11-05,fullsend,pr,opened,9139,"fix(#9135): keep config.yaml layout in agent add/set/update/remove",https://github.com/fullsend-ai/fullsend/pull/9139
+2026-11-05,fullsend,pr,opened,9138,"fix(#9137): resolve tags in agent add and error on unknown refs",https://github.com/fullsend-ai/fullsend/pull/9138
+2026-11-05,fullsend,pr,opened,9134,"chore(#9133): use import-not-found rule name in ty hook",https://github.com/fullsend-ai/fullsend/pull/9134
+2026-11-05,fullsend,pr,opened,9131,"docs(ladder): add the Admin role above Maintainer",https://github.com/fullsend-ai/fullsend/pull/9131
+2026-11-05,fullsend,pr,opened,9129,"ci(#9128): harden behaviour-test dispatch and jobs-listing reads",https://github.com/fullsend-ai/fullsend/pull/9129
+2026-11-05,fullsend,pr,opened,9127,"chore(deps): update dependency fullsend-ai/pi-xai-vertex to v0.3.1",https://github.com/fullsend-ai/fullsend/pull/9127
+2026-11-05,fullsend,pr,opened,9126,"feat(#9078)!: build Jira issue and status clients from tracker.jira",https://github.com/fullsend-ai/fullsend/pull/9126
+2026-11-05,fullsend,pr,opened,9125,"feat(#9079)!: scope Jira secret access in agent runs",https://github.com/fullsend-ai/fullsend/pull/9125
+2026-11-05,fullsend,pr,opened,9118,"feat(#9077)!: load jira-poll settings from tracker.jira config",https://github.com/fullsend-ai/fullsend/pull/9118
+2026-11-05,fullsend,pr,opened,9117,"chore(deps): update dependency fullsend-ai/pi-anthropic-vertex to v0.2.1",https://github.com/fullsend-ai/fullsend/pull/9117
+2026-11-05,fullsend,pr,opened,9115,"refactor(#9007): add shared Jira client for scoped API tokens",https://github.com/fullsend-ai/fullsend/pull/9115
+2026-11-05,fullsend,pr,opened,9114,"chore(#9113): bump pi-anthropic-vertex to v0.2.1 and pi-xai-vertex to v0.3.1",https://github.com/fullsend-ai/fullsend/pull/9114
+2026-11-05,fullsend,pr,opened,9110,"feat(#9076): converge Jira polling credentials in repos install",https://github.com/fullsend-ai/fullsend/pull/9110
+2026-11-05,fullsend,pr,merged,9134,"chore(#9133): use import-not-found rule name in ty hook",https://github.com/fullsend-ai/fullsend/pull/9134
+2026-11-05,fullsend,pr,merged,9118,"feat(#9077)!: load jira-poll settings from tracker.jira config",https://github.com/fullsend-ai/fullsend/pull/9118
+2026-11-05,fullsend,pr,merged,9115,"refactor(#9007): add shared Jira client for scoped API tokens",https://github.com/fullsend-ai/fullsend/pull/9115
+2026-11-05,fullsend,pr,merged,9110,"feat(#9076): converge Jira polling credentials in repos install",https://github.com/fullsend-ai/fullsend/pull/9110
+2026-11-05,fullsend,pr,merged,9106,"chore(#9100): bump pi to 1.5.0 for the undici 8.12.3 crash fix",https://github.com/fullsend-ai/fullsend/pull/9106
+2026-11-05,fullsend,pr,merged,9105,"chore(deps): update experiments digest to 86ce7d9",https://github.com/fullsend-ai/fullsend/pull/9105
+2026-11-05,fullsend,pr,merged,8942,"docs(#8940): add plain-language style section to documentation.md",https://github.com/fullsend-ai/fullsend/pull/8942
+2026-11-05,fullsend,pr,merged,8913,"fix(#8908): render Claude Workflow progress",https://github.com/fullsend-ai/fullsend/pull/8913
+2026-11-05,fullsend,pr,merged,8910,"docs(#8909): document inactive maintainer removal policy",https://github.com/fullsend-ai/fullsend/pull/8910
+2026-11-05,fullsend,pr,merged,8877,"feat(#235)!: implement harness schema_version (ADR 0127 Decision 1)",https://github.com/fullsend-ai/fullsend/pull/8877
+2026-11-05,fullsend,pr,closed,9117,"chore(deps): update dependency fullsend-ai/pi-anthropic-vertex to v0.2.1",https://github.com/fullsend-ai/fullsend/pull/9117
+2026-11-05,fullsend,pr,closed,9000,"chore(deps): update dependency @earendil-works/pi-coding-agent to v1.5.0 - autoclosed",https://github.com/fullsend-ai/fullsend/pull/9000
+2026-11-05,fullsend,pr,closed,7151,"docs(adr): define dedicated auto-merge authority boundary",https://github.com/fullsend-ai/fullsend/pull/7151
+2026-11-05,fullsend,pr,closed,6622,"fix(#6621): add forge_interaction fitness check",https://github.com/fullsend-ai/fullsend/pull/6622
+2026-11-05,fullsend,issue,opened,9140,"test(behaviour): GitHub API calls against pool-org quota are not attributed to callers",https://github.com/fullsend-ai/fullsend/issues/9140
+2026-11-05,fullsend,issue,opened,9137,"agent add cannot resolve tags: silently pins the default branch instead of the requested release",https://github.com/fullsend-ai/fullsend/issues/9137
+2026-11-05,fullsend,issue,opened,9136,"Follow-up from PR #9107: declare runner-secret-overlay-guard and confirm the 60 s harnessLogPollWindow",https://github.com/fullsend-ai/fullsend/issues/9136
+2026-11-05,fullsend,issue,opened,9135,"agent add rewrites the whole config.yaml, deleting every comment",https://github.com/fullsend-ai/fullsend/issues/9135
+2026-11-05,fullsend,issue,opened,9133,"CI lint fails with ty 0.0.98 because unresolved-import was renamed",https://github.com/fullsend-ai/fullsend/issues/9133
+2026-11-05,fullsend,issue,opened,9132,"Jira authorization: read write/triage lists from the environment (groups_from, accounts_from)",https://github.com/fullsend-ai/fullsend/issues/9132
+2026-11-05,fullsend,issue,opened,9130,"Extend fullsend lint to validate fleet repos.yaml manifests",https://github.com/fullsend-ai/fullsend/issues/9130
+2026-11-05,fullsend,issue,opened,9128,"behaviourtest: dispatch-assertion and jobs-listing reliability (split from #9084)",https://github.com/fullsend-ai/fullsend/issues/9128
+2026-11-05,fullsend,issue,opened,9124,"Investigate first-page 404 from the workflow run jobs API for not-started runs",https://github.com/fullsend-ai/fullsend/issues/9124
+2026-11-05,fullsend,issue,opened,9123,"Config to quiet the live progress log (reasoning and tool lines) on public repos",https://github.com/fullsend-ai/fullsend/issues/9123
+2026-11-05,fullsend,issue,opened,9122,"Config to stop publishing agent transcripts in the run artifact (public repos)",https://github.com/fullsend-ai/fullsend/issues/9122
+2026-11-05,fullsend,issue,opened,9121,"renovate: refresh SHA256 pins automatically for Containerfile downloads",https://github.com/fullsend-ai/fullsend/issues/9121
+2026-11-05,fullsend,issue,opened,9120,"Evaluate task-bound agent scope model and security guardrails",https://github.com/fullsend-ai/fullsend/issues/9120
+2026-11-05,fullsend,issue,opened,9119,"ADR: allow running agents without requiring a target repository",https://github.com/fullsend-ai/fullsend/issues/9119
+2026-11-05,fullsend,issue,opened,9116,"Jira: let the assignee start /fs-code (actor.is_entity_assignee)",https://github.com/fullsend-ai/fullsend/issues/9116
+2026-11-05,fullsend,issue,opened,9113,"Bump pi-anthropic-vertex to v0.2.1 and pi-xai-vertex to v0.3.1 (google-auth-library 11)",https://github.com/fullsend-ai/fullsend/issues/9113
+2026-11-05,fullsend,issue,opened,9112,"Sandbox egress policy blocks npm's advisories-bulk endpoint, forcing every dependency-security PR to defer `npm audit` to a human",https://github.com/fullsend-ai/fullsend/issues/9112
+2026-11-05,fullsend,issue,opened,9111,"/fs-code dispatch starts the code agent before checking for an existing linked PR",https://github.com/fullsend-ai/fullsend/issues/9111
+2026-11-05,fullsend,issue,closed,9136,"Follow-up from PR #9107: declare runner-secret-overlay-guard and confirm the 60 s harnessLogPollWindow",https://github.com/fullsend-ai/fullsend/issues/9136
+2026-11-05,fullsend,issue,closed,9133,"CI lint fails with ty 0.0.98 because unresolved-import was renamed",https://github.com/fullsend-ai/fullsend/issues/9133
+2026-11-05,fullsend,issue,closed,9100,"sandbox: bump pi to 1.5.0 (undici 8.12.3 dispatcher crash fix)",https://github.com/fullsend-ai/fullsend/issues/9100
+2026-11-05,fullsend,issue,closed,9077,"jira-poll: load Jira settings from tracking config",https://github.com/fullsend-ai/fullsend/issues/9077
+2026-11-05,fullsend,issue,closed,9076,"repos install: implement shared Jira polling behavior",https://github.com/fullsend-ai/fullsend/issues/9076
+2026-11-05,fullsend,issue,closed,9007,"jira: use scoped tokens with service-account and bot auth",https://github.com/fullsend-ai/fullsend/issues/9007
+2026-11-05,fullsend,issue,closed,8940,"docs/contributing: add plain-language style section to documentation.md",https://github.com/fullsend-ai/fullsend/issues/8940
+2026-11-05,fullsend,issue,closed,8909,"Document formal inactive maintainer removal policy with prior-notification requirement",https://github.com/fullsend-ai/fullsend/issues/8909
+2026-11-05,fullsend,issue,closed,8908,"Claude Workflow task_progress events are captured but omitted from console output",https://github.com/fullsend-ai/fullsend/issues/8908
+2026-11-05,fullsend,issue,closed,8558,"Skip retro dispatch for bot PRs with no agent or review activity",https://github.com/fullsend-ai/fullsend/issues/8558
+2026-11-05,fullsend,issue,closed,8084,"Skip retro dispatch when no agents participated in the PR workflow",https://github.com/fullsend-ai/fullsend/issues/8084
+2026-11-05,fullsend,issue,closed,7803,"Skip retro dispatch when no prior agent activity occurred on the PR",https://github.com/fullsend-ai/fullsend/issues/7803
+2026-11-05,fullsend,issue,closed,7392,"Skip retro dispatch for bot PRs with no agent activity",https://github.com/fullsend-ai/fullsend/issues/7392
+2026-11-05,fullsend,issue,closed,7197,"Skip retro dispatch when no agent stages ran on the PR",https://github.com/fullsend-ai/fullsend/issues/7197
+2026-11-05,fullsend,issue,closed,5943,"Skip retro dispatch for any unmerged PR with zero fullsend agent involvement",https://github.com/fullsend-ai/fullsend/issues/5943
+2026-11-05,fullsend,issue,closed,5619,"Broaden retro skip criteria to all unmerged PRs with no agent interaction",https://github.com/fullsend-ai/fullsend/issues/5619
+2026-11-05,fullsend,issue,closed,5399,"Skip retro dispatch for merged PRs with zero meaningful agent involvement",https://github.com/fullsend-ai/fullsend/issues/5399
+2026-11-05,fullsend,issue,closed,235,"Schema versioning for harness definition files",https://github.com/fullsend-ai/fullsend/issues/235
+2026-11-05,rfe-creator,pr,opened,297,"Hold the Stop under fullsend until agent-result.json exists",https://github.com/fullsend-ai/rfe-creator/pull/297
+2026-11-05,rfe-creator,pr,opened,296,"Read the run's case_order.yaml as revision_coverage's roster",https://github.com/fullsend-ai/rfe-creator/pull/296
+2026-11-05,rfe-creator,pr,merged,297,"Hold the Stop under fullsend until agent-result.json exists",https://github.com/fullsend-ai/rfe-creator/pull/297
+2026-11-05,rfe-creator,pr,merged,296,"Read the run's case_order.yaml as revision_coverage's roster",https://github.com/fullsend-ai/rfe-creator/pull/296
+2026-11-05,rfe-creator,pr,merged,295,"Fire revision_coverage's run-level rule only when the run holds a tagged case",https://github.com/fullsend-ai/rfe-creator/pull/295
+2026-11-05,.fullsend,pr,opened,216,"feat(repos): register epic-creator-eval with fleet defaults",https://github.com/fullsend-ai/.fullsend/pull/216

@@ -2699,3 +2699,49 @@ date,repo,type,event,number,actor,title,url
 2026-11-04,pi-anthropic-vertex,pr,opened_core,15,waynesun09,"fix: release 0.2.0",https://github.com/fullsend-ai/pi-anthropic-vertex/pull/15
 2026-11-04,pi-inference-gateway,pr,opened_core,45,waynesun09,"chore: release v0.2.0",https://github.com/fullsend-ai/pi-inference-gateway/pull/45
 2026-11-04,org,pr,opened_core,45,ralphbean,"Register epic-creator-eval in org governance",https://github.com/fullsend-ai/org/pull/45
+2026-11-05,fullsend,issue,opened_external,9140,jflowers,"test(behaviour): GitHub API calls against pool-org quota are not attributed to callers",https://github.com/fullsend-ai/fullsend/issues/9140
+2026-11-05,fullsend,issue,opened_external,9136,tpouyer,"Follow-up from PR #9107: declare runner-secret-overlay-guard and confirm the 60 s harnessLogPollWindow",https://github.com/fullsend-ai/fullsend/issues/9136
+2026-11-05,fullsend,issue,opened_external,9128,dhshah13,"behaviourtest: dispatch-assertion and jobs-listing reliability (split from #9084)",https://github.com/fullsend-ai/fullsend/issues/9128
+2026-11-05,fullsend,issue,opened_external,9124,dhshah13,"Investigate first-page 404 from the workflow run jobs API for not-started runs",https://github.com/fullsend-ai/fullsend/issues/9124
+2026-11-05,fullsend,issue,closed_other_external,9136,tpouyer,"Follow-up from PR #9107: declare runner-secret-overlay-guard and confirm the 60 s harnessLogPollWindow",https://github.com/fullsend-ai/fullsend/issues/9136
+2026-11-05,fullsend,issue,closed_via_pr_external,9007,jwm4,"jira: use scoped tokens with service-account and bot auth",https://github.com/fullsend-ai/fullsend/issues/9007
+2026-11-05,fullsend,issue,closed_via_pr_external,8908,jctanner,"Claude Workflow task_progress events are captured but omitted from console output",https://github.com/fullsend-ai/fullsend/issues/8908
+2026-11-05,fullsend,pr,opened_core,9142,ralphbean,"ci(e2e): expand DEV pool to 22 orgs",https://github.com/fullsend-ai/fullsend/pull/9142
+2026-11-05,fullsend,pr,reviewed_external,9103,Benkapner,"feat(#9071): fill head_sha for every GitLab merge request event",https://github.com/fullsend-ai/fullsend/pull/9103
+2026-11-05,fullsend,pr,reviewed_external,9102,jflowers,"feat(cli)!: add stable diagnostic codes to lint JSON output",https://github.com/fullsend-ai/fullsend/pull/9102
+2026-11-05,fullsend,pr,reviewed_external,9102,jflowers,"feat(cli)!: add stable diagnostic codes to lint JSON output",https://github.com/fullsend-ai/fullsend/pull/9102
+2026-11-05,fullsend,pr,reviewed_external,9102,jflowers,"feat(cli)!: add stable diagnostic codes to lint JSON output",https://github.com/fullsend-ai/fullsend/pull/9102
+2026-11-05,fullsend,pr,reviewed_external,9102,jflowers,"feat(cli)!: add stable diagnostic codes to lint JSON output",https://github.com/fullsend-ai/fullsend/pull/9102
+2026-11-05,fullsend,pr,reviewed_external,9102,jflowers,"feat(cli)!: add stable diagnostic codes to lint JSON output",https://github.com/fullsend-ai/fullsend/pull/9102
+2026-11-05,fullsend,pr,reviewed_external,9101,Benkapner,"fix(#9098): post config load errors to the status comment",https://github.com/fullsend-ai/fullsend/pull/9101
+2026-11-05,agent-eval-harness,issue,opened_external,298,Aliciapet11,"Harbor: export persisted Claude session transcripts for OpenRouter generation IDs",https://github.com/fullsend-ai/agent-eval-harness/issues/298
+2026-11-05,agent-eval-harness,issue,closed_via_pr_external,296,Aliciapet11,"OpenRouter generation IDs are lost before provider attribution",https://github.com/fullsend-ai/agent-eval-harness/issues/296
+2026-11-05,agent-eval-harness,pr,reviewed_external,295,astefanutti,"fix(provider): OpenRouter generation ID collection and provider attribution",https://github.com/fullsend-ai/agent-eval-harness/pull/295
+2026-11-05,agent-eval-harness,pr,reviewed_external,288,astefanutti,"fix(optimize): cap-evolve integration fixes from #255 review",https://github.com/fullsend-ai/agent-eval-harness/pull/288
+2026-11-05,agent-eval-harness,pr,reviewed_external,288,astefanutti,"fix(optimize): cap-evolve integration fixes from #255 review",https://github.com/fullsend-ai/agent-eval-harness/pull/288
+2026-11-05,agent-eval-harness,pr,reviewed_external,288,astefanutti,"fix(optimize): cap-evolve integration fixes from #255 review",https://github.com/fullsend-ai/agent-eval-harness/pull/288
+2026-11-05,agent-eval-harness,pr,reviewed_external,288,astefanutti,"fix(optimize): cap-evolve integration fixes from #255 review",https://github.com/fullsend-ai/agent-eval-harness/pull/288
+2026-11-05,agent-eval-harness,pr,reviewed_external,288,astefanutti,"fix(optimize): cap-evolve integration fixes from #255 review",https://github.com/fullsend-ai/agent-eval-harness/pull/288
+2026-11-05,agent-eval-harness,pr,reviewed_external,288,astefanutti,"fix(optimize): cap-evolve integration fixes from #255 review",https://github.com/fullsend-ai/agent-eval-harness/pull/288
+2026-11-05,agent-eval-harness,pr,reviewed_external,288,astefanutti,"fix(optimize): cap-evolve integration fixes from #255 review",https://github.com/fullsend-ai/agent-eval-harness/pull/288
+2026-11-05,agent-eval-harness,pr,reviewed_external,288,astefanutti,"fix(optimize): cap-evolve integration fixes from #255 review",https://github.com/fullsend-ai/agent-eval-harness/pull/288
+2026-11-05,agent-eval-harness,pr,reviewed_external,288,astefanutti,"fix(optimize): cap-evolve integration fixes from #255 review",https://github.com/fullsend-ai/agent-eval-harness/pull/288
+2026-11-05,agent-eval-harness,pr,reviewed_external,288,astefanutti,"fix(optimize): cap-evolve integration fixes from #255 review",https://github.com/fullsend-ai/agent-eval-harness/pull/288
+2026-11-05,agent-eval-harness,pr,reviewed_external,288,astefanutti,"fix(optimize): cap-evolve integration fixes from #255 review",https://github.com/fullsend-ai/agent-eval-harness/pull/288
+2026-11-05,agent-eval-harness,pr,reviewed_external,288,astefanutti,"fix(optimize): cap-evolve integration fixes from #255 review",https://github.com/fullsend-ai/agent-eval-harness/pull/288
+2026-11-05,agent-eval-harness,pr,reviewed_external,288,astefanutti,"fix(optimize): cap-evolve integration fixes from #255 review",https://github.com/fullsend-ai/agent-eval-harness/pull/288
+2026-11-05,agent-eval-harness,pr,reviewed_external,288,astefanutti,"fix(optimize): cap-evolve integration fixes from #255 review",https://github.com/fullsend-ai/agent-eval-harness/pull/288
+2026-11-05,agent-eval-harness,pr,reviewed_external,288,AIMikav,"fix(optimize): cap-evolve integration fixes from #255 review",https://github.com/fullsend-ai/agent-eval-harness/pull/288
+2026-11-05,agent-eval-harness,pr,reviewed_external,288,AIMikav,"fix(optimize): cap-evolve integration fixes from #255 review",https://github.com/fullsend-ai/agent-eval-harness/pull/288
+2026-11-05,epic-creator,pr,reviewed_external,56,Benkapner,"[AISDLC-547] Create RHAI Epics per planned PR with partial progress",https://github.com/fullsend-ai/epic-creator/pull/56
+2026-11-05,epic-creator,pr,reviewed_external,56,csoceanu,"[AISDLC-547] Create RHAI Epics per planned PR with partial progress",https://github.com/fullsend-ai/epic-creator/pull/56
+2026-11-05,epic-creator,pr,reviewed_external,56,csoceanu,"[AISDLC-547] Create RHAI Epics per planned PR with partial progress",https://github.com/fullsend-ai/epic-creator/pull/56
+2026-11-05,agents,issue,opened_external,1903,ccronca,"triage: skips GITLAB_HOST derivation step in gitlab-forge SKILL.md, causing SSRF-blocked DNS failure (intermittent)",https://github.com/fullsend-ai/agents/issues/1903
+2026-11-05,agents,issue,closed_via_pr_external,1903,ccronca,"triage: skips GITLAB_HOST derivation step in gitlab-forge SKILL.md, causing SSRF-blocked DNS failure (intermittent)",https://github.com/fullsend-ai/agents/issues/1903
+2026-11-05,agents,issue,closed_via_pr_external,1890,AshwinUgale,"eval: add deterministic state and review action checks",https://github.com/fullsend-ai/agents/issues/1890
+2026-11-05,agents,pr,opened_core,1906,ralphbean,"ci(e2e): use expanded dev pool in agents tests",https://github.com/fullsend-ai/agents/pull/1906
+2026-11-05,agents,pr,reviewed_external,1905,jflowers,"test(post-fix): isolate HOME for the entire test suite",https://github.com/fullsend-ai/agents/pull/1905
+2026-11-05,agents,pr,reviewed_external,1905,jflowers,"test(post-fix): isolate HOME for the entire test suite",https://github.com/fullsend-ai/agents/pull/1905
+2026-11-05,agents,pr,reviewed_external,1863,csoceanu,"feat(#519): let the fix agent update stale PR/MR title and body",https://github.com/fullsend-ai/agents/pull/1863
+2026-11-05,pi-xai-vertex,pr,opened_core,20,waynesun09,"fix: release 0.3.1",https://github.com/fullsend-ai/pi-xai-vertex/pull/20
+2026-11-05,pi-anthropic-vertex,pr,opened_core,18,waynesun09,"fix: release 0.2.1",https://github.com/fullsend-ai/pi-anthropic-vertex/pull/18

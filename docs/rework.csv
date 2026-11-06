@@ -1345,3 +1345,11 @@ date,bot,items_touched,items_reworked,rework_rate
 2026-11-04,github-actions[bot],2,0,0.000
 2026-11-04,qodo-code-review[bot],3,3,1.000
 2026-11-04,__aggregate__,31,22,0.710
+2026-11-05,fullsend-ai-coder[bot],17,13,0.765
+2026-11-05,fullsend-ai-retro[bot],8,6,0.750
+2026-11-05,fullsend-ai-review[bot],14,12,0.857
+2026-11-05,fullsend-ai-triage[bot],6,5,0.833
+2026-11-05,github-actions[bot],4,1,0.250
+2026-11-05,github-merge-queue[bot],5,0,0.000
+2026-11-05,qodo-code-review[bot],11,11,1.000
+2026-11-05,__aggregate__,65,48,0.738

@@ -2321,3 +2321,18 @@ date,repo,number,title,pr_type,fix_source,issue_number,issue_author,url
 2026-11-04,agents,1889,fix(#1881)!: honor tracker allowed targets in retro and triage,fix,core,1881,ggallen,https://github.com/fullsend-ai/agents/pull/1889
 2026-11-04,agents,1888,fix(#1881)!: migrate agents config to tracker mapping,fix,core,1881,ggallen,https://github.com/fullsend-ai/agents/pull/1888
 2026-11-04,agents,1880,fix(#1795): run scribe content gates before gates that log content,fix,core,1795,waynesun09,https://github.com/fullsend-ai/agents/pull/1880
+2026-11-05,fullsend,9134,chore(#9133): use import-not-found rule name in ty hook,chore,,,,https://github.com/fullsend-ai/fullsend/pull/9134
+2026-11-05,fullsend,9118,feat(#9077)!: load jira-poll settings from tracker.jira config,feat,,,,https://github.com/fullsend-ai/fullsend/pull/9118
+2026-11-05,fullsend,9115,refactor(#9007): add shared Jira client for scoped API tokens,other,,,,https://github.com/fullsend-ai/fullsend/pull/9115
+2026-11-05,fullsend,9110,feat(#9076): converge Jira polling credentials in repos install,feat,,,,https://github.com/fullsend-ai/fullsend/pull/9110
+2026-11-05,fullsend,9106,chore(#9100): bump pi to 1.5.0 for the undici 8.12.3 crash fix,chore,,,,https://github.com/fullsend-ai/fullsend/pull/9106
+2026-11-05,fullsend,9105,chore(deps): update experiments digest to 86ce7d9,chore,,,,https://github.com/fullsend-ai/fullsend/pull/9105
+2026-11-05,fullsend,8942,docs(#8940): add plain-language style section to documentation.md,docs,,,,https://github.com/fullsend-ai/fullsend/pull/8942
+2026-11-05,fullsend,8913,fix(#8908): render Claude Workflow progress,fix,external,8908,jctanner,https://github.com/fullsend-ai/fullsend/pull/8913
+2026-11-05,fullsend,8910,docs(#8909): document inactive maintainer removal policy,docs,,,,https://github.com/fullsend-ai/fullsend/pull/8910
+2026-11-05,fullsend,8877,feat(#235)!: implement harness schema_version (ADR 0127 Decision 1),feat,,,,https://github.com/fullsend-ai/fullsend/pull/8877
+2026-11-05,agents,1904,fix(#1903): use literal GitLab host in gitlab-forge requests,fix,external,1903,ccronca,https://github.com/fullsend-ai/agents/pull/1904
+2026-11-05,agents,1891,test(#1890): add deterministic state and review action checks,test,,,,https://github.com/fullsend-ai/agents/pull/1891
+2026-11-05,agents,1863,feat(#519): let the fix agent update stale PR/MR title and body,feat,,,,https://github.com/fullsend-ai/agents/pull/1863
+2026-11-05,agents,1839,fix(#1838): accept null summaries for omitted scribe topics,fix,core,1838,ascerra,https://github.com/fullsend-ai/agents/pull/1839
+2026-11-05,agents,1381,fix(#1379): bound scribe Slack webhook and drop bc,fix,core,1379,ascerra,https://github.com/fullsend-ai/agents/pull/1381

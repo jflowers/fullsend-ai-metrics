@@ -325,3 +325,5 @@ date,repo,merged_prs,fix_prs,defect_prs,revert_prs,revert_commits,defect_rate,re
 2026-11-03,fullsend,9,3,2,0,0,0.2222,0.0000
 2026-11-04,agents,6,4,4,0,0,0.6667,0.0000
 2026-11-04,fullsend,8,0,0,0,0,0.0000,0.0000
+2026-11-05,agents,5,3,3,0,0,0.6000,0.0000
+2026-11-05,fullsend,10,1,1,0,0,0.1000,0.0000
