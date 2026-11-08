@@ -2745,3 +2745,15 @@ date,repo,type,event,number,actor,title,url
 2026-11-05,agents,pr,reviewed_external,1863,csoceanu,"feat(#519): let the fix agent update stale PR/MR title and body",https://github.com/fullsend-ai/agents/pull/1863
 2026-11-05,pi-xai-vertex,pr,opened_core,20,waynesun09,"fix: release 0.3.1",https://github.com/fullsend-ai/pi-xai-vertex/pull/20
 2026-11-05,pi-anthropic-vertex,pr,opened_core,18,waynesun09,"fix: release 0.2.1",https://github.com/fullsend-ai/pi-anthropic-vertex/pull/18
+2026-11-07,fullsend,issue,closed_other_external,9176,jwm4,"jira: accept OAuth 2.0 client credentials for Atlassian service accounts",https://github.com/fullsend-ai/fullsend/issues/9176
+2026-11-07,fullsend,issue,closed_via_pr_external,9046,jctanner,"runtime: dummy-runtime behaviour operations do not see the harness environment from .env",https://github.com/fullsend-ai/fullsend/issues/9046
+2026-11-07,fullsend,pr,opened_core,9182,waynesun09,"docs(adr): add ADR 0161, repo config limits what a run artifact publishes",https://github.com/fullsend-ai/fullsend/pull/9182
+2026-11-07,fullsend,pr,reviewed_external,9056,jctanner,"fix(#9038): address configured GitHub host in run fallback and status",https://github.com/fullsend-ai/fullsend/pull/9056
+2026-11-07,fullsend,pr,reviewed_external,9055,jctanner,"fix(#9046): load harness .env in dummy runtime behaviour ops",https://github.com/fullsend-ai/fullsend/pull/9055
+2026-11-07,fullsend,pr,reviewed_external,9053,jctanner,"fix(#9040): admit fullsend-ai repos on the configured GitHub host",https://github.com/fullsend-ai/fullsend/pull/9053
+2026-11-07,fullsend,pr,reviewed_external,9051,jctanner,"fix(#9041): honour GITHUB_API_URL in token-scope, reconcile, eval",https://github.com/fullsend-ai/fullsend/pull/9051
+2026-11-07,fullsend,pr,reviewed_external,9050,jctanner,"fix(#9039): honour GITHUB_API_URL in github setup and github set",https://github.com/fullsend-ai/fullsend/pull/9050
+2026-11-07,strat-creator,issue,opened_external,108,jctanner,"Partial batch push success is omitted from progress, forcing successful tickets through refinement again",https://github.com/fullsend-ai/strat-creator/issues/108
+2026-11-07,strat-creator,issue,opened_external,107,jctanner,"Qualify the agentId↔agent_id correlation with a paired native interactive fixture (forked-Skill receipt + SubagentStop for the same fork)",https://github.com/fullsend-ai/strat-creator/issues/107
+2026-11-07,strat-creator,pr,reviewed_external,106,jctanner,"fix(#105): capture forked reviewer reports at delivery",https://github.com/fullsend-ai/strat-creator/pull/106
+2026-11-07,strat-creator,pr,reviewed_external,106,jctanner,"fix(#105): capture forked reviewer reports at delivery",https://github.com/fullsend-ai/strat-creator/pull/106

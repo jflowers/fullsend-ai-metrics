@@ -16623,3 +16623,26 @@ date,repo,type,event,number,title,url
 2026-11-05,rfe-creator,pr,merged,296,"Read the run's case_order.yaml as revision_coverage's roster",https://github.com/fullsend-ai/rfe-creator/pull/296
 2026-11-05,rfe-creator,pr,merged,295,"Fire revision_coverage's run-level rule only when the run holds a tagged case",https://github.com/fullsend-ai/rfe-creator/pull/295
 2026-11-05,.fullsend,pr,opened,216,"feat(repos): register epic-creator-eval with fleet defaults",https://github.com/fullsend-ai/.fullsend/pull/216
+2026-11-07,fullsend,pr,opened,9191,"fix(jirapoll)!: skip an event that fails validation",https://github.com/fullsend-ai/fullsend/pull/9191
+2026-11-07,fullsend,pr,opened,9190,"docs(behaviour): explain the two quota counters",https://github.com/fullsend-ai/fullsend/pull/9190
+2026-11-07,fullsend,pr,opened,9189,"chore(deps): update dependency vue to v3.5.45",https://github.com/fullsend-ai/fullsend/pull/9189
+2026-11-07,fullsend,pr,opened,9188,"fix(#9187): export COMMENT_BODY for GitLab Jira agent runs",https://github.com/fullsend-ai/fullsend/pull/9188
+2026-11-07,fullsend,pr,opened,9186,"feat(#7414): report pi calls cut off before they end as unanswered",https://github.com/fullsend-ai/fullsend/pull/9186
+2026-11-07,fullsend,pr,opened,9185,"chore(deps): update dependency sharkdp/fd to v10.5.2",https://github.com/fullsend-ai/fullsend/pull/9185
+2026-11-07,fullsend,pr,opened,9184,"test(#9181): seed Jira poll workflow in install creds test",https://github.com/fullsend-ai/fullsend/pull/9184
+2026-11-07,fullsend,pr,opened,9183,"feat(#9176): support Jira OAuth credentials across GitHub and GitLab",https://github.com/fullsend-ai/fullsend/pull/9183
+2026-11-07,fullsend,pr,opened,9182,"docs(adr): add ADR 0161, repo config limits what a run artifact publishes",https://github.com/fullsend-ai/fullsend/pull/9182
+2026-11-07,fullsend,pr,merged,9184,"test(#9181): seed Jira poll workflow in install creds test",https://github.com/fullsend-ai/fullsend/pull/9184
+2026-11-07,fullsend,pr,merged,9183,"feat(#9176): support Jira OAuth credentials across GitHub and GitLab",https://github.com/fullsend-ai/fullsend/pull/9183
+2026-11-07,fullsend,pr,merged,9180,"test(#9178): bound secondary backoff assertion by jitter max",https://github.com/fullsend-ai/fullsend/pull/9180
+2026-11-07,fullsend,pr,merged,9102,"feat(cli)!: add stable diagnostic codes to lint JSON output",https://github.com/fullsend-ai/fullsend/pull/9102
+2026-11-07,fullsend,pr,merged,9055,"fix(#9046): load harness .env in dummy runtime behaviour ops",https://github.com/fullsend-ai/fullsend/pull/9055
+2026-11-07,fullsend,pr,closed,9165,"chore(deps): update dependency fullsend-ai/pi-anthropic-vertex to v0.2.1 - autoclosed",https://github.com/fullsend-ai/fullsend/pull/9165
+2026-11-07,fullsend,pr,closed,9127,"chore(deps): update dependency fullsend-ai/pi-xai-vertex to v0.3.1",https://github.com/fullsend-ai/fullsend/pull/9127
+2026-11-07,fullsend,issue,opened,9187,"GitLab Jira runs: export COMMENT_BODY so /fs-code --force reaches the code pre-script",https://github.com/fullsend-ai/fullsend/issues/9187
+2026-11-07,fullsend,issue,opened,9181,"test(repos): TestRunReposInstall_JiraCredentialsWrittenNotPersisted fails on main after the Jira poll workflow check",https://github.com/fullsend-ai/fullsend/issues/9181
+2026-11-07,fullsend,issue,closed,9181,"test(repos): TestRunReposInstall_JiraCredentialsWrittenNotPersisted fails on main after the Jira poll workflow check",https://github.com/fullsend-ai/fullsend/issues/9181
+2026-11-07,fullsend,issue,closed,9178,"test(forge/github): TestDo_PrimaryRateLimitWithoutResetKeepsBackoff fails ~2% on jitter",https://github.com/fullsend-ai/fullsend/issues/9178
+2026-11-07,fullsend,issue,closed,9176,"jira: accept OAuth 2.0 client credentials for Atlassian service accounts",https://github.com/fullsend-ai/fullsend/issues/9176
+2026-11-07,fullsend,issue,closed,9046,"runtime: dummy-runtime behaviour operations do not see the harness environment from .env",https://github.com/fullsend-ai/fullsend/issues/9046
+2026-11-07,fullsend,issue,closed,8906,"Integrate Jira tracking config, polling, and clients",https://github.com/fullsend-ai/fullsend/issues/8906

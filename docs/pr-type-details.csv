@@ -2336,3 +2336,10 @@ date,repo,number,title,pr_type,fix_source,issue_number,issue_author,url
 2026-11-05,agents,1863,feat(#519): let the fix agent update stale PR/MR title and body,feat,,,,https://github.com/fullsend-ai/agents/pull/1863
 2026-11-05,agents,1839,fix(#1838): accept null summaries for omitted scribe topics,fix,core,1838,ascerra,https://github.com/fullsend-ai/agents/pull/1839
 2026-11-05,agents,1381,fix(#1379): bound scribe Slack webhook and drop bc,fix,core,1379,ascerra,https://github.com/fullsend-ai/agents/pull/1381
+2026-11-07,fullsend,9184,test(#9181): seed Jira poll workflow in install creds test,test,,,,https://github.com/fullsend-ai/fullsend/pull/9184
+2026-11-07,fullsend,9183,feat(#9176): support Jira OAuth credentials across GitHub and GitLab,feat,,,,https://github.com/fullsend-ai/fullsend/pull/9183
+2026-11-07,fullsend,9180,test(#9178): bound secondary backoff assertion by jitter max,test,,,,https://github.com/fullsend-ai/fullsend/pull/9180
+2026-11-07,fullsend,9102,feat(cli)!: add stable diagnostic codes to lint JSON output,feat,,,,https://github.com/fullsend-ai/fullsend/pull/9102
+2026-11-07,fullsend,9055,fix(#9046): load harness .env in dummy runtime behaviour ops,fix,external,9046,jctanner,https://github.com/fullsend-ai/fullsend/pull/9055
+2026-11-07,agents,1914,feat(#1900)!: support bot and service-account Jira authentication,feat,,,,https://github.com/fullsend-ai/agents/pull/1914
+2026-11-07,agents,1912,fix(#1911): skip Jira code runs on human PRs or child issues,fix,core,1911,waynesun09,https://github.com/fullsend-ai/agents/pull/1912
