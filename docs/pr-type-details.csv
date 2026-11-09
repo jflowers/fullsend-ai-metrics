@@ -2343,3 +2343,6 @@ date,repo,number,title,pr_type,fix_source,issue_number,issue_author,url
 2026-11-07,fullsend,9055,fix(#9046): load harness .env in dummy runtime behaviour ops,fix,external,9046,jctanner,https://github.com/fullsend-ai/fullsend/pull/9055
 2026-11-07,agents,1914,feat(#1900)!: support bot and service-account Jira authentication,feat,,,,https://github.com/fullsend-ai/agents/pull/1914
 2026-11-07,agents,1912,fix(#1911): skip Jira code runs on human PRs or child issues,fix,core,1911,waynesun09,https://github.com/fullsend-ai/agents/pull/1912
+2026-11-08,fullsend,9192,chore(deps): update sigstore/cosign-installer action to v4.1.3,chore,,,,https://github.com/fullsend-ai/fullsend/pull/9192
+2026-11-08,fullsend,9190,docs(behaviour): explain the two quota counters,docs,,,,https://github.com/fullsend-ai/fullsend/pull/9190
+2026-11-08,fullsend,9103,feat(#9071): fill head_sha for every GitLab merge request event,feat,,,,https://github.com/fullsend-ai/fullsend/pull/9103

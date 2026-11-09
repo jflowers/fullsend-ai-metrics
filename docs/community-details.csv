@@ -2757,3 +2757,12 @@ date,repo,type,event,number,actor,title,url
 2026-11-07,strat-creator,issue,opened_external,107,jctanner,"Qualify the agentId↔agent_id correlation with a paired native interactive fixture (forked-Skill receipt + SubagentStop for the same fork)",https://github.com/fullsend-ai/strat-creator/issues/107
 2026-11-07,strat-creator,pr,reviewed_external,106,jctanner,"fix(#105): capture forked reviewer reports at delivery",https://github.com/fullsend-ai/strat-creator/pull/106
 2026-11-07,strat-creator,pr,reviewed_external,106,jctanner,"fix(#105): capture forked reviewer reports at delivery",https://github.com/fullsend-ai/strat-creator/pull/106
+2026-11-08,fullsend,issue,opened_external,9197,Benkapner,"cli: scan context reports ""All context files clean"" when requested files cannot be read",https://github.com/fullsend-ai/fullsend/issues/9197
+2026-11-08,fullsend,issue,closed_via_pr_external,9071,AshwinUgale,"feat(poll): fill head_sha for every GitLab merge request event",https://github.com/fullsend-ai/fullsend/issues/9071
+2026-11-08,fullsend,pr,opened_core,9199,ifireball,"docs(adr): define entity source bindings and execution integration",https://github.com/fullsend-ai/fullsend/pull/9199
+2026-11-08,epic-creator,pr,reviewed_external,45,csoceanu,"docs(AISDLC-90): add target repository mapping ADR",https://github.com/fullsend-ai/epic-creator/pull/45
+2026-11-08,epic-creator,pr,reviewed_external,45,csoceanu,"docs(AISDLC-90): add target repository mapping ADR",https://github.com/fullsend-ai/epic-creator/pull/45
+2026-11-08,epic-creator,pr,reviewed_external,45,csoceanu,"docs(AISDLC-90): add target repository mapping ADR",https://github.com/fullsend-ai/epic-creator/pull/45
+2026-11-08,epic-creator,pr,reviewed_external,45,csoceanu,"docs(AISDLC-90): add target repository mapping ADR",https://github.com/fullsend-ai/epic-creator/pull/45
+2026-11-08,agents,pr,reviewed_external,1916,csoceanu,"feat(prioritize): add dark Jira forge for RICE field writes",https://github.com/fullsend-ai/agents/pull/1916
+2026-11-08,agents,pr,reviewed_external,1916,csoceanu,"feat(prioritize): add dark Jira forge for RICE field writes",https://github.com/fullsend-ai/agents/pull/1916
