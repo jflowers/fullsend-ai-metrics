@@ -2766,3 +2766,85 @@ date,repo,type,event,number,actor,title,url
 2026-11-08,epic-creator,pr,reviewed_external,45,csoceanu,"docs(AISDLC-90): add target repository mapping ADR",https://github.com/fullsend-ai/epic-creator/pull/45
 2026-11-08,agents,pr,reviewed_external,1916,csoceanu,"feat(prioritize): add dark Jira forge for RICE field writes",https://github.com/fullsend-ai/agents/pull/1916
 2026-11-08,agents,pr,reviewed_external,1916,csoceanu,"feat(prioritize): add dark Jira forge for RICE field writes",https://github.com/fullsend-ai/agents/pull/1916
+2026-11-09,fullsend,issue,opened_external,9232,dhshah13,"repos install does not restore a deleted GitLab poll or agent template",https://github.com/fullsend-ai/fullsend/issues/9232
+2026-11-09,fullsend,issue,opened_external,9221,ravelley,"Prepare PR automation for GitHub’s December 2 pull_request_target default block",https://github.com/fullsend-ai/fullsend/issues/9221
+2026-11-09,fullsend,issue,opened_external,9220,jwm4,"Jira: mint and refresh the sandbox Jira provider credential from OAuth 2.0 client credentials",https://github.com/fullsend-ai/fullsend/issues/9220
+2026-11-09,fullsend,issue,opened_external,9217,gwenneg,"self-update: rolling back to a release without the command gives no warning",https://github.com/fullsend-ai/fullsend/issues/9217
+2026-11-09,fullsend,issue,opened_external,9213,gwenneg,"docs: guides don't mention `fullsend self-update` for updating the CLI",https://github.com/fullsend-ai/fullsend/issues/9213
+2026-11-09,fullsend,issue,opened_external,9211,jctanner,"readonly_repo harnesses fail on OpenShell's Kubernetes driver: the .git chown assumes an identity the driver does not provide",https://github.com/fullsend-ai/fullsend/issues/9211
+2026-11-09,fullsend,issue,opened_external,9210,dhshah13,"ci: internal/runtime tests hit go test's default 10m timeout on ubuntu runners",https://github.com/fullsend-ai/fullsend/issues/9210
+2026-11-09,fullsend,issue,opened_external,9207,yvonnedevlinrh,"security(runtime/opencode): prevent agent execution when the hook plugin fails to initialize",https://github.com/fullsend-ai/fullsend/issues/9207
+2026-11-09,fullsend,issue,opened_external,9203,csoceanu,"action: make runtime dependency setup resilient to transient download failures",https://github.com/fullsend-ai/fullsend/issues/9203
+2026-11-09,fullsend,issue,closed_via_pr_external,9203,csoceanu,"action: make runtime dependency setup resilient to transient download failures",https://github.com/fullsend-ai/fullsend/issues/9203
+2026-11-09,fullsend,issue,closed_via_pr_external,9048,jctanner,"images: fullsend-code sandboxes never become Ready on OpenShell's Kubernetes driver because /sandbox/.cache/gopls is unreadable",https://github.com/fullsend-ai/fullsend/issues/9048
+2026-11-09,fullsend,issue,closed_via_pr_external,9044,jctanner,"action: agent action sets up a local sandbox host even when an OpenShell gateway endpoint is configured",https://github.com/fullsend-ai/fullsend/issues/9044
+2026-11-09,fullsend,pr,opened_core,9227,waynesun09,"docs(adr): add ADR 0164, run the shim on pull_request for same-repo PRs",https://github.com/fullsend-ai/fullsend/pull/9227
+2026-11-09,fullsend,pr,opened_core,9215,waynesun09,"docs(adr): add ADR 0163, repo config limits the live progress log",https://github.com/fullsend-ai/fullsend/pull/9215
+2026-11-09,fullsend,pr,reviewed_external,9215,tgeagle081,"docs(adr): add ADR 0163, repo config limits the live progress log",https://github.com/fullsend-ai/fullsend/pull/9215
+2026-11-09,fullsend,pr,reviewed_external,9212,jctanner,"fix(#9211): guard readonly_repo .git chown to root exec users",https://github.com/fullsend-ai/fullsend/pull/9212
+2026-11-09,fullsend,pr,reviewed_external,9212,jctanner,"fix(#9211): guard readonly_repo .git chown to root exec users",https://github.com/fullsend-ai/fullsend/pull/9212
+2026-11-09,fullsend,pr,reviewed_external,9212,jctanner,"fix(#9211): guard readonly_repo .git chown to root exec users",https://github.com/fullsend-ai/fullsend/pull/9212
+2026-11-09,fullsend,pr,reviewed_external,9212,jctanner,"fix(#9211): guard readonly_repo .git chown to root exec users",https://github.com/fullsend-ai/fullsend/pull/9212
+2026-11-09,fullsend,pr,reviewed_external,9056,jctanner,"fix(#9038): address configured GitHub host in run fallback and status",https://github.com/fullsend-ai/fullsend/pull/9056
+2026-11-09,fullsend,pr,reviewed_external,9056,jctanner,"fix(#9038): address configured GitHub host in run fallback and status",https://github.com/fullsend-ai/fullsend/pull/9056
+2026-11-09,fullsend,pr,reviewed_external,9056,jctanner,"fix(#9038): address configured GitHub host in run fallback and status",https://github.com/fullsend-ai/fullsend/pull/9056
+2026-11-09,fullsend,pr,reviewed_external,9056,jctanner,"fix(#9038): address configured GitHub host in run fallback and status",https://github.com/fullsend-ai/fullsend/pull/9056
+2026-11-09,fullsend,pr,reviewed_external,9056,jctanner,"fix(#9038): address configured GitHub host in run fallback and status",https://github.com/fullsend-ai/fullsend/pull/9056
+2026-11-09,fullsend,pr,reviewed_external,9056,jctanner,"fix(#9038): address configured GitHub host in run fallback and status",https://github.com/fullsend-ai/fullsend/pull/9056
+2026-11-09,fullsend,pr,reviewed_external,9056,jctanner,"fix(#9038): address configured GitHub host in run fallback and status",https://github.com/fullsend-ai/fullsend/pull/9056
+2026-11-09,fullsend,pr,reviewed_external,9056,jctanner,"fix(#9038): address configured GitHub host in run fallback and status",https://github.com/fullsend-ai/fullsend/pull/9056
+2026-11-09,fullsend,pr,reviewed_external,9056,jctanner,"fix(#9038): address configured GitHub host in run fallback and status",https://github.com/fullsend-ai/fullsend/pull/9056
+2026-11-09,fullsend,pr,reviewed_external,9054,jctanner,"fix(#9043): use the job's host for action release lookups and clones",https://github.com/fullsend-ai/fullsend/pull/9054
+2026-11-09,fullsend,pr,reviewed_external,8944,tgeagle081,"docs(problems): examine private context in public agent workflows",https://github.com/fullsend-ai/fullsend/pull/8944
+2026-11-09,agent-eval-harness,issue,opened_external,301,ravelley,"Support --json output from the workspace preparation script",https://github.com/fullsend-ai/agent-eval-harness/issues/301
+2026-11-09,agent-eval-harness,issue,opened_external,300,ravelley,"Case-mode aggregation can report success when a case times out",https://github.com/fullsend-ai/agent-eval-harness/issues/300
+2026-11-09,agent-eval-harness,issue,closed_via_pr_external,301,ravelley,"Support --json output from the workspace preparation script",https://github.com/fullsend-ai/agent-eval-harness/issues/301
+2026-11-09,agent-eval-harness,issue,closed_via_pr_external,300,ravelley,"Case-mode aggregation can report success when a case times out",https://github.com/fullsend-ai/agent-eval-harness/issues/300
+2026-11-09,agent-eval-harness,pr,reviewed_external,303,ravelley,"feat(eval-run): add --json output to workspace.py",https://github.com/fullsend-ai/agent-eval-harness/pull/303
+2026-11-09,agent-eval-harness,pr,reviewed_external,302,ravelley,"fix(eval-run): fail case-mode runs when any case exits non-zero",https://github.com/fullsend-ai/agent-eval-harness/pull/302
+2026-11-09,agent-eval-harness,pr,reviewed_external,302,ravelley,"fix(eval-run): fail case-mode runs when any case exits non-zero",https://github.com/fullsend-ai/agent-eval-harness/pull/302
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,strat-creator,pr,reviewed_external,100,jctanner,"Pluggable planning workloads: type registry and Initiative strategies",https://github.com/fullsend-ai/strat-creator/pull/100
+2026-11-09,epic-creator,pr,reviewed_external,54,astefanutti,"Skip the first revise for strategies whose review is a clean pass",https://github.com/fullsend-ai/epic-creator/pull/54
+2026-11-09,epic-creator,pr,reviewed_external,54,astefanutti,"Skip the first revise for strategies whose review is a clean pass",https://github.com/fullsend-ai/epic-creator/pull/54
+2026-11-09,epic-creator,pr,reviewed_external,40,jctanner,"AISDLC-61: [Epic Decomposer] Add descriptor-driven planning, submission and recovery",https://github.com/fullsend-ai/epic-creator/pull/40
+2026-11-09,agents,issue,opened_external,1927,christianvogt,"code-implementation skill: apply PR template guidance in HTML comments",https://github.com/fullsend-ai/agents/issues/1927
+2026-11-09,agents,issue,opened_external,1926,jwm4,"Jira agents: accept a service account's OAuth 2.0 client credentials",https://github.com/fullsend-ai/agents/issues/1926
+2026-11-09,agents,pr,reviewed_external,1871,jctanner,"fix(#1865): accept triage issue URLs on the run's GitHub host",https://github.com/fullsend-ai/agents/pull/1871
+2026-11-09,agents,pr,reviewed_external,1871,jctanner,"fix(#1865): accept triage issue URLs on the run's GitHub host",https://github.com/fullsend-ai/agents/pull/1871
+2026-11-09,agents,pr,reviewed_external,1796,andrewevansrh,"fix(#1795): run scribe content gates before gates that log content",https://github.com/fullsend-ai/agents/pull/1796

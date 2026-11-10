@@ -16659,3 +16659,66 @@ date,repo,type,event,number,title,url
 2026-11-08,fullsend,pr,merged,9103,"feat(#9071): fill head_sha for every GitLab merge request event",https://github.com/fullsend-ai/fullsend/pull/9103
 2026-11-08,fullsend,issue,opened,9197,"cli: scan context reports ""All context files clean"" when requested files cannot be read",https://github.com/fullsend-ai/fullsend/issues/9197
 2026-11-08,fullsend,issue,closed,9071,"feat(poll): fill head_sha for every GitLab merge request event",https://github.com/fullsend-ai/fullsend/issues/9071
+2026-11-09,fullsend,pr,opened,9241,"ci(#9240): watch the GitHub changelog for Actions platform changes",https://github.com/fullsend-ai/fullsend/pull/9241
+2026-11-09,fullsend,pr,opened,9234,"fix(#9232): restore deleted GitLab poll and agent templates",https://github.com/fullsend-ai/fullsend/pull/9234
+2026-11-09,fullsend,pr,opened,9233,"feat(#9220): mint the sandbox's Jira token from OAuth 2.0 client credentials",https://github.com/fullsend-ai/fullsend/pull/9233
+2026-11-09,fullsend,pr,opened,9230,"fix(dispatch)!: move the shim from pull_request_target to pull_request",https://github.com/fullsend-ai/fullsend/pull/9230
+2026-11-09,fullsend,pr,opened,9229,"ci(#9226): pin uvx and npx tool versions in hooks and Makefile",https://github.com/fullsend-ai/fullsend/pull/9229
+2026-11-09,fullsend,pr,opened,9227,"docs(adr): add ADR 0164, run the shim on pull_request for same-repo PRs",https://github.com/fullsend-ai/fullsend/pull/9227
+2026-11-09,fullsend,pr,opened,9222,"docs(#7175): document the scribe agent under docs/agents/",https://github.com/fullsend-ai/fullsend/pull/9222
+2026-11-09,fullsend,pr,opened,9219,"feat(#9218)!: set JIRA_API_URL and JIRA_BASE_URL for Jira-sourced runs",https://github.com/fullsend-ai/fullsend/pull/9219
+2026-11-09,fullsend,pr,opened,9216,"chore(deps): update dependency vite to v6.4.6",https://github.com/fullsend-ai/fullsend/pull/9216
+2026-11-09,fullsend,pr,opened,9215,"docs(adr): add ADR 0163, repo config limits the live progress log",https://github.com/fullsend-ai/fullsend/pull/9215
+2026-11-09,fullsend,pr,opened,9214,"feat(cli): add e2e authorization check command (2/3)",https://github.com/fullsend-ai/fullsend/pull/9214
+2026-11-09,fullsend,pr,opened,9212,"fix(#9211): guard readonly_repo .git chown to root exec users",https://github.com/fullsend-ai/fullsend/pull/9212
+2026-11-09,fullsend,pr,opened,9209,"chore(#9208): bump fd to 10.5.2 with matching sandbox checksums",https://github.com/fullsend-ai/fullsend/pull/9209
+2026-11-09,fullsend,pr,opened,9206,"fix(actions): report failures before the agent starts",https://github.com/fullsend-ai/fullsend/pull/9206
+2026-11-09,fullsend,pr,opened,9204,"fix(#9203): retry runtime dependency downloads with longer backoff",https://github.com/fullsend-ai/fullsend/pull/9204
+2026-11-09,fullsend,pr,opened,9202,"chore(deps): update ubi10 base images",https://github.com/fullsend-ai/fullsend/pull/9202
+2026-11-09,fullsend,pr,opened,9201,"chore(e2e): run e2e suites when reusable-prioritize.yml changes",https://github.com/fullsend-ai/fullsend/pull/9201
+2026-11-09,fullsend,pr,merged,9229,"ci(#9226): pin uvx and npx tool versions in hooks and Makefile",https://github.com/fullsend-ai/fullsend/pull/9229
+2026-11-09,fullsend,pr,merged,9219,"feat(#9218)!: set JIRA_API_URL and JIRA_BASE_URL for Jira-sourced runs",https://github.com/fullsend-ai/fullsend/pull/9219
+2026-11-09,fullsend,pr,merged,9204,"fix(#9203): retry runtime dependency downloads with longer backoff",https://github.com/fullsend-ai/fullsend/pull/9204
+2026-11-09,fullsend,pr,merged,9202,"chore(deps): update ubi10 base images",https://github.com/fullsend-ai/fullsend/pull/9202
+2026-11-09,fullsend,pr,merged,9201,"chore(e2e): run e2e suites when reusable-prioritize.yml changes",https://github.com/fullsend-ai/fullsend/pull/9201
+2026-11-09,fullsend,pr,merged,9196,"chore(deps): update cloudflare-workers",https://github.com/fullsend-ai/fullsend/pull/9196
+2026-11-09,fullsend,pr,merged,9195,"fix(#9048): remove the build-time gopls cache from the code image",https://github.com/fullsend-ai/fullsend/pull/9195
+2026-11-09,fullsend,pr,merged,9194,"fix(cli): respect cancellation in fetch-skill",https://github.com/fullsend-ai/fullsend/pull/9194
+2026-11-09,fullsend,pr,merged,9193,"fix(cli): report invalid config forge as a lint diagnostic",https://github.com/fullsend-ai/fullsend/pull/9193
+2026-11-09,fullsend,pr,merged,9189,"chore(deps): update dependency vue to v3.5.45",https://github.com/fullsend-ai/fullsend/pull/9189
+2026-11-09,fullsend,pr,merged,9186,"feat(#7414): report pi calls cut off before they end as unanswered",https://github.com/fullsend-ai/fullsend/pull/9186
+2026-11-09,fullsend,pr,merged,9049,"fix(#9044): skip local sandbox host setup for remote OpenShell gateway",https://github.com/fullsend-ai/fullsend/pull/9049
+2026-11-09,fullsend,pr,merged,9024,"docs(adr): add ADR 0156, separate the Jira API URL from the site URL",https://github.com/fullsend-ai/fullsend/pull/9024
+2026-11-09,fullsend,pr,closed,9185,"chore(deps): update dependency sharkdp/fd to v10.5.2",https://github.com/fullsend-ai/fullsend/pull/9185
+2026-11-09,fullsend,issue,opened,9240,"Watch the GitHub changelog for Actions platform changes (daily, internal CI)",https://github.com/fullsend-ai/fullsend/issues/9240
+2026-11-09,fullsend,issue,opened,9239,"test: flaky mint CF worker test 'aborts a stalled collector fetch within the export budget'",https://github.com/fullsend-ai/fullsend/issues/9239
+2026-11-09,fullsend,issue,opened,9238,"ci: pin the remaining floating tool fetches in workflows, ci-local and make bootstrap",https://github.com/fullsend-ai/fullsend/issues/9238
+2026-11-09,fullsend,issue,opened,9237,"fetch-review-threads emits `""threads"": null` for PRs with zero threads, triggering a false ""invalid or truncated"" warning",https://github.com/fullsend-ai/fullsend/issues/9237
+2026-11-09,fullsend,issue,opened,9236,"Route `labeled: fullsend-fix` to the fix stage when the PR has an outstanding review-bot CHANGES_REQUESTED",https://github.com/fullsend-ai/fullsend/issues/9236
+2026-11-09,fullsend,issue,opened,9235,"coder token has no actions:read, so the fix agent's CI-log recipes always return HTTP 403 on GitHub",https://github.com/fullsend-ai/fullsend/issues/9235
+2026-11-09,fullsend,issue,opened,9232,"repos install does not restore a deleted GitLab poll or agent template",https://github.com/fullsend-ai/fullsend/issues/9232
+2026-11-09,fullsend,issue,opened,9231,"Headless agent sessions: deny ScheduleWakeup/loop/cron tools so a pending wakeup can't keep a finished agent alive",https://github.com/fullsend-ai/fullsend/issues/9231
+2026-11-09,fullsend,issue,opened,9228,"claude runtime: metrics.json num_turns takes only the last result event, undercounting turns when the agent is re-invoked for background sub-agents",https://github.com/fullsend-ai/fullsend/issues/9228
+2026-11-09,fullsend,issue,opened,9226,"ci: pin ty in the pre-commit hook (ty 0.0.100 fails lint-all on every PR) and let Renovate bump uvx/npx pins",https://github.com/fullsend-ai/fullsend/issues/9226
+2026-11-09,fullsend,issue,opened,9225,"CI lint fails on main with 190 ty union-attribute diagnostics",https://github.com/fullsend-ai/fullsend/issues/9225
+2026-11-09,fullsend,issue,opened,9224,"dispatch: accept pull_request wherever pull_request_target is accepted (Go part of #9221)",https://github.com/fullsend-ai/fullsend/issues/9224
+2026-11-09,fullsend,issue,opened,9223,"Sandbox extraction hard-link EEXIST (esbuild) recurred 19 days after #8568/PR #8653's fix",https://github.com/fullsend-ai/fullsend/issues/9223
+2026-11-09,fullsend,issue,opened,9221,"Prepare PR automation for GitHub’s December 2 pull_request_target default block",https://github.com/fullsend-ai/fullsend/issues/9221
+2026-11-09,fullsend,issue,opened,9220,"Jira: mint and refresh the sandbox Jira provider credential from OAuth 2.0 client credentials",https://github.com/fullsend-ai/fullsend/issues/9220
+2026-11-09,fullsend,issue,opened,9218,"Set JIRA_API_URL and JIRA_BASE_URL for Jira-sourced agent runs",https://github.com/fullsend-ai/fullsend/issues/9218
+2026-11-09,fullsend,issue,opened,9217,"self-update: rolling back to a release without the command gives no warning",https://github.com/fullsend-ai/fullsend/issues/9217
+2026-11-09,fullsend,issue,opened,9213,"docs: guides don't mention `fullsend self-update` for updating the CLI",https://github.com/fullsend-ai/fullsend/issues/9213
+2026-11-09,fullsend,issue,opened,9211,"readonly_repo harnesses fail on OpenShell's Kubernetes driver: the .git chown assumes an identity the driver does not provide",https://github.com/fullsend-ai/fullsend/issues/9211
+2026-11-09,fullsend,issue,opened,9210,"ci: internal/runtime tests hit go test's default 10m timeout on ubuntu runners",https://github.com/fullsend-ai/fullsend/issues/9210
+2026-11-09,fullsend,issue,opened,9208,"sandbox: update FD_SHA256 pins for fd 10.5.2 in Renovate PR #9185",https://github.com/fullsend-ai/fullsend/issues/9208
+2026-11-09,fullsend,issue,opened,9207,"security(runtime/opencode): prevent agent execution when the hook plugin fails to initialize",https://github.com/fullsend-ai/fullsend/issues/9207
+2026-11-09,fullsend,issue,opened,9203,"action: make runtime dependency setup resilient to transient download failures",https://github.com/fullsend-ai/fullsend/issues/9203
+2026-11-09,fullsend,issue,closed,9226,"ci: pin ty in the pre-commit hook (ty 0.0.100 fails lint-all on every PR) and let Renovate bump uvx/npx pins",https://github.com/fullsend-ai/fullsend/issues/9226
+2026-11-09,fullsend,issue,closed,9225,"CI lint fails on main with 190 ty union-attribute diagnostics",https://github.com/fullsend-ai/fullsend/issues/9225
+2026-11-09,fullsend,issue,closed,9218,"Set JIRA_API_URL and JIRA_BASE_URL for Jira-sourced agent runs",https://github.com/fullsend-ai/fullsend/issues/9218
+2026-11-09,fullsend,issue,closed,9203,"action: make runtime dependency setup resilient to transient download failures",https://github.com/fullsend-ai/fullsend/issues/9203
+2026-11-09,fullsend,issue,closed,9048,"images: fullsend-code sandboxes never become Ready on OpenShell's Kubernetes driver because /sandbox/.cache/gopls is unreadable",https://github.com/fullsend-ai/fullsend/issues/9048
+2026-11-09,fullsend,issue,closed,9044,"action: agent action sets up a local sandbox host even when an OpenShell gateway endpoint is configured",https://github.com/fullsend-ai/fullsend/issues/9044
+2026-11-09,fullsend,issue,closed,4325,"Extend agent job failure feedback to triage (and all agent types), not just code agent",https://github.com/fullsend-ai/fullsend/issues/4325
+2026-11-09,rfe-creator,pr,opened,298,"Forward Claude Code's Bash budget into the fullsend sandbox (AISDLC-662)",https://github.com/fullsend-ai/rfe-creator/pull/298
+2026-11-09,rfe-creator,pr,merged,298,"Forward Claude Code's Bash budget into the fullsend sandbox (AISDLC-662)",https://github.com/fullsend-ai/rfe-creator/pull/298

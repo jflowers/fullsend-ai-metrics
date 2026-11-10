@@ -2346,3 +2346,18 @@ date,repo,number,title,pr_type,fix_source,issue_number,issue_author,url
 2026-11-08,fullsend,9192,chore(deps): update sigstore/cosign-installer action to v4.1.3,chore,,,,https://github.com/fullsend-ai/fullsend/pull/9192
 2026-11-08,fullsend,9190,docs(behaviour): explain the two quota counters,docs,,,,https://github.com/fullsend-ai/fullsend/pull/9190
 2026-11-08,fullsend,9103,feat(#9071): fill head_sha for every GitLab merge request event,feat,,,,https://github.com/fullsend-ai/fullsend/pull/9103
+2026-11-09,fullsend,9229,ci(#9226): pin uvx and npx tool versions in hooks and Makefile,ci,,,,https://github.com/fullsend-ai/fullsend/pull/9229
+2026-11-09,fullsend,9219,feat(#9218)!: set JIRA_API_URL and JIRA_BASE_URL for Jira-sourced runs,feat,,,,https://github.com/fullsend-ai/fullsend/pull/9219
+2026-11-09,fullsend,9204,fix(#9203): retry runtime dependency downloads with longer backoff,fix,external,9203,csoceanu,https://github.com/fullsend-ai/fullsend/pull/9204
+2026-11-09,fullsend,9202,chore(deps): update ubi10 base images,chore,,,,https://github.com/fullsend-ai/fullsend/pull/9202
+2026-11-09,fullsend,9201,chore(e2e): run e2e suites when reusable-prioritize.yml changes,chore,,,,https://github.com/fullsend-ai/fullsend/pull/9201
+2026-11-09,fullsend,9196,chore(deps): update cloudflare-workers,chore,,,,https://github.com/fullsend-ai/fullsend/pull/9196
+2026-11-09,fullsend,9195,fix(#9048): remove the build-time gopls cache from the code image,fix,external,9048,jctanner,https://github.com/fullsend-ai/fullsend/pull/9195
+2026-11-09,fullsend,9194,fix(cli): respect cancellation in fetch-skill,fix,unlinked,,,https://github.com/fullsend-ai/fullsend/pull/9194
+2026-11-09,fullsend,9193,fix(cli): report invalid config forge as a lint diagnostic,fix,unlinked,,,https://github.com/fullsend-ai/fullsend/pull/9193
+2026-11-09,fullsend,9189,chore(deps): update dependency vue to v3.5.45,chore,,,,https://github.com/fullsend-ai/fullsend/pull/9189
+2026-11-09,fullsend,9186,feat(#7414): report pi calls cut off before they end as unanswered,feat,,,,https://github.com/fullsend-ai/fullsend/pull/9186
+2026-11-09,fullsend,9049,fix(#9044): skip local sandbox host setup for remote OpenShell gateway,fix,external,9044,jctanner,https://github.com/fullsend-ai/fullsend/pull/9049
+2026-11-09,fullsend,9024,"docs(adr): add ADR 0156, separate the Jira API URL from the site URL",docs,,,,https://github.com/fullsend-ai/fullsend/pull/9024
+2026-11-09,agents,1921,fix(#1920): let the code agent download images attached to issues,fix,bot,1920,fullsend-ai-triage[bot],https://github.com/fullsend-ai/agents/pull/1921
+2026-11-09,agents,1918,fix(#1169): write a provisional review result before synthesis,fix,bot,1169,fullsend-ai-retro[bot],https://github.com/fullsend-ai/agents/pull/1918
