@@ -16878,3 +16878,39 @@ date,repo,type,event,number,title,url
 2026-11-14,fullsend,issue,closed,9220,"Jira: mint and refresh the sandbox Jira provider credential from OAuth 2.0 client credentials",https://github.com/fullsend-ai/fullsend/issues/9220
 2026-11-14,fullsend,issue,closed,9041,"cli: token-scope check, `reconcile-status` and `eval-measure` address api.github.com on other GitHub hosts",https://github.com/fullsend-ai/fullsend/issues/9041
 2026-11-14,fullsend,issue,closed,9039,"cli: `fullsend github setup` and `github set` address api.github.com on other GitHub hosts",https://github.com/fullsend-ai/fullsend/issues/9039
+2026-11-15,fullsend,pr,opened,9521,"feat(#9509)!: add harness input_source and allow_forge_write",https://github.com/fullsend-ai/fullsend/pull/9521
+2026-11-15,fullsend,pr,opened,9520,"feat(#9510): print each provider's resolved profile",https://github.com/fullsend-ai/fullsend/pull/9520
+2026-11-15,fullsend,pr,opened,9515,"feat(#9508)!: require allow_durable for durable credential host_files",https://github.com/fullsend-ai/fullsend/pull/9515
+2026-11-15,fullsend,pr,opened,9514,"feat(#9511): warn on GitLab provider credentials from CI/CD variables",https://github.com/fullsend-ai/fullsend/pull/9514
+2026-11-15,fullsend,pr,opened,9507,"fix(#9449): recognize oversized Pi agent_end events",https://github.com/fullsend-ai/fullsend/pull/9507
+2026-11-15,fullsend,pr,opened,9506,"docs(#9402): compare the /fs-* refusal with the Jira body ladder",https://github.com/fullsend-ai/fullsend/pull/9506
+2026-11-15,fullsend,pr,opened,9505,"docs(adr): replace ADR 0160 with a search-based Jira queue",https://github.com/fullsend-ai/fullsend/pull/9505
+2026-11-15,fullsend,pr,opened,9504,"fix(#9503): warn when jira-poll has no agent to dispatch",https://github.com/fullsend-ai/fullsend/pull/9504
+2026-11-15,fullsend,pr,opened,9502,"test(#9501): count only responses in Jira 401 no-retry tests",https://github.com/fullsend-ai/fullsend/pull/9502
+2026-11-15,fullsend,pr,opened,9500,"fix(#9493): apply repo tirith policy on GitLab MRs and shallow checkouts",https://github.com/fullsend-ai/fullsend/pull/9500
+2026-11-15,fullsend,pr,merged,9515,"feat(#9508)!: require allow_durable for durable credential host_files",https://github.com/fullsend-ai/fullsend/pull/9515
+2026-11-15,fullsend,pr,merged,9502,"test(#9501): count only responses in Jira 401 no-retry tests",https://github.com/fullsend-ai/fullsend/pull/9502
+2026-11-15,fullsend,pr,merged,9499,"fix(#9497): classify GitHub 5xx and stream resets in setup as infra",https://github.com/fullsend-ai/fullsend/pull/9499
+2026-11-15,fullsend,pr,merged,9496,"test(#9495): match runs created in the trigger's own second",https://github.com/fullsend-ai/fullsend/pull/9496
+2026-11-15,fullsend,pr,merged,9216,"chore(deps): update dependency vite to v6.4.6",https://github.com/fullsend-ai/fullsend/pull/9216
+2026-11-15,fullsend,pr,merged,9145,"chore(deps): update experiments digest to d429212",https://github.com/fullsend-ai/fullsend/pull/9145
+2026-11-15,fullsend,pr,merged,9056,"fix(#9038): address configured GitHub host in run fallback and status",https://github.com/fullsend-ai/fullsend/pull/9056
+2026-11-15,fullsend,pr,merged,9052,"fix(#9037): parse raw-content URLs on configured GitHub hosts",https://github.com/fullsend-ai/fullsend/pull/9052
+2026-11-15,fullsend,issue,opened,9519,"harness: classify the uploaded host_files snapshot and refuse unclassifiable sources",https://github.com/fullsend-ai/fullsend/issues/9519
+2026-11-15,fullsend,issue,opened,9518,"Jira status: close on merge, and gate transitions by issue type",https://github.com/fullsend-ai/fullsend/issues/9518
+2026-11-15,fullsend,issue,opened,9517,"sticky: remove the history folding and keep_history now that every result is a new comment",https://github.com/fullsend-ai/fullsend/issues/9517
+2026-11-15,fullsend,issue,opened,9516,"jira/adf: reword the comments that cite sticky.BuildUpdatedBody when the history folding is removed",https://github.com/fullsend-ai/fullsend/issues/9516
+2026-11-15,fullsend,issue,opened,9513,"dispatch: derive a run's input_source from the matched event",https://github.com/fullsend-ai/fullsend/issues/9513
+2026-11-15,fullsend,issue,opened,9512,"design: content check for mounted host files on proxied egress",https://github.com/fullsend-ai/fullsend/issues/9512
+2026-11-15,fullsend,issue,opened,9511,"GitLab: prefer OIDC-minted credentials over CI/CD variables for provider credentials",https://github.com/fullsend-ai/fullsend/issues/9511
+2026-11-15,fullsend,issue,opened,9510,"run report: show the resolved egress preset per provider",https://github.com/fullsend-ai/fullsend/issues/9510
+2026-11-15,fullsend,issue,opened,9509,"harness: declare where a run's input text comes from",https://github.com/fullsend-ai/fullsend/issues/9509
+2026-11-15,fullsend,issue,opened,9508,"harness: flag host_files mounts of credentials the run cannot revoke",https://github.com/fullsend-ai/fullsend/issues/9508
+2026-11-15,fullsend,issue,opened,9503,"jira-poll: dispatches nothing unless agents are registered in config, and the installer registers none",https://github.com/fullsend-ai/fullsend/issues/9503
+2026-11-15,fullsend,issue,opened,9501,"test(jira): TestToken_UnauthorizedIsNotRetried is flaky on a transient-transport retry",https://github.com/fullsend-ai/fullsend/issues/9501
+2026-11-15,fullsend,issue,closed,9508,"harness: flag host_files mounts of credentials the run cannot revoke",https://github.com/fullsend-ai/fullsend/issues/9508
+2026-11-15,fullsend,issue,closed,9501,"test(jira): TestToken_UnauthorizedIsNotRetried is flaky on a transient-transport retry",https://github.com/fullsend-ai/fullsend/issues/9501
+2026-11-15,fullsend,issue,closed,9498,"e2e: redact and upload behaviour/playback debug artifacts only on failing runs",https://github.com/fullsend-ai/fullsend/issues/9498
+2026-11-15,fullsend,issue,closed,9497,"behaviourtest: GitHub 5xx and transport errors during repo setup classify as scenario, so the infra retry never runs",https://github.com/fullsend-ai/fullsend/issues/9497
+2026-11-15,fullsend,issue,closed,9495,"behaviourtest: runs and artifacts created in the same second as the trigger are missed",https://github.com/fullsend-ai/fullsend/issues/9495
+2026-11-15,fullsend,issue,closed,9038,"run: agents-repo fallback and the run's status comment address github.com on other GitHub hosts",https://github.com/fullsend-ai/fullsend/issues/9038
