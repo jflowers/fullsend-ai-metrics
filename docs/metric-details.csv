@@ -16914,3 +16914,72 @@ date,repo,type,event,number,title,url
 2026-11-15,fullsend,issue,closed,9497,"behaviourtest: GitHub 5xx and transport errors during repo setup classify as scenario, so the infra retry never runs",https://github.com/fullsend-ai/fullsend/issues/9497
 2026-11-15,fullsend,issue,closed,9495,"behaviourtest: runs and artifacts created in the same second as the trigger are missed",https://github.com/fullsend-ai/fullsend/issues/9495
 2026-11-15,fullsend,issue,closed,9038,"run: agents-repo fallback and the run's status comment address github.com on other GitHub hosts",https://github.com/fullsend-ai/fullsend/issues/9038
+2026-11-16,fullsend,pr,opened,9567,"feat(#7414): pass codex tool call ids, arguments and results through",https://github.com/fullsend-ai/fullsend/pull/9567
+2026-11-16,fullsend,pr,opened,9565,"fix(#9564): keep inherited agent settings out of agent set writes",https://github.com/fullsend-ai/fullsend/pull/9565
+2026-11-16,fullsend,pr,opened,9563,"fix(#9532)!: include cached tokens in gen_ai.usage.input_tokens",https://github.com/fullsend-ai/fullsend/pull/9563
+2026-11-16,fullsend,pr,opened,9561,"docs(#9451): add platform capability matrix for GitHub, GitLab, Jira",https://github.com/fullsend-ai/fullsend/pull/9561
+2026-11-16,fullsend,pr,opened,9560,"docs(adr): scope ADR 0139 coverage to agents with an eval suite",https://github.com/fullsend-ai/fullsend/pull/9560
+2026-11-16,fullsend,pr,opened,9557,"chore(deps): update dependency anomalyco/opencode to v1.19.5",https://github.com/fullsend-ai/fullsend/pull/9557
+2026-11-16,fullsend,pr,opened,9555,"fix(#5705): preserve escaping backslashes in JSON strings during redaction",https://github.com/fullsend-ai/fullsend/pull/9555
+2026-11-16,fullsend,pr,opened,9554,"chore(#9553): limit pre-commit semgrep hook to Go files",https://github.com/fullsend-ai/fullsend/pull/9554
+2026-11-16,fullsend,pr,opened,9549,"fix(#9537): export TARGET_REPO_DIR as an absolute path",https://github.com/fullsend-ai/fullsend/pull/9549
+2026-11-16,fullsend,pr,opened,9528,"fix(#9527): warn when GitLab Free polling spends compute minutes",https://github.com/fullsend-ai/fullsend/pull/9528
+2026-11-16,fullsend,pr,opened,9524,"feat(forge): add Forgejo/Gitea forge.Client",https://github.com/fullsend-ai/fullsend/pull/9524
+2026-11-16,fullsend,pr,opened,9523,"chore(deps): update ubi10 base images",https://github.com/fullsend-ai/fullsend/pull/9523
+2026-11-16,fullsend,pr,opened,9522,"feat(forge): add Forgejo/Gitea forge.Client",https://github.com/fullsend-ai/fullsend/pull/9522
+2026-11-16,fullsend,pr,merged,9554,"chore(#9553): limit pre-commit semgrep hook to Go files",https://github.com/fullsend-ai/fullsend/pull/9554
+2026-11-16,fullsend,pr,merged,9523,"chore(deps): update ubi10 base images",https://github.com/fullsend-ai/fullsend/pull/9523
+2026-11-16,fullsend,pr,merged,9520,"feat(#9510): print each provider's resolved profile",https://github.com/fullsend-ai/fullsend/pull/9520
+2026-11-16,fullsend,pr,merged,9514,"feat(#9511): warn on GitLab provider credentials from CI/CD variables",https://github.com/fullsend-ai/fullsend/pull/9514
+2026-11-16,fullsend,pr,merged,9314,"docs(#9310): align entity-context-snapshot v2 with normalized entity",https://github.com/fullsend-ai/fullsend/pull/9314
+2026-11-16,fullsend,pr,merged,9061,"chore(e2e): split org pool setup into manual, enroll, and CI scripts",https://github.com/fullsend-ai/fullsend/pull/9061
+2026-11-16,fullsend,issue,opened,9568,"reusable-dispatch: export FULLSEND_APP_SET to the triage agent step",https://github.com/fullsend-ai/fullsend/issues/9568
+2026-11-16,fullsend,issue,opened,9566,"Expand commit linter and PR linter rules",https://github.com/fullsend-ai/fullsend/issues/9566
+2026-11-16,fullsend,issue,opened,9564,"agent set --effort writes an inherited model to config.yaml",https://github.com/fullsend-ai/fullsend/issues/9564
+2026-11-16,fullsend,issue,opened,9562,"Exclude conflict merge commits from fix iteration count in count-fix-commits.jq",https://github.com/fullsend-ai/fullsend/issues/9562
+2026-11-16,fullsend,issue,opened,9559,"telemetry: record model-call retries on the agent span",https://github.com/fullsend-ai/fullsend/issues/9559
+2026-11-16,fullsend,issue,opened,9558,"Review agent cleared a bump's breaking changes after checking only the headline one; enumerate every breaking change against the repo's own config",https://github.com/fullsend-ai/fullsend/issues/9558
+2026-11-16,fullsend,issue,opened,9556,"harness: tests and doc tidy-ups for URL-fetched api_servers[].script",https://github.com/fullsend-ai/fullsend/issues/9556
+2026-11-16,fullsend,issue,opened,9553,"pre-commit: Limit Semgrep to Go files in the commit",https://github.com/fullsend-ai/fullsend/issues/9553
+2026-11-16,fullsend,issue,opened,9552,"Implement scheduled entity discovery for harness evaluation (ADR 0098 / ADR 0149)",https://github.com/fullsend-ai/fullsend/issues/9552
+2026-11-16,fullsend,issue,opened,9551,"Implement event-backed entity-first harness evaluation (ADR 0098)",https://github.com/fullsend-ai/fullsend/issues/9551
+2026-11-16,fullsend,issue,opened,9550,"Choose Forgejo target identity in repository configuration",https://github.com/fullsend-ai/fullsend/issues/9550
+2026-11-16,fullsend,issue,opened,9548,"Set Forgejo behavior-test coverage and CI gates",https://github.com/fullsend-ai/fullsend/issues/9548
+2026-11-16,fullsend,issue,opened,9547,"Define the one-command local Forgejo development stack",https://github.com/fullsend-ai/fullsend/issues/9547
+2026-11-16,fullsend,issue,opened,9546,"Choose the Forgejo CI driver and workflow contract",https://github.com/fullsend-ai/fullsend/issues/9546
+2026-11-16,fullsend,issue,opened,9545,"Choose Forgejo installation and maintenance commands",https://github.com/fullsend-ai/fullsend/issues/9545
+2026-11-16,fullsend,issue,opened,9544,"Choose Forgejo event ingestion and dispatch semantics",https://github.com/fullsend-ai/fullsend/issues/9544
+2026-11-16,fullsend,issue,opened,9543,"Choose the Forgejo credential and actor authorization contract",https://github.com/fullsend-ai/fullsend/issues/9543
+2026-11-16,fullsend,issue,opened,9542,"Choose supported Forgejo deployments and version policy",https://github.com/fullsend-ai/fullsend/issues/9542
+2026-11-16,fullsend,issue,opened,9541,"Assess Forgejo credentials, role identity, and actor verification",https://github.com/fullsend-ai/fullsend/issues/9541
+2026-11-16,fullsend,issue,opened,9540,"Assess Forgejo Actions and runner support for Fullsend workflows",https://github.com/fullsend-ai/fullsend/issues/9540
+2026-11-16,fullsend,issue,opened,9539,"Map Forgejo API and webhook coverage for Fullsend",https://github.com/fullsend-ai/fullsend/issues/9539
+2026-11-16,fullsend,issue,opened,9538,"Wayfinder: Forgejo support, behavior drivers, and local development",https://github.com/fullsend-ai/fullsend/issues/9538
+2026-11-16,fullsend,issue,opened,9537,"`fullsend run` exports a relative `TARGET_REPO_DIR`, so a post-script on GitLab looks in the run directory",https://github.com/fullsend-ai/fullsend/issues/9537
+2026-11-16,fullsend,issue,opened,9536,"issues transition: resolve started and closed from Jira status categories, so repos keep no status names",https://github.com/fullsend-ai/fullsend/issues/9536
+2026-11-16,fullsend,issue,opened,9535,"Close the linked Jira issue when a pull request merges (post-merge design and Jira status sync)",https://github.com/fullsend-ai/fullsend/issues/9535
+2026-11-16,fullsend,issue,opened,9534,"fullsend issues transition: add --if-issue-type predicate to gate Jira transitions by issue type",https://github.com/fullsend-ai/fullsend/issues/9534
+2026-11-16,fullsend,issue,opened,9533,"docs: tracing-with-mlflow recommends OTEL_RESOURCE_ATTRIBUTES slicing, which MLflow drops at ingest",https://github.com/fullsend-ai/fullsend/issues/9533
+2026-11-16,fullsend,issue,opened,9532,"telemetry: MLflow computes negative cost for fullsend traces (emit mlflow.llm.cost)",https://github.com/fullsend-ai/fullsend/issues/9532
+2026-11-16,fullsend,issue,opened,9530,"cli: print effective layered configuration after composition",https://github.com/fullsend-ai/fullsend/issues/9530
+2026-11-16,fullsend,issue,opened,9529,"scaffold: GitLab upgrade drops runner tags from dispatcher and poller jobs",https://github.com/fullsend-ai/fullsend/issues/9529
+2026-11-16,fullsend,issue,opened,9527,"gitlab: hourly poll schedules exhaust GitLab.com Free compute-minute quota within days",https://github.com/fullsend-ai/fullsend/issues/9527
+2026-11-16,fullsend,issue,opened,9526,"Support a mix of inference credentials per repository in repos install/converge",https://github.com/fullsend-ai/fullsend/issues/9526
+2026-11-16,fullsend,issue,closed,9553,"pre-commit: Limit Semgrep to Go files in the commit",https://github.com/fullsend-ai/fullsend/issues/9553
+2026-11-16,fullsend,issue,closed,9552,"Implement scheduled entity discovery for harness evaluation (ADR 0098 / ADR 0149)",https://github.com/fullsend-ai/fullsend/issues/9552
+2026-11-16,fullsend,issue,closed,9551,"Implement event-backed entity-first harness evaluation (ADR 0098)",https://github.com/fullsend-ai/fullsend/issues/9551
+2026-11-16,fullsend,issue,closed,9545,"Choose Forgejo installation and maintenance commands",https://github.com/fullsend-ai/fullsend/issues/9545
+2026-11-16,fullsend,issue,closed,9542,"Choose supported Forgejo deployments and version policy",https://github.com/fullsend-ai/fullsend/issues/9542
+2026-11-16,fullsend,issue,closed,9541,"Assess Forgejo credentials, role identity, and actor verification",https://github.com/fullsend-ai/fullsend/issues/9541
+2026-11-16,fullsend,issue,closed,9540,"Assess Forgejo Actions and runner support for Fullsend workflows",https://github.com/fullsend-ai/fullsend/issues/9540
+2026-11-16,fullsend,issue,closed,9539,"Map Forgejo API and webhook coverage for Fullsend",https://github.com/fullsend-ai/fullsend/issues/9539
+2026-11-16,fullsend,issue,closed,9518,"Jira status: close on merge, and gate transitions by issue type",https://github.com/fullsend-ai/fullsend/issues/9518
+2026-11-16,fullsend,issue,closed,9511,"GitLab: prefer OIDC-minted credentials over CI/CD variables for provider credentials",https://github.com/fullsend-ai/fullsend/issues/9511
+2026-11-16,fullsend,issue,closed,9510,"run report: show the resolved egress preset per provider",https://github.com/fullsend-ai/fullsend/issues/9510
+2026-11-16,fullsend,issue,closed,9310,"entity-context-snapshot: align shape and coverage with normalized entity",https://github.com/fullsend-ai/fullsend/issues/9310
+2026-11-16,fullsend,issue,closed,8421,"Clarify entity-source discovery requirements for ADR 0098",https://github.com/fullsend-ai/fullsend/issues/8421
+2026-11-16,agent-eval-harness,pr,opened,{,"",
+2026-11-16,agent-eval-harness,pr,opened,"message": "API rate limit exceeded for installation. If you reach out to GitHub Support for help, please include the request ID C0D9:2DE466:2A48:45D7:6AFC6DFD and timestamp 2026-11-17 15:08:45 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https:\/\/docs.github.com\/en\/site-policy\/github-terms\/github-terms-of-service)",,"",
+2026-11-16,agent-eval-harness,pr,opened,"documentation_url": "https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",,"",
+2026-11-16,agent-eval-harness,pr,opened,"status": "403","",
+2026-11-16,agent-eval-harness,pr,opened,},"",
