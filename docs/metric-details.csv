@@ -17109,3 +17109,62 @@ date,repo,type,event,number,title,url
 2026-11-17,rfe-creator,pr,opened,303,"Review recommendation `reclassify`: hold a misfiled item instead of splitting, revising or approving it",https://github.com/fullsend-ai/rfe-creator/pull/303
 2026-11-17,rfe-creator,pr,closed,146,"RHAIFIRST-320: Harden pipeline against shell injection and path traversal",https://github.com/fullsend-ai/rfe-creator/pull/146
 2026-11-17,rfe-creator,issue,opened,302,"Review recommendation `reclassify`: hold a misfiled item instead of splitting, revising or approving it",https://github.com/fullsend-ai/rfe-creator/issues/302
+2026-11-18,fullsend,pr,opened,9682,"fix(#9681): prune unused digest-only Podman images on runners",https://github.com/fullsend-ai/fullsend/pull/9682
+2026-11-18,fullsend,pr,opened,9680,"ci(#9645): add Forgejo behaviour workflow",https://github.com/fullsend-ai/fullsend/pull/9680
+2026-11-18,fullsend,pr,opened,9679,"docs(#9678): define Entity in the glossary",https://github.com/fullsend-ai/fullsend/pull/9679
+2026-11-18,fullsend,pr,opened,9676,"fix(#9675): fail prepare when the Podman secret store is unusable",https://github.com/fullsend-ai/fullsend/pull/9676
+2026-11-18,fullsend,pr,opened,9673,"fix(#9672): commit scaffold files when GitHub tree listing is truncated",https://github.com/fullsend-ai/fullsend/pull/9673
+2026-11-18,fullsend,pr,opened,9668,"chore(deps): update actions/create-github-app-token digest to f418cff",https://github.com/fullsend-ai/fullsend/pull/9668
+2026-11-18,fullsend,pr,opened,9663,"refactor(review): centralize unchanged-diff deduplication",https://github.com/fullsend-ai/fullsend/pull/9663
+2026-11-18,fullsend,pr,opened,9662,"ci(e2e): configure pool orgs in a dedicated workflow",https://github.com/fullsend-ai/fullsend/pull/9662
+2026-11-18,fullsend,pr,opened,9661,"feat(#9602): add fullsend bot-role for harness scripts",https://github.com/fullsend-ai/fullsend/pull/9661
+2026-11-18,fullsend,pr,merged,9679,"docs(#9678): define Entity in the glossary",https://github.com/fullsend-ai/fullsend/pull/9679
+2026-11-18,fullsend,pr,merged,9673,"fix(#9672): commit scaffold files when GitHub tree listing is truncated",https://github.com/fullsend-ai/fullsend/pull/9673
+2026-11-18,fullsend,pr,merged,9659,"test(#9644): add Forgejo behaviour-test driver stubs and selection",https://github.com/fullsend-ai/fullsend/pull/9659
+2026-11-18,fullsend,pr,merged,9658,"fix(#9657): tighten codex dispatch note and cap wait_agent timeouts",https://github.com/fullsend-ai/fullsend/pull/9658
+2026-11-18,fullsend,pr,merged,9606,"fix(deps): update module github.com/cucumber/gherkin/go/v42 to v42.0.1",https://github.com/fullsend-ai/fullsend/pull/9606
+2026-11-18,fullsend,pr,merged,9563,"fix(#9532)!: include cached tokens in gen_ai.usage.input_tokens",https://github.com/fullsend-ai/fullsend/pull/9563
+2026-11-18,fullsend,pr,merged,9549,"fix(#9537): export TARGET_REPO_DIR as an absolute path",https://github.com/fullsend-ai/fullsend/pull/9549
+2026-11-18,fullsend,pr,merged,9521,"feat(#9509)!: add harness input_source and allow_forge_write",https://github.com/fullsend-ai/fullsend/pull/9521
+2026-11-18,fullsend,pr,merged,9436,"test(#9426): make repos and scaffold tests pass on macOS/arm64",https://github.com/fullsend-ai/fullsend/pull/9436
+2026-11-18,fullsend,pr,merged,9422,"feat(#8143)!: let agents entries carry a harness: block (ADR 0162)",https://github.com/fullsend-ai/fullsend/pull/9422
+2026-11-18,fullsend,pr,merged,9387,"fix(#9386)!: emit gen_ai.usage.reasoning.output_tokens",https://github.com/fullsend-ai/fullsend/pull/9387
+2026-11-18,fullsend,pr,merged,9299,"fix(#9298): trim padded wc byte count in review-body pre-fetch",https://github.com/fullsend-ai/fullsend/pull/9299
+2026-11-18,fullsend,pr,merged,9258,"fix(#9255): accept an inference gateway route without inference.auth",https://github.com/fullsend-ai/fullsend/pull/9258
+2026-11-18,fullsend,pr,closed,9631,"docs(adr): add ADR 0175, run GitLab Fullsend jobs in a companion project",https://github.com/fullsend-ai/fullsend/pull/9631
+2026-11-18,fullsend,issue,opened,9681,"gitlab-runner-vm: unused digest-only images bypass Podman pruning",https://github.com/fullsend-ai/fullsend/issues/9681
+2026-11-18,fullsend,issue,opened,9678,"Define Entity in the glossary",https://github.com/fullsend-ai/fullsend/issues/9678
+2026-11-18,fullsend,issue,opened,9677,"feat(jirapoll): let a poll cover more than one Jira project",https://github.com/fullsend-ai/fullsend/issues/9677
+2026-11-18,fullsend,issue,opened,9675,"gitlab-runner-vm: a runner VM whose Podman secret store is unreadable fails every sandbox creation and is never detected",https://github.com/fullsend-ai/fullsend/issues/9675
+2026-11-18,fullsend,issue,opened,9674,"Export FULLSEND_AGENTS_REPO in iteration environment to eliminate workflow run log scraping by retro agent",https://github.com/fullsend-ai/fullsend/issues/9674
+2026-11-18,fullsend,issue,opened,9672,"repos install fails on large GitHub repositories with tree too large (truncated); cannot diff",https://github.com/fullsend-ai/fullsend/issues/9672
+2026-11-18,fullsend,issue,opened,9671,"Vulnerability work on a release that has reached end of life does not stop",https://github.com/fullsend-ai/fullsend/issues/9671
+2026-11-18,fullsend,issue,opened,9670,"No built-in agent decides whether a vulnerability affects a branch",https://github.com/fullsend-ai/fullsend/issues/9670
+2026-11-18,fullsend,issue,opened,9669,"Dependabot alerts do not become work items, so no agent acts on them",https://github.com/fullsend-ai/fullsend/issues/9669
+2026-11-18,fullsend,issue,opened,9667,"fix agent: /fs-fix instruction is cut silently at 4,096 characters, docs promise 10,000 bytes",https://github.com/fullsend-ai/fullsend/issues/9667
+2026-11-18,fullsend,issue,opened,9666,"release: publish a release that contains the gen_ai.usage.reasoning.output_tokens change (#9387)",https://github.com/fullsend-ai/fullsend/issues/9666
+2026-11-18,fullsend,issue,opened,9665,"telemetry: remove the deprecated gen_ai.usage.reasoning_tokens span attribute",https://github.com/fullsend-ai/fullsend/issues/9665
+2026-11-18,fullsend,issue,opened,9664,"fullsend.sh has no way for a visitor to send feedback from the page",https://github.com/fullsend-ai/fullsend/issues/9664
+2026-11-18,fullsend,issue,opened,9660,"Surface persona provider unavailability into the review agent's runtime context before dispatch (refines #6964)",https://github.com/fullsend-ai/fullsend/issues/9660
+2026-11-18,fullsend,issue,closed,9678,"Define Entity in the glossary",https://github.com/fullsend-ai/fullsend/issues/9678
+2026-11-18,fullsend,issue,closed,9672,"repos install fails on large GitHub repositories with tree too large (truncated); cannot diff",https://github.com/fullsend-ai/fullsend/issues/9672
+2026-11-18,fullsend,issue,closed,9644,"Add minimal Forgejo behavior-test driver stubs",https://github.com/fullsend-ai/fullsend/issues/9644
+2026-11-18,fullsend,issue,closed,9537,"`fullsend run` exports a relative `TARGET_REPO_DIR`, so a post-script on GitLab looks in the run directory",https://github.com/fullsend-ai/fullsend/issues/9537
+2026-11-18,fullsend,issue,closed,9532,"telemetry: MLflow computes negative cost for fullsend traces (emit mlflow.llm.cost)",https://github.com/fullsend-ai/fullsend/issues/9532
+2026-11-18,fullsend,issue,closed,9509,"harness: declare where a run's input text comes from",https://github.com/fullsend-ai/fullsend/issues/9509
+2026-11-18,fullsend,issue,closed,9426,"make go-test fails on macOS/arm64 in repos and scaffold tests",https://github.com/fullsend-ai/fullsend/issues/9426
+2026-11-18,fullsend,issue,closed,9386,"telemetry: emit gen_ai.usage.reasoning.output_tokens (GenAI semconv drift)",https://github.com/fullsend-ai/fullsend/issues/9386
+2026-11-18,fullsend,issue,closed,9298,"Review-body pre-fetch tests fail on macOS due to padded byte counts",https://github.com/fullsend-ai/fullsend/issues/9298
+2026-11-18,fullsend,issue,closed,9255,"repos: running inference through a gateway still requires defaults.inference.auth",https://github.com/fullsend-ai/fullsend/issues/9255
+2026-11-18,fullsend,issue,closed,8143,"config: set documented agent variables (e.g. REVIEW_FINDING_SEVERITY_THRESHOLD) from config.yaml agent entries",https://github.com/fullsend-ai/fullsend/issues/8143
+2026-11-18,rfe-creator,pr,opened,305,"fix(#304): keep case-007's dictated stack through the create step",https://github.com/fullsend-ai/rfe-creator/pull/305
+2026-11-18,rfe-creator,pr,merged,303,"Review recommendation `reclassify`: hold a misfiled item instead of splitting, revising or approving it",https://github.com/fullsend-ai/rfe-creator/pull/303
+2026-11-18,rfe-creator,issue,opened,304,"Eval: case-007's dictated stack does not survive the create step, so its revise path and flag-clear are never exercised",https://github.com/fullsend-ai/rfe-creator/issues/304
+2026-11-18,rfe-creator,issue,closed,302,"Review recommendation `reclassify`: hold a misfiled item instead of splitting, revising or approving it",https://github.com/fullsend-ai/rfe-creator/issues/302
+2026-11-18,.fullsend,pr,opened,{,"",
+2026-11-18,.fullsend,pr,opened,"message": "API rate limit exceeded for installation. If you reach out to GitHub Support for help, please include the request ID 1808:399CAA:17D29FA:4C6C058:6AFF0D83 and timestamp 2026-11-19 14:53:55 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https:\/\/docs.github.com\/en\/site-policy\/github-terms\/github-terms-of-service)",,"",
+2026-11-18,.fullsend,pr,opened,"documentation_url": "https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",,"",
+2026-11-18,.fullsend,pr,opened,"status": "403","",
+2026-11-18,.fullsend,pr,opened,},"",
+2026-11-18,org,pr,opened,68,"chore: onboard github-emulator",https://github.com/fullsend-ai/org/pull/68
+2026-11-18,react-shopping-cart,pr,opened,108,"feat(TSTAPP-4): add Black & Red Contrast Hoodie to the catalog",https://github.com/fullsend-ai/react-shopping-cart/pull/108
