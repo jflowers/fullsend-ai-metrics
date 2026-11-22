@@ -17376,3 +17376,26 @@ date,repo,type,event,number,title,url
 2026-11-19,fullsend,issue,closed,1208,"Filter issue_comment events containing slash commands from review dispatch",https://github.com/fullsend-ai/fullsend/issues/1208
 2026-11-19,fullsend,issue,closed,963,"Skip review dispatch when HEAD SHA was already reviewed and approved",https://github.com/fullsend-ai/fullsend/issues/963
 2026-11-19,rfe-creator,pr,opened,306,"Add the react-shopping-cart work item type (Shop RFE → TSTAPP Story)",https://github.com/fullsend-ai/rfe-creator/pull/306
+2026-11-21,fullsend,pr,opened,9776,"ci(#9775): pin the GitHub emulator to 2026.11.21 and update the start-failure rows",https://github.com/fullsend-ai/fullsend/pull/9776
+2026-11-21,fullsend,pr,opened,9774,"ci(behaviour-github-emulator): pin the GitHub emulator to 2026.11.21",https://github.com/fullsend-ai/fullsend/pull/9774
+2026-11-21,fullsend,pr,opened,9773,"ci(#9772): start emulator-job Go build and image pull after stack",https://github.com/fullsend-ai/fullsend/pull/9773
+2026-11-21,fullsend,pr,opened,9771,"docs(#9770): document the behaviour-github-emulator check on a PR",https://github.com/fullsend-ai/fullsend/pull/9771
+2026-11-21,fullsend,pr,opened,9769,"chore(deps): update experiments digest to e10d6db",https://github.com/fullsend-ai/fullsend/pull/9769
+2026-11-21,fullsend,pr,merged,9776,"ci(#9775): pin the GitHub emulator to 2026.11.21 and update the start-failure rows",https://github.com/fullsend-ai/fullsend/pull/9776
+2026-11-21,fullsend,pr,merged,9773,"ci(#9772): start emulator-job Go build and image pull after stack",https://github.com/fullsend-ai/fullsend/pull/9773
+2026-11-21,fullsend,pr,merged,9771,"docs(#9770): document the behaviour-github-emulator check on a PR",https://github.com/fullsend-ai/fullsend/pull/9771
+2026-11-21,fullsend,pr,merged,9769,"chore(deps): update experiments digest to e10d6db",https://github.com/fullsend-ai/fullsend/pull/9769
+2026-11-21,fullsend,pr,merged,9768,"docs(#9767): document moving the GitHub emulator pin",https://github.com/fullsend-ai/fullsend/pull/9768
+2026-11-21,fullsend,pr,closed,9750,"chore(deps): update dependency @earendil-works/pi-coding-agent to v1.6.0 - autoclosed",https://github.com/fullsend-ai/fullsend/pull/9750
+2026-11-21,fullsend,pr,closed,8005,"test(#8004): use bare vertex-ai in behaviour fixtures, explain ADR 0075",https://github.com/fullsend-ai/fullsend/pull/8005
+2026-11-21,fullsend,pr,closed,8001,"docs(#8000): clarify preflight_check ${VAR} expansion is a denylist",https://github.com/fullsend-ai/fullsend/pull/8001
+2026-11-21,fullsend,pr,closed,7987,"fix(#7984): refuse agent set moves that leave the harness stale",https://github.com/fullsend-ai/fullsend/pull/7987
+2026-11-21,fullsend,pr,closed,7978,"fix(#6951): retry agents tag resolution, fall back to main",https://github.com/fullsend-ai/fullsend/pull/7978
+2026-11-21,fullsend,issue,opened,9777,"Disable ONNX Runtime telemetry before the ORT environment starts",https://github.com/fullsend-ai/fullsend/issues/9777
+2026-11-21,fullsend,issue,opened,9775,"docs: update the emulator start-failure row for emulator 2026.11.21",https://github.com/fullsend-ai/fullsend/issues/9775
+2026-11-21,fullsend,issue,opened,9772,"behaviour-github-emulator: start the background Go build and image pull after the emulator is up",https://github.com/fullsend-ai/fullsend/issues/9772
+2026-11-21,fullsend,issue,opened,9770,"docs: working with the behaviour-github-emulator check on a pull request",https://github.com/fullsend-ai/fullsend/issues/9770
+2026-11-21,fullsend,issue,closed,9775,"docs: update the emulator start-failure row for emulator 2026.11.21",https://github.com/fullsend-ai/fullsend/issues/9775
+2026-11-21,fullsend,issue,closed,9772,"behaviour-github-emulator: start the background Go build and image pull after the emulator is up",https://github.com/fullsend-ai/fullsend/issues/9772
+2026-11-21,fullsend,issue,closed,9770,"docs: working with the behaviour-github-emulator check on a pull request",https://github.com/fullsend-ai/fullsend/issues/9770
+2026-11-21,fullsend,issue,closed,9767,"Move the GitHub emulator pin to 2026.11.20.2 and document how to move it",https://github.com/fullsend-ai/fullsend/issues/9767
