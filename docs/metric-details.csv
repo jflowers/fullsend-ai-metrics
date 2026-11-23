@@ -17399,3 +17399,36 @@ date,repo,type,event,number,title,url
 2026-11-21,fullsend,issue,closed,9772,"behaviour-github-emulator: start the background Go build and image pull after the emulator is up",https://github.com/fullsend-ai/fullsend/issues/9772
 2026-11-21,fullsend,issue,closed,9770,"docs: working with the behaviour-github-emulator check on a pull request",https://github.com/fullsend-ai/fullsend/issues/9770
 2026-11-21,fullsend,issue,closed,9767,"Move the GitHub emulator pin to 2026.11.20.2 and document how to move it",https://github.com/fullsend-ai/fullsend/issues/9767
+2026-11-22,fullsend,pr,opened,9796,"feat(#9648): add on-demand Forgejo OAuth login",https://github.com/fullsend-ai/fullsend/pull/9796
+2026-11-22,fullsend,pr,opened,9791,"fix(#9790): prune fs-* sandboxes and reclaim storage under low disk",https://github.com/fullsend-ai/fullsend/pull/9791
+2026-11-22,fullsend,pr,opened,9785,"fix(#9784): wait for GitLab membership changes to propagate",https://github.com/fullsend-ai/fullsend/pull/9785
+2026-11-22,fullsend,pr,opened,9783,"feat(#9647): manage repositories across named Forgejo instances",https://github.com/fullsend-ai/fullsend/pull/9783
+2026-11-22,fullsend,pr,opened,9782,"test(#9315): add OpenBao behaviour tests for Vault runner secrets",https://github.com/fullsend-ai/fullsend/pull/9782
+2026-11-22,fullsend,pr,opened,9781,"chore(deps): update dependency vue to v3.5.46",https://github.com/fullsend-ai/fullsend/pull/9781
+2026-11-22,fullsend,pr,opened,9780,"test(#9779): retry a fresh repo's lost first event and confirm readiness",https://github.com/fullsend-ai/fullsend/pull/9780
+2026-11-22,fullsend,pr,opened,9778,"fix(#9777): disable ONNX Runtime telemetry before ORT starts",https://github.com/fullsend-ai/fullsend/pull/9778
+2026-11-22,fullsend,pr,merged,9783,"feat(#9647): manage repositories across named Forgejo instances",https://github.com/fullsend-ai/fullsend/pull/9783
+2026-11-22,fullsend,pr,merged,9782,"test(#9315): add OpenBao behaviour tests for Vault runner secrets",https://github.com/fullsend-ai/fullsend/pull/9782
+2026-11-22,fullsend,pr,merged,9778,"fix(#9777): disable ONNX Runtime telemetry before ORT starts",https://github.com/fullsend-ai/fullsend/pull/9778
+2026-11-22,fullsend,pr,merged,9697,"test(#9646): provision forgejo-dev stack in the install driver",https://github.com/fullsend-ai/fullsend/pull/9697
+2026-11-22,fullsend,pr,merged,9614,"refactor(#9584): add harness-specific authorized entity view for CEL",https://github.com/fullsend-ai/fullsend/pull/9614
+2026-11-22,fullsend,pr,closed,7950,"fix(#7949): stop leaking injected status/instance values into logs",https://github.com/fullsend-ai/fullsend/pull/7950
+2026-11-22,fullsend,pr,closed,7821,"docs(agents): add migration guide",https://github.com/fullsend-ai/fullsend/pull/7821
+2026-11-22,fullsend,pr,closed,7795,"docs(#7794): extend forge-abstraction to CI scaffold scripts",https://github.com/fullsend-ai/fullsend/pull/7795
+2026-11-22,fullsend,pr,closed,7785,"docs(#7784): document tri-state config field semantics",https://github.com/fullsend-ai/fullsend/pull/7785
+2026-11-22,fullsend,issue,opened,9797,"Content capture can't be set in repos.yaml or per agent",https://github.com/fullsend-ai/fullsend/issues/9797
+2026-11-22,fullsend,issue,opened,9795,"Test coverage for the GitLab pipeline-var opt-in: install provisioning, containment transitions, live status",https://github.com/fullsend-ai/fullsend/issues/9795
+2026-11-22,fullsend,issue,opened,9794,"GitLab pipeline-var gates: distinguish role-unreported, read-failed, and opt-in-not-set errors",https://github.com/fullsend-ai/fullsend/issues/9794
+2026-11-22,fullsend,issue,opened,9793,"Record the pipeline-var opt-in trigger/webhook widening in ADR 0175 and sweep stale no_one_allowed references",https://github.com/fullsend-ai/fullsend/issues/9793
+2026-11-22,fullsend,issue,opened,9792,"GitLab pipeline-var opt-in: record developer/trigger-route exposure conditions and decide role-gating",https://github.com/fullsend-ai/fullsend/issues/9792
+2026-11-22,fullsend,issue,opened,9790,"gitlab-runner-vm: prune fs-* sandboxes and reclaim storage under low disk",https://github.com/fullsend-ai/fullsend/issues/9790
+2026-11-22,fullsend,issue,opened,9789,"repos install: manage a fullsend lint check",https://github.com/fullsend-ai/fullsend/issues/9789
+2026-11-22,fullsend,issue,opened,9788,"repos install: manage fullsend lint job for GitLab",https://github.com/fullsend-ai/fullsend/issues/9788
+2026-11-22,fullsend,issue,opened,9787,"repos install: manage fullsend lint workflow for GitHub",https://github.com/fullsend-ai/fullsend/issues/9787
+2026-11-22,fullsend,issue,opened,9786,"Fix agent should make substantive changes rather than adding explanatory comments when addressing review findings",https://github.com/fullsend-ai/fullsend/issues/9786
+2026-11-22,fullsend,issue,opened,9784,"gitlab: retry service-account membership verification after role updates",https://github.com/fullsend-ai/fullsend/issues/9784
+2026-11-22,fullsend,issue,opened,9779,"behaviour: first event on a fresh slot repo can start no run after the workflow reports active",https://github.com/fullsend-ai/fullsend/issues/9779
+2026-11-22,fullsend,issue,closed,9777,"Disable ONNX Runtime telemetry before the ORT environment starts",https://github.com/fullsend-ai/fullsend/issues/9777
+2026-11-22,fullsend,issue,closed,9647,"Manage repositories across named Forgejo instances",https://github.com/fullsend-ai/fullsend/issues/9647
+2026-11-22,fullsend,issue,closed,9646,"Provision forgejo-dev through the behavior-test install driver",https://github.com/fullsend-ai/fullsend/issues/9646
+2026-11-22,fullsend,issue,closed,9584,"Build a harness-specific authorized entity view for CEL",https://github.com/fullsend-ai/fullsend/issues/9584
